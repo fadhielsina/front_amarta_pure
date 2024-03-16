@@ -14,5 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('landing_page/index');
+});
+
+Route::get('/amarta_pure_water', function () {
+    return view('amarta_pure/index');
 });
