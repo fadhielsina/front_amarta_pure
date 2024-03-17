@@ -10,7 +10,7 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="landing_page/assets/img/favicon.png" rel="icon">
+    <link href="landing_page/assets/img/logo/logo_io/favicon.ico" rel="icon">
     <link href="landing_page/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
@@ -35,9 +35,9 @@
     <header id="header" class="fixed-top ">
         <div class="container d-flex align-items-center">
 
-            <h1 class="logo me-auto"><a href="index.html">PT JTA</a></h1>
+            <!-- <h1 class="logo me-auto"><a href="index.html">PT JTA</a></h1> -->
             <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.html" class="logo me-auto"><img src="landing_page/assets/img/logo.png" alt="" class="img-fluid"></a>-->
+            <a href="index.html" class="logo me-auto"><img src="landing_page/assets/img/logo/logo_jta.png" alt="" class="img-fluid"></a>
 
             <nav id="navbar" class="navbar">
                 <ul>
@@ -61,8 +61,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-                    <h1>JAGAT TIRTA AMARTA</h1>
-                    <h2>merupakan perusahaan yang bergerak di bidang pengolahan air yang memiliki dua unit usaha atau jasa yaitu <b><i><a target="_blank" href="amarta_pure_treatment">Amarta Pure Water Treatment</a></i></b> dan <b><i><a target="_blank" href="amarta_pure_water">Amarta Pure Water</a></i></b></h2>
+                    <h1 style="font-family: Arial, Helvetica, sans-serif;">PT. Jagat Tirta Amarta</h1>
+                    <h2>merupakan perusahaan yang bergerak di bidang pengolahan air yang memiliki dua unit usaha atau jasa yaitu <b><i><a target="_blank" href="amarta_pure_treatment">Amarta Water Treatment</a></i></b> dan <b><i><a target="_blank" href="amarta_pure_water">Amarta Pure Water</a></i></b></h2>
                     <div class="d-flex justify-content-center justify-content-lg-start">
                         <a href="#about" class="btn-get-started scrollto">Get Started</a>
                         <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
@@ -83,31 +83,55 @@
             <div class="container">
 
                 <div class="row" data-aos="zoom-in">
-
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="landing_page/assets/img/clients/client-1.png" class="img-fluid" alt="">
+                        <img src="landing_page/assets/img/clients/itb.png" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="landing_page/assets/img/clients/client-2.png" class="img-fluid" alt="">
+                        <img src="landing_page/assets/img/clients/nalaprana.png" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="landing_page/assets/img/clients/client-3.png" class="img-fluid" alt="">
+                        <img src="landing_page/assets/img/clients/pik2.png" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="landing_page/assets/img/clients/client-4.png" class="img-fluid" alt="">
+                        <img src="landing_page/assets/img/clients/pullman.png" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="landing_page/assets/img/clients/client-5.png" class="img-fluid" alt="">
+                        <img src="landing_page/assets/img/clients/accor.png" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="landing_page/assets/img/clients/client-6.png" class="img-fluid" alt="">
+                        <img src="landing_page/assets/img/clients/k3mart_new.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+
+                <div class="row" data-aos="zoom-in">
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="landing_page/assets/img/clients/rs_indramayu.png" class="img-fluid" alt="">
                     </div>
 
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="landing_page/assets/img/clients/rs_siloam.png" class="img-fluid" alt="">
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="landing_page/assets/img/clients/gubah_reka_new.png" class="img-fluid" alt="">
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="landing_page/assets/img/clients/hermina.png" class="img-fluid" alt="">
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="landing_page/assets/img/clients/iatpi.png" class="img-fluid" alt="">
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="landing_page/assets/img/clients/rs_adjidarmo.png" class="img-fluid" alt="">
+                    </div>
                 </div>
 
             </div>
@@ -121,9 +145,7 @@
                     <h2>About Us</h2>
                 </div>
                 <div class="mb-3">
-                    Perusahaan PT Jagat Tirta Amarta berpengalaman dalam merekomendasikan kepada pemangku kepentingan, klien, konsumen masyarakat pada umumnya. system proses pengolahan air baku dan merancang peralatan modern teknologi Nano Filterisasi untuk memproses memurnikan air TDS 0,00 ph neutral. Sesuai peraturan yang berlaku Standarisasi WHO, Codex, FDA, SNI , BPOM RI. Kami memberikan pelayanan terbaik guna membantu program pemerintah tentang air bersih dan air layak minum,konsumsi,serta menentukan dan membuat keputusan mengenai pemilihan jenis pengolahan air baku dengan system Mesin Nano filterisasi TDS 0,00 ph Neutral yang tepat. Sesuai permasalahan air yang dihadapi saat ini.
-                    <br><br>
-                    Perusahaan Jagat Tirta Amarta mendukung untuk laboratorium pengecekan kualitas air murni skala Nasional dan Internasional.
+                    Perusahaan PT. Jagat Tirta Amarta berpengalaman dalam merekomendasikan kepada customer untuk sistem proses pengolahan air baku dan merancang peralatan modern teknologi demineralisasi menggunakan sistem Reverse Osmosis untuk proses pemurnian air hingga TDS kurang dari 10 ppm dan pH yang netral. Sesuai peraturan yang berlaku standar FDA, Codex, BPOM, dan SNI. Kami memberikan pelayanan yang terbaik untuk membantu program pemerintah tentang air bersih dan layak minum, layak konsumsi, serta menentukan, dan membuat keputusan mengenai pemilihan jenis pengolahan air yang digunakan.
                 </div>
                 <hr>
                 <div class="text-center">
@@ -135,26 +157,17 @@
                 <div class="row content">
                     <div class="col-lg-6">
                         <h4 class="text-center">VISI</h4>
-                        <ul>
-                            <li><i class="ri-check-double-line"></i> Menjadi perusahaan terkemuka yang memadukan pengetahuan dan keahlian dalam
-                                merumuskan dan memecahkan berbagai persoalan air minum yang berkualitas.</li>
-                            <li><i class="ri-check-double-line"></i> Menjadi pelopor air TDS 0.</li>
-                            <li><i class="ri-check-double-line"></i> Membangun semangat kerja yang totalitas, loyalitas dan berkomitmen penuh tanggung jawab.</li>
-                            <li><i class="ri-check-double-line"></i> Mewujudkan The Power of Wakaf dan humanitarian, sebagai solusi membangun generasi
-                                bangsa yang berkualitas.</li>
-                        </ul>
+                        <p>Menjadi perusahaan terkemuka yang memadukan pengetahuan dan keahlian dalam merumuskan dan memecahkan berbagai persoalan pengolahan air yang berkualitas.</p>
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0">
                         <h4 class="text-center">MISI</h4>
                         <ul>
 
                             <li><i class="ri-check-double-line"></i> Menjadi mitra bisnis yang dapat diandalkan.</li>
-                            <li><i class="ri-check-double-line"></i> Menciptakan terobosan baru dalam hal inovasi teknologi zero water, menciptakan produk
-                                dengan kualitas terbaik.</li>
+                            <li><i class="ri-check-double-line"></i> Menciptakan terobosan baru dalam hal inovasi teknologi sistem demineralisasi, dan reverse osmosis menciptakan produk dengan kualitas terbaik.</li>
                             <li><i class="ri-check-double-line"></i> Membangun karakter dengan kepribadian yang unggul.</li>
                             <li><i class="ri-check-double-line"></i> Mewujudkan kesejahteraan pimpinan, manajemen dan karyawan.</li>
-                            <li><i class="ri-check-double-line"></i> Melakukan prinsip RQS ( Quick, Response, Best Quality, Excellent Services ) dalam memberikan
-                                pelayanan kepada pemangku, klien dan konsumen</li>
+                            <li><i class="ri-check-double-line"></i> Melakukan prinsip RQS (Quick, Response, Best Quality, Excellent Services) dalam memberikan pelayanan kepada konsumen.</li>
                         </ul>
                     </div>
                 </div>
@@ -176,8 +189,8 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
-                            <h4 class="text-center"><a target="_blank" href="amarta_water_treatment">Amarta Pure Water Treatment</a></h4>
-                            <img src="landing_page/assets/img/portfolio/portofolio_3.png" class="card-img-top img-fluid mb-2" alt="">
+                            <h4 class="text-center"><a target="_blank" href="amarta_water_treatment">Amarta Water Treatment</a></h4>
+                            <img src="landing_page/assets/img/logo/logo_water_treatment.png" class="card-img-top img-fluid mb-2" alt="">
                             <p>Instalasi pipanisasi dan supplier filter air yang digunakan untuk skala industri, residential, rumah tangga, waste, dan komersial.</p>
                         </div>
                     </div>
@@ -185,7 +198,7 @@
                     <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon-box">
                             <h4 class="text-center"><a target="_blank" href="amarta_pure_water">Amarta Pure Water</a></h4>
-                            <img src="landing_page/assets/img/portfolio/portofolio_2.png" class="card-img-top img-fluid mb-2" alt="">
+                            <img src="landing_page/assets/img/logo/logo_amarta_pure.png" class="card-img-top img-fluid mb-2" alt="">
                             <p>Gerai Air Minum Isi Ulang dan Produk Air Minum Dalam Kemasan</p>
                         </div>
                     </div>
@@ -203,12 +216,7 @@
                     <h2>Portfolio</h2>
                     <p>Portofolio Perusahaan PT Jagat Tirta Amarta berpengalaman dalam merekomendasikan
                         kepada kliennya sistem pengolahan air baku dan merancang peralatan modern dan
-                        teknologi Nanofiltrasi untuk memproses dan memurnikan air TDS 0,00 ph neutral / Alkaline.
-                        Sesuai peraturan yang berlaku Standarisasi WHO, Codex, SNI , BPOM RI. Kami memberikan
-                        pelayanan terbaik guna membantu Pemangku Kepentingan, Konsumen, Masyarakat pada
-                        umumnya, Guna menentukan dan membuat keputusan mengenai pemilihan jenis
-                        pengolahan Mesin Nano filterisasi TDS 0,00 ph Netral / Alkaline yang tepat sesuai
-                        permasalahan air yang dihadapi saat ini.</p>
+                        teknologi Nanofiltrasi untuk memproses dan memurnikan air < 10 ppm,00 ph neutral / Alkaline. Sesuai peraturan yang berlaku Standarisasi WHO, Codex, SNI , BPOM RI. Kami memberikan pelayanan terbaik guna membantu Pemangku Kepentingan, Konsumen, Masyarakat pada umumnya, Guna menentukan dan membuat keputusan mengenai pemilihan jenis pengolahan Mesin Nano filterisasi < 10 ppm,00 ph Netral / Alkaline yang tepat sesuai permasalahan air yang dihadapi saat ini.</p>
                 </div>
 
                 <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
@@ -283,126 +291,110 @@
                 </div>
 
                 <div class="row">
-
-                    <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="col-lg-6 mb-4" data-aos="zoom-in" data-aos-delay="100">
                         <div class="member d-flex align-items-start">
-                            <div class="pic"><img src="landing_page/assets/img/team/khaliq.png" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>M Khaliq Mantiri</h4>
-                                <span>Komisaris Utama</span>
-                                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                            <div class="row">
+                                <div class="pic"><img src="landing_page/assets/img/team/khaliq.png" class="img-fluid" alt=""></div>
+                            </div>
+                            <div class="row">
+                                <div class="member-info">
+                                    <h4>M Khaliq Mantiri</h4>
+                                    <span>Komisaris Utama</span>
+                                    <p>"Terhormat Kami bertindak hati-hati guna me-mindset system perusahaan menyongsong kesuksesan para pemangku,pelanggan dan mempertahankan standar Profesionalisme moralitas tertinggi"</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="col-lg-6 mb-4" data-aos="zoom-in" data-aos-delay="200">
                         <div class="member d-flex align-items-start">
-                            <div class="pic"><img src="landing_page/assets/img/team/megawati.png" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Hj. Megawati Latjinta</h4>
-                                <span>Komisaris</span>
-                                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                            <div class="row">
+                                <div class="pic"><img src="landing_page/assets/img/team/megawati.png" class="img-fluid" alt=""></div>
+                            </div>
+                            <div class="row">
+                                <div class="member-info">
+                                    <h4>Hj. Megawati Latjinta</h4>
+                                    <span>Komisaris</span>
+                                    <p>"Menjaga air dan sanitasi sama dengan menjaga kehidupan"</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="col-lg-6 mb-4" data-aos="zoom-in" data-aos-delay="300">
                         <div class="member d-flex align-items-start">
-                            <div class="pic"><img src="landing_page/assets/img/team/erfan.png" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Erfan Ramadhan, S.T.</h4>
-                                <span>Direktur Utama</span>
-                                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                            <div class="row">
+                                <div class="pic"><img src="landing_page/assets/img/team/erfan.png" class="img-fluid" alt=""></div>
+                            </div>
+                            <div class="row">
+                                <div class="member-info">
+                                    <h4>Erfan Ramadhan, S.T.</h4>
+                                    <span>Direktur Utama</span>
+                                    <p>""</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
+                    <div class="col-lg-6 mb-4" data-aos="zoom-in" data-aos-delay="400">
                         <div class="member d-flex align-items-start">
-                            <div class="pic"><img src="landing_page/assets/img/team/daniel.png" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Daniel Sunarto</h4>
-                                <span>Direktur Umum</span>
-                                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                            <div class="row">
+                                <div class="pic"><img src="landing_page/assets/img/team/daniel.jpeg" class="img-fluid" alt=""></div>
+                            </div>
+                            <div class="row">
+                                <div class="member-info">
+                                    <h4>Daniel Sunarto</h4>
+                                    <span>Direktur Umum</span>
+                                    <p>"Ketika kehidupan menempatkan batu dijalanmu, jadilah seperti air yang bisa terus-menerus akan bisa mengikis batu yang paling keras sekalipun"</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="500">
+                    <div class="col-lg-6 mb-4" data-aos="zoom-in" data-aos-delay="500">
                         <div class="member d-flex align-items-start">
-                            <div class="pic"><img src="landing_page/assets/img/team/mantiri.png" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Letnan Jendral TNI Purn. HBL Mantiri</h4>
-                                <span>Company Advisor</span>
-                                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                            <div class="row">
+                                <div class="pic"><img src="landing_page/assets/img/team/mantiri.png" class="img-fluid" alt=""></div>
+                            </div>
+                            <div class="row">
+                                <div class="member-info">
+                                    <h4>Letnan Jendral TNI Purn. HBL Mantiri</h4>
+                                    <span>Company Advisor</span>
+                                    <p>"Resep kehidupan yang sukses adalah menemukan tujuan hidup, dan kemudian menjalaninya"</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="600">
+                    <div class="col-lg-6 mb-4" data-aos="zoom-in" data-aos-delay="600">
                         <div class="member d-flex align-items-start">
-                            <div class="pic"><img src="landing_page/assets/img/team/frits.png" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Laksda TNI Purn. Frits A.C Mantiri</h4>
-                                <span>Company Advisor</span>
-                                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                            <div class="row">
+                                <div class="pic"><img src="landing_page/assets/img/team/frits.png" class="img-fluid" alt=""></div>
+                            </div>
+                            <div class="row">
+                                <div class="member-info">
+                                    <h4>Laksda TNI Purn. Frits A.C Mantiri</h4>
+                                    <span>Company Advisor</span>
+                                    <p>"Perjalanan melalui alam, temukan dirimu yang hilang."</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="600">
+                    <div class="col-lg-6 mb-4" data-aos="zoom-in" data-aos-delay="600">
                         <div class="member d-flex align-items-start">
-                            <div class="pic"><img src="landing_page/assets/img/team/rollyta.png" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Rolyta Manullang</h4>
-                                <span>Company Advisor</span>
-                                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                            <div class="row">
+                                <div class="pic"><img src="landing_page/assets/img/team/rollyta.png" class="img-fluid" alt=""></div>
+                            </div>
+                            <div class="row">
+                                <div class="member-info">
+                                    <h4>Rolyta Manullang</h4>
+                                    <span>Company Advisor</span>
+                                    <p>"Dalam satu tetes air ditemukan rahasia semua lautan"</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                 </div>
 
             </div>
