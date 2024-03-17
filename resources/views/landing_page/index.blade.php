@@ -286,9 +286,9 @@
 
                     <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
                         <div class="member d-flex align-items-start">
-                            <div class="pic"><img src="landing_page/assets/img/team/megawati.png" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="landing_page/assets/img/team/khaliq.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
-                                <h4>Hj. Megawati Latjinta</h4>
+                                <h4>M Khaliq Mantiri</h4>
                                 <span>Komisaris Utama</span>
                                 <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
                                 <div class="social">
@@ -303,9 +303,9 @@
 
                     <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
                         <div class="member d-flex align-items-start">
-                            <div class="pic"><img src="landing_page/assets/img/team/khaliq.png" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="landing_page/assets/img/team/megawati.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
-                                <h4>M Khaliq Mantiri</h4>
+                                <h4>Hj. Megawati Latjinta</h4>
                                 <span>Komisaris</span>
                                 <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
                                 <div class="social">
@@ -337,9 +337,60 @@
 
                     <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
                         <div class="member d-flex align-items-start">
+                            <div class="pic"><img src="landing_page/assets/img/team/daniel.png" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Daniel Sunarto</h4>
+                                <span>Direktur Umum</span>
+                                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="500">
+                        <div class="member d-flex align-items-start">
                             <div class="pic"><img src="landing_page/assets/img/team/mantiri.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Letnan Jendral TNI Purn. HBL Mantiri</h4>
+                                <span>Company Advisor</span>
+                                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="600">
+                        <div class="member d-flex align-items-start">
+                            <div class="pic"><img src="landing_page/assets/img/team/frits.png" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Laksda TNI Purn. Frits A.C Mantiri</h4>
+                                <span>Company Advisor</span>
+                                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="600">
+                        <div class="member d-flex align-items-start">
+                            <div class="pic"><img src="landing_page/assets/img/team/rollyta.png" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Rolyta Manullang</h4>
                                 <span>Company Advisor</span>
                                 <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
                                 <div class="social">
