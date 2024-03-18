@@ -330,7 +330,7 @@
                                 <div class="member-info">
                                     <h4>Erfan Ramadhan, S.T.</h4>
                                     <span>Direktur Utama</span>
-                                    <p>""</p>
+                                    <p>"Pure Water is Life and The First Medicine for People"</p>
                                 </div>
                             </div>
                         </div>
