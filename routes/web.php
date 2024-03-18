@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/amarta_pure_water', function () {
     return view('amarta_pure/index');
 });
+
+Route::get('/amarta_pure_treatment', function () {
+    return view('amarta_pure_treatment/index');
+});
