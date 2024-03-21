@@ -305,20 +305,6 @@
                 </div>
             </div>
         </div>
-        <div class="container-fluid bg-primary">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 aside-stretch py-3">
-                        <p class="mb-0">
-                            Copyright &copy;<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-                            <script>
-                                document.write(new Date().getFullYear());
-                            </script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
     </footer>
     <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
