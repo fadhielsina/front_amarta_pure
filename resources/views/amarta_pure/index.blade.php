@@ -1,370 +1,648 @@
 <!doctype html>
 <html lang="en">
 
+
+<!-- Mirrored from creativemela.com/themeforest_html/Fresh_Vial/demo/freeshvila/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 Mar 2024 16:23:24 GMT -->
+
 <head>
+
+    <!--====== Required meta tags ======-->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Amarta Water</title>
+    <!--====== Title ======-->
+    <title>Amarta Pure Water</title>
 
-    <!-- CSS FILES -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="amarta_pure/images/logo/logo_io/favicon.ico" type="image/png">
 
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!--====== Owl Carousel css ======-->
+    <link rel="stylesheet" href="amarta_pure/css/owl.carousel.min.css">
 
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+    <!--====== Magnific Popup css ======-->
+    <link rel="stylesheet" href="amarta_pure/css/magnific-popup.css">
 
-    <link href="amarta_water/css/bootstrap.min.css" rel="stylesheet">
+    <!--====== Slick css ======-->
+    <link rel="stylesheet" href="amarta_pure/css/slick.css">
 
-    <link href="amarta_water/css/bootstrap-icons.css" rel="stylesheet">
+    <!--====== Nice Select css ======-->
+    <link rel="stylesheet" href="amarta_pure/css/nice-select.css">
 
-    <link href="amarta_water/css/templatemo-tiya-golf-club.css" rel="stylesheet">
+    <!--====== Nice Number css ======-->
+    <link rel="stylesheet" href="amarta_pure/css/jquery.nice-number.min.css">
 
-    <!--
+    <!--====== Fontawesome css ======-->
+    <link rel="stylesheet" href="amarta_pure/css/font-awesome.min.css">
 
-TemplateMo 587 Tiya Golf Club
+    <!--====== Bootstrap css ======-->
+    <link rel="stylesheet" href="amarta_pure/css/bootstrap.min.css">
 
-https://templatemo.com/tm-587-tiya-golf-club
+    <!--====== Default css ======-->
+    <link rel="stylesheet" href="amarta_pure/css/default.css">
 
--->
+    <!--====== Style css ======-->
+    <link rel="stylesheet" href="amarta_pure/css/style.css">
+
+    <!--====== Responsive css ======-->
+    <link rel="stylesheet" href="amarta_pure/css/responsive.css">
+
+
 </head>
 
 <body>
 
-    <main>
+    <!--====== PREALOADER PART START ======-->
 
-        <nav class="navbar navbar-expand-lg">
-            <div class="container">
-                <a class="navbar-brand d-flex align-items-center" href="index.html">
-                    <img src="amarta_water/images/logo_amarta.png" class="navbar-brand-image" alt="Tiya Golf Club">
-                </a>
+    <div class="preloader">
+        <div class="thecube">
+            <div class="cube c1"></div>
+            <div class="cube c2"></div>
+            <div class="cube c4"></div>
+            <div class="cube c3"></div>
+        </div>
+    </div>
 
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+    <!--====== PREALOADER PART START ======-->
 
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav ms-lg-auto">
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" style="color: white;" href="#section_1">Home</a>
-                        </li>
+    <!--====== HEADER PART START ======-->
 
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_2">Apa itu Amarta?</a>
-                        </li>
+    <header id="header-part" class="header-2">
+        <!--===== NAVBAR START =====-->
+        <div class="navigation">
+            <div class="container-fluid">
+                <div class="row no-gutters">
+                    <div class="col-lg-9 col-10">
+                        <nav class="navbar navbar-expand-lg">
 
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_3">Kenapa pilih AMarta?</a>
-                        </li>
+                            <a class="navbar-brand" href="#">
+                                <img src="amarta_pure/images/logo/logo_amarta_pure.png" style="width: 100px;height: 55px;" class="ml-4" alt="Logo">
+                            </a> <!-- Logo -->
 
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_4">Manfaat</a>
-                        </li>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
 
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_5">Kontak</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-
-        <section class="hero-section d-flex justify-content-center align-items-center" id="section_1">
-
-            <div class="section-overlay"></div>
-
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-lg-6 col-12 mb-5 mb-lg-0">
-                        <h1 class="text-white">Air Minum Sehat Dengan pH Netral</h1>
-
-                        <p class="cd-headline rotate-1 text-white mb-4 pb-2">
-                            <span>Air minum keluarga sehat dengan tds 0 untuk konsumsi kebutuhan pokok dengan tingkat pH netral yang terjamin kemurniannya dan terbebas dari zat-zat non essensial yang berbahaya bagi kesehatan tubuh.</span>
-                            <!-- <span class="cd-words-wrapper">
-                                <b class="is-visible">Modern</b>
-                                <b>Creative</b>
-                                <b>Lifestyle</b>
-                            </span> -->
-                        </p>
-                    </div>
-
-                    <div class="col-lg-6 col-12">
-                        <div class="ratio ratio-16x9">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/nyZf7qG7rYo?si=rTBnmUX5XDVrg7xa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-                <path fill="#ffffff" fill-opacity="1" d="M0,224L34.3,192C68.6,160,137,96,206,90.7C274.3,85,343,139,411,144C480,149,549,107,617,122.7C685.7,139,754,213,823,240C891.4,267,960,245,1029,224C1097.1,203,1166,181,1234,160C1302.9,139,1371,117,1406,106.7L1440,96L1440,320L1405.7,320C1371.4,320,1303,320,1234,320C1165.7,320,1097,320,1029,320C960,320,891,320,823,320C754.3,320,686,320,617,320C548.6,320,480,320,411,320C342.9,320,274,320,206,320C137.1,320,69,320,34,320L0,320Z"></path>
-            </svg>
-        </section>
-
-
-        <section class="about-section section-padding" id="section_2">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-lg-12 col-12 text-center">
-                        <h2 class="mb-lg-5 mb-4">Amarta Pure Water</h2>
-                    </div>
-
-                    <div class="col-lg-5 col-12 me-auto mb-4 mb-lg-0">
-                        <h3 class="mb-3">Apa itu amarta pure water ?</h3>
-                        <p>Amarta pure water adalah air minum dengan tds 0,00 untuk kebutuhan tubuh yang di ambil dari sumber mata air dan diolah dengan tekhnologi nano filterisasi.</p>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0 mb-md-0">
-                        <div class="member-block">
-                            <div class="member-block-image-wrap">
-                                <img src="amarta_water/images/landing_page/gambar_b.jpg" class="member-block-image img-fluid" alt="">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0 mb-md-0">
-                        <div class="member-block">
-                            <div class="member-block-image-wrap">
-                                <img src="amarta_water/images/landing_page/gambar_c.png" class="member-block-image img-fluid" alt="">
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-
-
-        <section class="section-bg-image" id="section_3">
-            <svg viewBox="0 0 1265 144" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                <path fill="rgba(255, 255, 255, 1)" d="M 0 40 C 164 40 164 20 328 20 L 328 20 L 328 0 L 0 0 Z" stroke-width="0"></path>
-                <path fill="rgba(255, 255, 255, 1)" d="M 327 20 C 445.5 20 445.5 89 564 89 L 564 89 L 564 0 L 327 0 Z" stroke-width="0"></path>
-                <path fill="rgba(255, 255, 255, 1)" d="M 563 89 C 724.5 89 724.5 48 886 48 L 886 48 L 886 0 L 563 0 Z" stroke-width="0"></path>
-                <path fill="rgba(255, 255, 255, 1)" d="M 885 48 C 1006.5 48 1006.5 67 1128 67 L 1128 67 L 1128 0 L 885 0 Z" stroke-width="0"></path>
-                <path fill="rgba(255, 255, 255, 1)" d="M 1127 67 C 1196 67 1196 0 1265 0 L 1265 0 L 1265 0 L 1127 0 Z" stroke-width="0"></path>
-            </svg>
-
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-lg-12 col-12">
-                        <div class="section-bg-image-block">
-                            <h2 class="mb-lg-3">Kenapa pilih Amarta Pure Water ?</h2>
-
-                            <p style="color: black;">Dengan Meningkatnya tingkat polusi sanitasi, Kualitas air minum dunia terus menurun. Untuk mengurangi polutan serta sumber mata air yang semakin kian tercemar, Seperti Jenis Logam Berat Zat karsinogenik Nitrat, Klorin (THM), insektisida, pestisida, hidrokarbon,Tinja, bahkan hormon dapat ditemukan pada air minum dengan berbagai konsentrasi.</p>
-                            <p style="color: black;">Meningkatkan asupan air untuk tujuan terapeutik saja dapat menjadi sumber masalah kesehatan baru. Misalnya, air minum yang mengandung Nitrat dan THM berpotensi memicu tumbuhnya sel kanker.</p>
-                            <p style="color: black;">Amarta pure water adalah 100% AIR MURNI ph Neutral ,System pengolahan Nano Filterisasi.</p>
-                            <p style="color: black;">Air amarta pure water mudah diserap oleh tubuh, yang membantu mempercepat proses detoksifikasi. Detoksifikasi sangat penting karena penumpukan sisa makanan metabolisme dapat menjadi sumber masalah kesehatan.</p>
-                            <p style="color: black;">SOLUSI SEHAT yang IDEAL dengan melakukan hidroterapi dengan amarta pure water , didukung dengan pola makan seimbang dan gaya hidup sehat serta olahraga secara teratur.</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-            <svg viewBox="0 0 1265 144" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                <path fill="rgba(255, 255, 255, 1)" d="M 0 40 C 164 40 164 20 328 20 L 328 20 L 328 0 L 0 0 Z" stroke-width="0"></path>
-                <path fill="rgba(255, 255, 255, 1)" d="M 327 20 C 445.5 20 445.5 89 564 89 L 564 89 L 564 0 L 327 0 Z" stroke-width="0"></path>
-                <path fill="rgba(255, 255, 255, 1)" d="M 563 89 C 724.5 89 724.5 48 886 48 L 886 48 L 886 0 L 563 0 Z" stroke-width="0"></path>
-                <path fill="rgba(255, 255, 255, 1)" d="M 885 48 C 1006.5 48 1006.5 67 1128 67 L 1128 67 L 1128 0 L 885 0 Z" stroke-width="0"></path>
-                <path fill="rgba(255, 255, 255, 1)" d="M 1127 67 C 1196 67 1196 0 1265 0 L 1265 0 L 1265 0 L 1127 0 Z" stroke-width="0"></path>
-            </svg>
-        </section>
-
-
-        <section class="events-section section-padding" id="section_4">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-lg-12 col-12 text-center">
-                        <h2 class="mb-lg-5 mb-4">Beberapa manfaat air tds 0,00</h2>
-                    </div>
-
-                    <div class="col-lg-3 col-12 mb-5 mb-lg-0">
-                        <div class="custom-block-image-wrap">
-                            <a href="event-detail.html">
-                                <img src="amarta_water/images/manfaat/gambar_kesehatan.webp" class="custom-block-image img-fluid" alt="">
-                            </a>
-                        </div>
-
-                        <div class="custom-block-info">
-                            <a href="event-detail.html" class="events-title mb-2">Kesehatan</a>
-
-                            <div class="border-top mt-4 pt-3">
-                                <p>Menambah asupan oksigen dalam darah</p>
-                                <p>Melarutkan endapan kristal dalam ginjal & kantong kemih</p>
-                                <p>Membersihkan usus besar & saluran darah dari racun kimia.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-12 mb-5 mb-lg-0">
-                        <div class="custom-block-image-wrap">
-                            <a href="event-detail.html">
-                                <img src="amarta_water/images/manfaat/gambar_kuliner.webp" class="custom-block-image img-fluid" alt="">
-                            </a>
-                        </div>
-
-                        <div class="custom-block-info">
-                            <a href="event-detail.html" class="events-title mb-2">Kuliner</a>
-
-                            <div class="border-top mt-4 pt-3">
-                                <p>Bila digunakan memasak atau sayuran menambah rasa lezat dan tahan lama</p>
-                                <p>Menyeduh kopi atau teh akan terasa lebih nikmat karena rasa dan aromanya tidak beku oleh partikel lain.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-12 mb-5 mb-lg-0">
-                        <div class="custom-block-image-wrap">
-                            <a href="event-detail.html">
-                                <img src="amarta_water/images/manfaat/gambar_kecantikan.jpeg" class="custom-block-image img-fluid" alt="">
-                            </a>
-                        </div>
-
-                        <div class="custom-block-info">
-                            <a href="event-detail.html" class="events-title mb-2">Kecantikan</a>
-
-                            <div class="border-top mt-4 pt-3">
-                                <p>Baik untuk perawatan wajah dan kecantikan kulit (campuran masker)</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-12 mb-5 mb-lg-0">
-                        <div class="custom-block-image-wrap">
-                            <a href="event-detail.html">
-                                <img src="amarta_water/images/manfaat/gambar_otomotif.jpg" class="custom-block-image img-fluid" alt="">
-                            </a>
-                        </div>
-
-                        <div class="custom-block-info">
-                            <a href="event-detail.html" class="events-title mb-2">Otomotif</a>
-
-                            <div class="border-top mt-4 pt-3">
-                                <p>Dapat digunakan untuk mengisi radiator mobil karena tidak cepat panas sehingga mesin jadi lebih awet</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="contact-section section-padding" id="section_5">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-lg-5 col-12">
-                        <form action="#" method="post" class="custom-form contact-form" role="form">
-                            <h2 class="mb-4 pb-2">Kontak</h2>
-
-                            <div class="row">
-                                <div class="col-lg-6 col-md-6 col-12">
-                                    <div class="form-floating">
-                                        <input type="text" name="full-name" id="full-name" class="form-control" placeholder="Full Name" required="">
-
-                                        <label for="floatingInput">Nama</label>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-6 col-md-6 col-12">
-                                    <div class="form-floating">
-                                        <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Email address" required="">
-
-                                        <label for="floatingInput">Email</label>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-12 col-12">
-                                    <div class="form-floating">
-                                        <textarea class="form-control" id="message" name="message" placeholder="Describe message here"></textarea>
-
-                                        <label for="floatingTextarea">Pesan</label>
-                                    </div>
-
-                                    <button type="submit" class="form-control">Kirim</button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-
-                    <div class="col-lg-7 col-12 iframe-rwd">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.1859921357!2d107.46156758885498!3d-6.868303299999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68fb0078d1c575%3A0x83565b66277abf71!2sAmarta%20pure%20water!5e0!3m2!1sid!2sid!4v1710486426503!5m2!1sid!2sid" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-
-    </main>
-
-    <footer class="site-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-12">
-                    <div class="contact-info">
-                        <div class="contact-info-item">
-                            <div class="contact-info-body">
-                                <strong style="color: rgb(61 64 91);">Head Office : </strong>
-                                <p style="color: rgb(61 64 91);">Jl. Bujanggamanik Kav. No.60 , Ruko Pancawarna / Samping IKEA,Kota Baru Parahyangan – Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553</p>
-
-                                <strong style="color: rgb(61 64 91);">Phone : </strong>
-                                <p style="color: rgb(61 64 91);">0811 887 7225</p>
-
-                                <strong style="color: rgb(61 64 91);">Email : </strong>
-                                <p style="color: rgb(61 64 91);">info@jagattirtaamarta.com</p>
-                            </div>
-
-                            <img src="amarta_water/images/logo_amarta.png" class="navbar-brand-image mb-2" alt="">
-
-                            <div class="contact-info-footer">
-                                <ul class="social-icon">
-                                    <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link bi-instagram"></a>
+                            <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                                <ul class="navbar-nav m-auto">
+                                    <li class="nav-item">
+                                        <a class="active" href="index.html">Home</a>
+                                        <ul class="sub-menu">
+                                            <li class="li"><a href="index.html">Home 01</a></li>
+                                            <li class="li"><a href="index-2.html">Home 02</a></li>
+                                            <li class="li"><a href="index-3.html">Home 03</a></li>
+                                            <li class="li"><a href="index-4.html">Home 04</a></li>
+                                        </ul>
                                     </li>
-
-                                    <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link bi-facebook"></a>
+                                    <li class="nav-item">
+                                        <a href="about.html">About Us</a>
                                     </li>
-
-                                    <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link bi-whatsapp"></a>
+                                    <li class="nav-item">
+                                        <a href="#">Cart Products</a>
+                                        <ul class="sub-menu">
+                                            <li class="li"><a href="Product.html">Products</a></li>
+                                            <li class="li"><a href="Product.html">Products Details</a></li>
+                                            <li class="li"><a href="cart.html">Cart</a></li>
+                                            <li class="li"><a href="checkout.html">Checkout</a></li>
+                                        </ul>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="#">Our Pages</a>
+                                        <ul class="sub-menu">
+                                            <li class="li"><a href="testimonial.html">Testimonial</a></li>
+                                            <li class="li"><a href="faq-Page.html">Faq</a></li>
+                                            <li class="li"><a href="team.html">Team</a></li>
+                                            <li class="li"><a href="pricing.html">Pricing</a></li>
+                                            <li class="li"><a href="login.html">Login</a></li>
+                                            <li class="li"><a href="Register.html">Register</a></li>
+                                        </ul>
 
-                                    <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link bi-youtube"></a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="blog.html">Letest Blog</a>
+                                        <ul class="sub-menu">
+                                            <li class="li"><a href="blog.html">Blog</a></li>
+                                            <li class="li"><a href="blog-details.html">Blog Details</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="contact.html">Contact Us</a>
                                     </li>
                                 </ul>
                             </div>
+                        </nav>
+                    </div>
+                    <div class="col-lg-3 col-2">
+                        <div class="cart-search ">
+                            <p class="d-none d-lg-block"><i class="fa fa-phone"></i> (+62 - 811 887 7225)</p>
                         </div>
-
-                        <img src="amarta_water/images/WorldMap.svg" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
         </div>
+        <!--===== NAVBAR ENDS =====-->
+    </header>
 
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-            <path fill="#5A86AD" fill-opacity="1" d="M0,224L34.3,192C68.6,160,137,96,206,90.7C274.3,85,343,139,411,144C480,149,549,107,617,122.7C685.7,139,754,213,823,240C891.4,267,960,245,1029,224C1097.1,203,1166,181,1234,160C1302.9,139,1371,117,1406,106.7L1440,96L1440,320L1405.7,320C1371.4,320,1303,320,1234,320C1165.7,320,1097,320,1029,320C960,320,891,320,823,320C754.3,320,686,320,617,320C548.6,320,480,320,411,320C342.9,320,274,320,206,320C137.1,320,69,320,34,320L0,320Z"></path>
-        </svg>
+    <!--====== HEADER PART ENDS ======-->
+
+    <!--====== SLIDER PART START ======-->
+
+    <section id="slider-part" class="bg_cover slider-part-2" style="background-image: url(amarta_pure/images/bg-3.jpg)">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="content-slied owl-carousel">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="slider-content">
+                                    <h2>Amarta Pure Water</h2>
+                                    <p>Air minum keluarga sehat dengan tds 0 untuk konsumsi kebutuhan pokok dengan tingkat pH netral yang terjamin kemurniannya dan terbebas dari zat-zat non essensial yang berbahaya bagi kesehatan tubuh.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="up-down text-center pt-100 pb-60">
+                        <div class="up-down-box">
+                            <a data-scroll-nav="0" href="#">
+                                <ul>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                </ul>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--====== SLIDER PART ENDS ======-->
+
+    <!--====== SERVICES PART START ======-->
+
+    <section id="services-part" class="services-part-2 pt-70">
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-title text-center">
+                        <h2>WHY CHOOSE US ?</h2>
+                        <ul>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                        <p>Amarta pure water adalah air minum dengan TDS kurang dari 10 ppm dan pH yang netral untuk kebutuhan tubuh yang di ambil dari sumber mata air dan diolah dengan tekhnologi nano filterisasi.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-4">
+                    <div class="singel-services mt-45 pb-50">
+                        <div class="services-icon">
+                            <img src="amarta_pure/images/choose-us/icon-1.png" alt="Icon">
+                        </div>
+                        <div class="services-cont pt-25 pl-70">
+                            <h4>Membantu Proses Terapi Kesehatan</h4>
+                            <p>Mengkonsumsi air demineral memiliki manfaat ganda karena tidak menambah kadar mineral anorganik yang sudah lama tertimbun dalam jaringan tubuh, dan membantu membersihkan mineral anorganik yang terdapat di dalam tubuh.</p>
+                        </div>
+                    </div>
+
+                    <div class="singel-services">
+                        <div class="services-icon">
+                            <img src="amarta_pure/images/choose-us/icon-3.png" alt="Icon">
+                        </div>
+                        <div class="services-cont pt-25 pl-70">
+                            <h4>Membuang Racun (Detoksifikasi)</h4>
+                            <p>Amarta Pure Water bertindak sebagai pelarut dalam tubuh yang melarutkan residu mineral anorganik yang tidak dapat diserap tubuh dan membuang senyawa kimia berbahaya yang telah memasuki tubuh. Amarta Pure Water tidak hanya bebas dari polutan, tapi juga membantu menghilangkan polutan tersebut dari sel-sel dalam tubuh.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="singel-services mt-50 text-center">
+                        <img src="amarta_pure/images/choose-us/services-1.jpg" alt="Image">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="singel-services right mt-45 text-right pb-50">
+                        <div class="services-icon">
+                            <img src="amarta_pure/images/choose-us/icon-2.png" alt="Icon">
+                        </div>
+                        <div class="services-cont pt-25 pr-70">
+                            <h4>Meringankan Kerja Ginjal</h4>
+                            <p>Fungsi ginjal tidak hanya menyaring racun yang masuk ke dalam tubuh, melainkan sebagai produksi hormon, urin, dan mengendalikan cairan dalam tubuh.</p>
+                        </div>
+                    </div>
+
+                    <div class="singel-services right text-right ">
+                        <div class="services-icon">
+                            <img src="amarta_pure/images/choose-us/icon-4.png" alt="Icon">
+                        </div>
+                        <div class="services-cont pt-25 pr-70">
+                            <h4>Menjaga Metabolisme Tubuh</h4>
+                            <p>“Saya tahu bahwa air murni itu benar-benar tidak terkontaminasi. Saya berfikir jika saya meminumnya dalam jumlah yang banyak, maka saya dapat menyingkirkan tumpukan garam yang menyelimuti saraf-saraf sciatic terutama di daerah panggul. Saya mencoba meminumnya dan prediksi saya terbukti dengan sangat menakjubkan. Saya terus-menerus meminum air murni tersebut dan saya merasakan kesehatan menyeluruh yang hampir benar-benar sempurna.” - Dr. Alexander Graham Bell</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--====== SERVICES PART ENDS ======-->
+
+    <!--====== PRODUCTS PART START ======-->
+
+    <section id="products-part" class="pt-65">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-title text-center pb-15">
+                        <h2>Our Products</h2>
+                        <ul>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                        <p>Nunc molestie mi nunc, nec accumsan libero dignissim sit amet. Fusce sit amet tincidunt metus. Nunc eu risus suscipit massa dapibus blandit. Vivamus ac commodo eros.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="singel-products text-center mt-30">
+                        <div class="products-image">
+                            <img src="amarta_pure/images/product/p-1.jpg" alt="Products">
+                            <div class="products-cart">
+                                <a href="#"><i class="fa fa-shopping-cart"></i>Add to cart </a>
+                            </div>
+                        </div>
+                        <div class="products-contant">
+                            <span>$259 <del>$215</del></span>
+                            <a href="#">
+                                <h6>Mineral water big bottle</h6>
+                            </a>
+                            <p>Mauris sed massa eu nulla mollis vehicula quis id tortor.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="singel-products text-center mt-30">
+                        <div class="products-image">
+                            <img src="amarta_pure/images/product/p-2.jpg" alt="Products">
+                            <div class="products-cart">
+                                <a href="#"><i class="fa fa-shopping-cart"></i>Add to cart </a>
+                            </div>
+                            <div class="new-sele">
+                                <a href="#">New</a>
+                            </div>
+                        </div>
+                        <div class="products-contant">
+                            <span>$259 <del>$215</del></span>
+                            <a href="#">
+                                <h6>Mineral water big bottle</h6>
+                            </a>
+                            <p>Mauris sed massa eu nulla mollis vehicula quis id tortor.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="singel-products text-center mt-30">
+                        <div class="products-image">
+                            <img src="amarta_pure/images/product/p-3.jpg" alt="Products">
+                            <div class="products-cart">
+                                <a href="#"><i class="fa fa-shopping-cart"></i>Add to cart </a>
+                            </div>
+                        </div>
+                        <div class="products-contant">
+                            <span>$259 <del>$215</del></span>
+                            <a href="#">
+                                <h6>Mineral water big bottle</h6>
+                            </a>
+                            <p>Mauris sed massa eu nulla mollis vehicula quis id tortor.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="singel-products text-center mt-30">
+                        <div class="products-image">
+                            <img src="amarta_pure/images/product/p-2.jpg" alt="Products">
+                            <div class="products-cart">
+                                <a href="#"><i class="fa fa-shopping-cart"></i>Add to cart </a>
+                            </div>
+                            <div class="new-sele">
+                                <a href="#">Sele</a>
+                            </div>
+                        </div>
+                        <div class="products-contant">
+                            <span>$259 <del>$215</del></span>
+                            <a href="#">
+                                <h6>Mineral water big bottle</h6>
+                            </a>
+                            <p>Mauris sed massa eu nulla mollis vehicula quis id tortor.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--====== PRODUCTS PART ENDS ======-->
+
+    <!--====== BLOG PART START ======-->
+
+    <section id="blog-part" class="pt-70 pb-60">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-title text-center pb-15">
+                        <h2>Our letest news</h2>
+                        <ul>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                        <p>Nunc molestie mi nunc, nec accumsan libero dignissim sit amet. Fusce sit amet tincidunt metus. Nunc eu risus suscipit massa dapibus blandit. Vivamus ac commodo eros.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="blog-slied owl-carousel">
+                    <div class="col-lg-12">
+                        <div class="singel-blog mt-30">
+                            <div class="blog-thum">
+                                <img src="amarta_pure/images/blog/b-1.jpg" alt="Blog">
+                                <div class="date text-center">
+                                    <h3>22</h3>
+                                    <span>Sep 2018</span>
+                                </div>
+                            </div>
+                            <div class="blog-cont pt-25">
+                                <a href="#">
+                                    <h5>Etiam sit amet justo tincidunt.</h5>
+                                </a>
+                                <p>Nullam condimentum varius ipsum at viverra. Donec tortor metus, sollicitudin vitae est id, ullamcorper pretium tortor. Phasellus.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="singel-blog mt-30">
+                            <div class="blog-thum">
+                                <img src="amarta_pure/images/blog/b-2.jpg" alt="Blog">
+                                <div class="date text-center">
+                                    <h3>22</h3>
+                                    <span>Sep 2018</span>
+                                </div>
+                            </div>
+                            <div class="blog-cont pt-25">
+                                <a href="#">
+                                    <h5>Etiam sit amet justo tincidunt.</h5>
+                                </a>
+                                <p>Nullam condimentum varius ipsum at viverra. Donec tortor metus, sollicitudin vitae est id, ullamcorper pretium tortor. Phasellus.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="singel-blog mt-30">
+                            <div class="blog-thum">
+                                <img src="amarta_pure/images/blog/b-3.jpg" alt="Blog">
+                                <div class="date text-center">
+                                    <h3>22</h3>
+                                    <span>Sep 2018</span>
+                                </div>
+                            </div>
+                            <div class="blog-cont pt-25">
+                                <a href="#">
+                                    <h5>Etiam sit amet justo tincidunt.</h5>
+                                </a>
+                                <p>Nullam condimentum varius ipsum at viverra. Donec tortor metus, sollicitudin vitae est id, ullamcorper pretium tortor. Phasellus.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="singel-blog mt-30">
+                            <div class="blog-thum">
+                                <img src="amarta_pure/images/blog/b-1.jpg" alt="Blog">
+                                <div class="date text-center">
+                                    <h3>22</h3>
+                                    <span>Sep 2018</span>
+                                </div>
+                            </div>
+                            <div class="blog-cont pt-25">
+                                <a href="#">
+                                    <h5>Etiam sit amet justo tincidunt.</h5>
+                                </a>
+                                <p>Nullam condimentum varius ipsum at viverra. Donec tortor metus, sollicitudin vitae est id, ullamcorper pretium tortor. Phasellus.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="singel-blog mt-30">
+                            <div class="blog-thum">
+                                <img src="amarta_pure/images/blog/b-2.jpg" alt="Blog">
+                                <div class="date text-center">
+                                    <h3>22</h3>
+                                    <span>Sep 2018</span>
+                                </div>
+                            </div>
+                            <div class="blog-cont pt-25">
+                                <a href="#">
+                                    <h5>Etiam sit amet justo tincidunt.</h5>
+                                </a>
+                                <p>Nullam condimentum varius ipsum at viverra. Donec tortor metus, sollicitudin vitae est id, ullamcorper pretium tortor. Phasellus.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="singel-blog mt-30">
+                            <div class="blog-thum">
+                                <img src="amarta_pure/images/blog/b-3.jpg" alt="Blog">
+                                <div class="date text-center">
+                                    <h3>22</h3>
+                                    <span>Sep 2018</span>
+                                </div>
+                            </div>
+                            <div class="blog-cont pt-25">
+                                <a href="#">
+                                    <h5>Etiam sit amet justo tincidunt.</h5>
+                                </a>
+                                <p>Nullam condimentum varius ipsum at viverra. Donec tortor metus, sollicitudin vitae est id, ullamcorper pretium tortor. Phasellus.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="singel-blog mt-30">
+                            <div class="blog-thum">
+                                <img src="amarta_pure/images/blog/b-1.jpg" alt="Blog">
+                                <div class="date text-center">
+                                    <h3>22</h3>
+                                    <span>Sep 2018</span>
+                                </div>
+                            </div>
+                            <div class="blog-cont pt-25">
+                                <a href="#">
+                                    <h5>Etiam sit amet justo tincidunt.</h5>
+                                </a>
+                                <p>Nullam condimentum varius ipsum at viverra. Donec tortor metus, sollicitudin vitae est id, ullamcorper pretium tortor. Phasellus.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="singel-blog mt-30">
+                            <div class="blog-thum">
+                                <img src="amarta_pure/images/blog/b-2.jpg" alt="Blog">
+                                <div class="date text-center">
+                                    <h3>22</h3>
+                                    <span>Sep 2018</span>
+                                </div>
+                            </div>
+                            <div class="blog-cont pt-25">
+                                <a href="#">
+                                    <h5>Etiam sit amet justo tincidunt.</h5>
+                                </a>
+                                <p>Nullam condimentum varius ipsum at viverra. Donec tortor metus, sollicitudin vitae est id, ullamcorper pretium tortor. Phasellus.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="singel-blog mt-30">
+                            <div class="blog-thum">
+                                <img src="amarta_pure/images/blog/b-3.jpg" alt="Blog">
+                                <div class="date text-center">
+                                    <h3>22</h3>
+                                    <span>Sep 2018</span>
+                                </div>
+                            </div>
+                            <div class="blog-cont pt-25">
+                                <a href="#">
+                                    <h5>Etiam sit amet justo tincidunt.</h5>
+                                </a>
+                                <p>Nullam condimentum varius ipsum at viverra. Donec tortor metus, sollicitudin vitae est id, ullamcorper pretium tortor. Phasellus.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--====== BLOG PART ENDS ======-->
+
+    <!--====== FOOTER PART START ======-->
+
+    <footer id="footer-part" class="footer-2">
+        <div class="container ">
+            <div class="footer pt-20 pb-45">
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6 footer-contact">
+                        <a href="#"><img src="amarta_pure/images/logo/logo_jta.png" style="width: 65px;height: 65px;" alt="logo"></a>
+                        <p>
+                            <strong>Phone:</strong> 0811 887 7225<br>
+                            <strong>Email:</strong> info@jagattirtaamarta.com<br>
+                        </p>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 footer-links">
+                        <h4 style="color: white;">Head Office</h4>
+                        <p>Jl. Bujanggamanik Kav. No.60 <br>
+                            Ruko Pancawarna / Samping IKEA,Kota Baru Parahyangan – Kertajaya, Kec. Padalarang<br>
+                            Kabupaten Bandung Barat, Jawa Barat 40553</p>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 footer-links">
+                        <h4 style="color: white;">Our Social Networks</h4>
+                        <div class="social-links mt-3">
+                            <a href="#"><i class="fa fa-facebook-f"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-instagram"></i></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
     </footer>
 
+    <!--====== FOOTER PART ENDS ======-->
 
-    <!-- JAVASCRIPT FILES -->
-    <script src="amarta_water/js/jquery.min.js"></script>
-    <script src="amarta_water/js/bootstrap.bundle.min.js"></script>
-    <script src="amarta_water/js/jquery.sticky.js"></script>
-    <script src="amarta_water/js/click-scroll.js"></script>
-    <script src="amarta_water/js/animated-headline.js"></script>
-    <script src="amarta_water/js/modernizr.js"></script>
-    <script src="amarta_water/js/custom.js"></script>
+    <!--====== BACK TOP TOP PART START ======-->
+
+    <a href="#" class="back-to-top">
+        <img src="amarta_pure/images/back-to-top.png" alt="Icon">
+    </a>
+
+    <!--====== BACK TOP TOP PART ENDS ======-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--====== jquery js ======-->
+    <script src="amarta_pure/js/vendor/modernizr-3.6.0.min.js"></script>
+    <script src="amarta_pure/js/vendor/jquery-1.12.4.min.js"></script>
+
+    <!--====== Bootstrap js ======-->
+    <script src="amarta_pure/js/bootstrap.min.js"></script>
+
+    <!--====== Owl Carousel js ======-->
+    <script src="amarta_pure/js/owl.carousel.min.js"></script>
+
+    <!--====== Magnific Popup js ======-->
+    <script src="amarta_pure/js/jquery.magnific-popup.min.js"></script>
+
+    <!--====== Slick js ======-->
+    <script src="amarta_pure/js/slick.min.js"></script>
+
+    <!--====== Nice Number js ======-->
+    <script src="amarta_pure/js/jquery.nice-number.min.js"></script>
+
+    <!--====== Nice Select js ======-->
+    <script src="amarta_pure/js/jquery.nice-select.min.js"></script>
+
+    <!--====== Validator js ======-->
+    <script src="amarta_pure/js/validator.min.js"></script>
+
+    <!--====== Main js ======-->
+    <script src="amarta_pure/js/main.js"></script>
+
+    <!--====== Google Map js ======-->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDC3Ip9iVC0nIxC6V14CKLQ1HZNF_65qEQ"></script>
+    <script src="amarta_pure/js/map-script.js"></script>
 
 </body>
+
+
+<!-- Mirrored from creativemela.com/themeforest_html/Fresh_Vial/demo/freeshvila/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 Mar 2024 16:23:47 GMT -->
 
 </html>
