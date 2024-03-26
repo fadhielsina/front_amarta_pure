@@ -547,6 +547,36 @@
         </div>
     </section>
 
+    <!--====== video PART START ======-->
+
+    <section id="video-part" class="pt-70 pb-80">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-title text-center">
+                        <h2>Waralaba</h2>
+                        <ul>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="video pt-45">
+                        <img src="amarta_pure/images/step_waralaba.jpeg" alt="image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--====== video PART ENDS ======-->
+
     <!--====== BLOG PART ENDS ======-->
 
     <!--====== FOOTER PART START ======-->
