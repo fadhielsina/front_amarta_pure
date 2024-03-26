@@ -378,7 +378,6 @@
     <script src="amarta_treatment/js/bootstrap-datepicker.js"></script>
     <script src="amarta_treatment/js/jquery.timepicker.min.js"></script>
     <script src="amarta_treatment/js/scrollax.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&amp;sensor=false"></script>
     <script src="amarta_treatment/js/google-map.js"></script>
     <script src="amarta_treatment/js/main.js"></script>
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"8663eff9bc263e55","b":1,"version":"2024.2.4","token":"cd0b4b3a733644fc843ef0b185f98241"}' crossorigin="anonymous"></script>
