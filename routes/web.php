@@ -14,6 +14,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    return view('option');
+});
+
+Route::get('/company', function () {
     return view('landing_page/index');
 });
 
