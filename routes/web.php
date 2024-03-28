@@ -2,29 +2,37 @@
 
 use Illuminate\Support\Facades\Route;
 
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider and all of them will
-| be assigned to the "web" middleware group. Make something great!
-|
-*/
-
+// Main Web
 Route::get('/', function () {
-    return view('option');
+    return view('landing_page/index_new');
+});
+Route::get('/about-us', function () {
+    return view('landing_page/aboutus');
+});
+Route::get('/services', function () {
+    return view('landing_page/services');
+});
+Route::get('/blog', function () {
+    abort(404);
+    // return view('landing_page/blog');
+});
+Route::get('/contact-us', function () {
+    return view('landing_page/contactus');
 });
 
-Route::get('/company', function () {
-    return view('landing_page/index');
-});
+// =====================================================================================
 
+// Amarta Pure
 Route::get('/amarta_pure_water', function () {
-    return view('amarta_pure/index');
+    return view('amarta_pure/index_new');
+});
+Route::get('/amarta_pure_water/about-us', function () {
+    return view('amarta_pure/aboutus');
 });
 
-Route::get('/amarta_pure_treatment', function () {
-    return view('amarta_pure_treatment/index');
+// =====================================================================================
+
+// Amarta Treatment
+Route::get('/amarta_pure_water', function () {
+    return view('amarta_pure/index_new');
 });
