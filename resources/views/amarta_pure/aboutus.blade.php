@@ -61,19 +61,19 @@
                                             <nav class="main-menu menu-mobile" id="menu">
                                                 <ul class="menu">
                                                     <li class="mega-menu-item">
-                                                        <a href="/amarta_pure_water" class="mega-menu-link">Home</a>
+                                                        <a href="/amarta_pure_water">Home</a>
                                                     </li>
                                                     <li class="mega-menu-item active">
-                                                        <a href="/amarta_pure_water/about-us" class="mega-menu-link">About Us</a>
+                                                        <a href="/amarta_pure_water/about-us">About Us</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="/amarta_pure_water/waralaba" class="mega-menu-link">Waralaba</a>
+                                                        <a href="/amarta_pure_water/waralaba">Waralaba</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="/amarta_pure_water/product" class="mega-menu-link">Product</a>
+                                                        <a href="/amarta_pure_water/product">Product</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="/blog" class="mega-menu-link">Blog</a>
+                                                        <a href="/blog">Blog</a>
                                                     </li>
                                                     <li class="mega-menu-item">
                                                         <a href="/contact-us">Contact us</a>

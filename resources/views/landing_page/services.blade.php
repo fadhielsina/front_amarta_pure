@@ -61,16 +61,16 @@
                                             <nav class="main-menu menu-mobile" id="menu">
                                                 <ul class="menu">
                                                     <li class="mega-menu-item">
-                                                        <a href="/" class="mega-menu-link">Home</a>
+                                                        <a href="/">Home</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="about-us" class="mega-menu-link">About Us</a>
+                                                        <a href="about-us">About Us</a>
                                                     </li>
                                                     <li class="mega-menu-item active">
-                                                        <a href="services" class="mega-menu-link">Services</a>
+                                                        <a href="services">Services</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="blog" class="mega-menu-link">Blog</a>
+                                                        <a href="blog">Blog</a>
                                                     </li>
                                                     <li class="mega-menu-item">
                                                         <a href="contact-us">Contact us</a>

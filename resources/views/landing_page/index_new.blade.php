@@ -60,16 +60,16 @@
                                             <nav class="main-menu menu-mobile" id="menu">
                                                 <ul class="menu">
                                                     <li class="mega-menu-item active">
-                                                        <a href="/" class="mega-menu-link">Home</a>
+                                                        <a href="#">Home</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="about-us" class="mega-menu-link">About Us</a>
+                                                        <a href="about-us">About Us</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="services" class="mega-menu-link">Services</a>
+                                                        <a href="services">Services</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="blog" class="mega-menu-link">Blog</a>
+                                                        <a href="blog">Blog</a>
                                                     </li>
                                                     <li class="mega-menu-item">
                                                         <a href="contact-us">Contact us</a>
@@ -91,23 +91,37 @@
         <!-- Banner -->
         <div class="banner_slider_wrapper">
             <div class="banner_slider banner_slider_1">
-                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img class="d-block w-100" src="{{'landing_page'}}/images/slides/bg_home.jpg" alt="First slide">
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" src="{{'landing_page'}}/images/slides/slider-ramadan.jpg" alt="Second slide">
+                <div class="slide">
+                    <div class="slide_img" style="background-image: url(landing_page/images/slides/bg_home.jpg);"></div>
+                    <div class="slide__content">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="slide__content--headings ttm-textcolor-white text-center">
+                                        <div class="logo-icon mb-4"><img src="{{url('landing_page')}}/images/logo/logo_jta.png" style="width: 70; height: 60px;" alt="logo-img" class="m-auto"></div>
+                                        <h4 data-animation="fadeInDown"> <i><a target="_blank" style="font-family: 'Jost', sans-serif;" href="amarta_pure_water">Amarta Pure Water</a></i> & <i><a target="_blank" style="font-family: 'Jost', sans-serif;" href="amarta_water_treatment">Amarta Water Treatment</a></i></h4>
+                                        <p data-animation="fadeInDown">Merupakan perusahaan yang bergerak di bidang pengolahan air.</p>
+                                        <div class="margin_top30" data-animation="fadeInUp" data-delay="1.4">
+                                            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-fill ttm-btn-color-skincolor" href="services">more services</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
+                </div>
+                <div class="slide">
+                    <div class="slide_img" style="background-image: url(landing_page/images/slides/slider-ramadan.jpg);"></div>
+                    <div class="slide__content">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="slide__content--headings ttm-textcolor-white text-center">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
