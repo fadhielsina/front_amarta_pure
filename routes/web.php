@@ -29,10 +29,17 @@ Route::get('/amarta_pure_water', function () {
 Route::get('/amarta_pure_water/about-us', function () {
     return view('amarta_pure/aboutus');
 });
+Route::get('/amarta_pure_water/waralaba', function () {
+    return view('amarta_pure/waralaba');
+});
+Route::get('/amarta_pure_water/product', function () {
+    abort(404);
+    // return view('amarta_pure/product');
+});
 
 // =====================================================================================
 
 // Amarta Treatment
-Route::get('/amarta_pure_water', function () {
-    return view('amarta_pure/index_new');
+Route::get('/amarta_water_treatment', function () {
+    return view('amarta_pure_treatment/index');
 });

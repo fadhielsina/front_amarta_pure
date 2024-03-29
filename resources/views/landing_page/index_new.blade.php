@@ -103,7 +103,7 @@
                                 <div class="col-lg-12">
                                     <div class="slide__content--headings ttm-textcolor-white text-center">
                                         <div class="logo-icon mb-4"><img src="landing_page/images/logo/logo_jta.png" style="width: 70; height: 60px;" alt="logo-img" class="m-auto"></div>
-                                        <h4 data-animation="fadeInDown"> <i><a target="_blank" style="font-family: 'Jost', sans-serif;" href="amarta_pure_treatment">Amarta Pure Water</a></i> & <i><a target="_blank" style="font-family: 'Jost', sans-serif;" href="amarta_pure_treatment">Amarta Water Treatment</a></i></h4>
+                                        <h4 data-animation="fadeInDown"> <i><a target="_blank" style="font-family: 'Jost', sans-serif;" href="amarta_pure_water">Amarta Pure Water</a></i> & <i><a target="_blank" style="font-family: 'Jost', sans-serif;" href="amarta_water_treatment">Amarta Water Treatment</a></i></h4>
                                         <p data-animation="fadeInDown">Merupakan perusahaan yang bergerak di bidang pengolahan air.</p>
                                         <div class="margin_top30" data-animation="fadeInUp" data-delay="1.4">
                                             <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-fill ttm-btn-color-skincolor" href="services">more services</a>
@@ -220,7 +220,7 @@
                             <div class="d-flex">
                                 <div class="p-10 margin_right10 ttm-bgcolor-grey"></div>
                                 <div class="ttm_single_image-wrapper">
-                                    <img class="img-fluid" src="landing_page/images/portofolio_2.png" alt="single-01">
+                                    <img class="img-fluid" src="landing_page/images/bg-jta.jpeg" alt="single-01">
                                 </div>
                             </div>
                         </div>
@@ -352,8 +352,9 @@
                             <div class="widget widget_nav_menu clearfix">
                                 <h3 class="widget-title">Links</h3>
                                 <ul id="menu-footer-quick-links" class="menu">
-                                    <li><a href="about-us">About Us</a></li>
-                                    <li><a href="services">Services</a></li>
+                                    <li><a href="amarta_pure_water/about-us">About Us</a></li>
+                                    <li><a href="amarta_pure_watter/waralaba">Waralaba</a></li>
+                                    <li><a href="amarta_pure_watter/product">Product</a></li>
                                     <li><a href="contact-us">Contact Us</a></li>
                                 </ul>
                             </div>
@@ -370,12 +371,6 @@
                                     </li>
                                     <li><a href="landing_page/images/portfolio/portofolio_3.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
                                             <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_3.png" alt=""></a>
-                                    </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_4.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_4.png" alt=""></a>
-                                    </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_5.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_5.png" alt=""></a>
                                     </li>
                                 </ul>
                             </div>

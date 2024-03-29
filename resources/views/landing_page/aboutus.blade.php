@@ -176,7 +176,7 @@
                             <div class="section-title title-style-center_text">
                                 <div class="title-header">
                                     <h3>OUR Team</h3>
-                                    <h2 class="title">Having Expert</h2>
+                                    <h2 class="title">Top Management</h2>
                                 </div>
                             </div><!-- section title end -->
                         </div>
