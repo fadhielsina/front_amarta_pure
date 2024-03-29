@@ -33,12 +33,6 @@
     <!--page start-->
     <div class="page">
 
-
-        <div id="preloader" class="blobs-wrapper">
-            <div class="ttm-bgcolor-skincolor loader-blob"></div>
-        </div>
-
-
         <!--header start-->
         <header id="masthead" class="header ttm-header-style-01">
 

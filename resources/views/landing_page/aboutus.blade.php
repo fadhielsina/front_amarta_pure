@@ -8,22 +8,22 @@
     <meta name="description" content="PT JTA" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--====== Title ======-->
-    <title>PT JTA || About-US</title>
+    <title>PT JTA</title>
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="landing_page/images/logo/logo_io/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="{{url('landing_page')}}/images/logo/logo_io/favicon.ico" type="image/png">
 
-    <link rel="stylesheet" type="text/css" href="landing_page/css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/animate.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/font-awesome.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/flaticon.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/themify-icons.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/slick.css">
-    <link rel="stylesheet" type="text/css" href="landing_page/css/prettyPhoto.css">
-    <link rel="stylesheet" type="text/css" href="landing_page/css/shortcodes.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/main.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/megamenu.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/flaticon.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/themify-icons.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/slick.css">
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/prettyPhoto.css">
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/shortcodes.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/megamenu.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/responsive.css" />
 
 </head>
 
@@ -31,7 +31,6 @@
 
     <!--page start-->
     <div class="page">
-
 
         <!--header start-->
         <header id="masthead" class="header ttm-header-style-01">

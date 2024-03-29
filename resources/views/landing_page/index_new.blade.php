@@ -11,30 +11,26 @@
     <title>PT JTA</title>
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="landing_page/images/logo/logo_io/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="{{url('landing_page')}}/images/logo/logo_io/favicon.ico" type="image/png">
 
-    <link rel="stylesheet" type="text/css" href="landing_page/css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/animate.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/font-awesome.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/flaticon.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/themify-icons.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/slick.css">
-    <link rel="stylesheet" type="text/css" href="landing_page/css/prettyPhoto.css">
-    <link rel="stylesheet" type="text/css" href="landing_page/css/shortcodes.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/main.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/megamenu.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/flaticon.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/themify-icons.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/slick.css">
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/prettyPhoto.css">
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/shortcodes.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/megamenu.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/responsive.css" />
 
 </head>
-
 
 <body>
 
     <!--page start-->
     <div class="page">
-        <div id="preloader" class="blobs-wrapper">
-            <div class="ttm-bgcolor-skincolor loader-blob"></div>
-        </div>
 
         <!--header start-->
         <header id="masthead" class="header ttm-header-style-01">
@@ -50,7 +46,7 @@
                                     <!-- site-branding -->
                                     <div class="site-branding ">
                                         <a class="home-link" href="index.html" title="JTA" rel="home">
-                                            <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="landing_page/images/logo/logo_jta.png" alt="logo-img">
+                                            <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta.png" alt="logo-img">
                                         </a>
                                     </div><!-- site-branding end -->
                                     <div class="border-box-block">
@@ -96,13 +92,13 @@
         <div class="banner_slider_wrapper">
             <div class="banner_slider banner_slider_1">
                 <div class="slide">
-                    <div class="slide_img" style="background-image: url(landing_page/images/slides/slider-mainbg-001.jpg);"></div>
+                    <div class="slide_img" style="background-image: url(landing_page/images/slides/bg_home_1.jpg);"></div>
                     <div class="slide__content">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="slide__content--headings ttm-textcolor-white text-center">
-                                        <div class="logo-icon mb-4"><img src="landing_page/images/logo/logo_jta.png" style="width: 70; height: 60px;" alt="logo-img" class="m-auto"></div>
+                                        <div class="logo-icon mb-4"><img src="{{url('landing_page')}}/images/logo/logo_jta.png" style="width: 70; height: 60px;" alt="logo-img" class="m-auto"></div>
                                         <h4 data-animation="fadeInDown"> <i><a target="_blank" style="font-family: 'Jost', sans-serif;" href="amarta_pure_water">Amarta Pure Water</a></i> & <i><a target="_blank" style="font-family: 'Jost', sans-serif;" href="amarta_water_treatment">Amarta Water Treatment</a></i></h4>
                                         <p data-animation="fadeInDown">Merupakan perusahaan yang bergerak di bidang pengolahan air.</p>
                                         <div class="margin_top30" data-animation="fadeInUp" data-delay="1.4">
@@ -137,10 +133,10 @@
                 <div class="ttm-client-logo-tooltip">
                     <div class="ttm-client-logo-tooltip-inner">
                         <div class="client-thumbnail">
-                            <img class="img-fluid" src="landing_page/images/client/accor.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/accor.png" alt="image">
                         </div>
                         <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="landing_page/images/client/accor.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/accor.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -149,10 +145,10 @@
                 <div class="ttm-client-logo-tooltip">
                     <div class="ttm-client-logo-tooltip-inner">
                         <div class="client-thumbnail">
-                            <img class="img-fluid" src="landing_page/images/client/pik2.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/pik2.png" alt="image">
                         </div>
                         <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="landing_page/images/client/pik2.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/pik2.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -161,10 +157,10 @@
                 <div class="ttm-client-logo-tooltip">
                     <div class="ttm-client-logo-tooltip-inner">
                         <div class="client-thumbnail">
-                            <img class="img-fluid" src="landing_page/images/client/gubah_reka.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/gubah_reka.png" alt="image">
                         </div>
                         <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="landing_page/images/client/gubah_reka.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/gubah_reka.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -173,10 +169,10 @@
                 <div class="ttm-client-logo-tooltip">
                     <div class="ttm-client-logo-tooltip-inner">
                         <div class="client-thumbnail">
-                            <img class="img-fluid" src="landing_page/images/client/rs_indramayu.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_indramayu.png" alt="image">
                         </div>
                         <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="landing_page/images/client/rs_indramayu.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_indramayu.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -185,10 +181,10 @@
                 <div class="ttm-client-logo-tooltip">
                     <div class="ttm-client-logo-tooltip-inner">
                         <div class="client-thumbnail">
-                            <img class="img-fluid" src="landing_page/images/client/rs_siloam.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_siloam.png" alt="image">
                         </div>
                         <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="landing_page/images/client/rs_siloam.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_siloam.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -197,10 +193,10 @@
                 <div class="ttm-client-logo-tooltip">
                     <div class="ttm-client-logo-tooltip-inner">
                         <div class="client-thumbnail">
-                            <img class="img-fluid" src="landing_page/images/client/iatpi.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/iatpi.png" alt="image">
                         </div>
                         <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="landing_page/images/client/iatpi.png" alt="image">
+                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/iatpi.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -220,7 +216,7 @@
                             <div class="d-flex">
                                 <div class="p-10 margin_right10 ttm-bgcolor-grey"></div>
                                 <div class="ttm_single_image-wrapper">
-                                    <img class="img-fluid" src="landing_page/images/bg-jta.jpeg" alt="single-01">
+                                    <img class="img-fluid" src="{{url('landing_page')}}/images/bg-jta.jpeg" alt="single-01">
                                 </div>
                             </div>
                         </div>
@@ -278,12 +274,12 @@
                                                     <div class="featured-imagebox featured-imagebox-services style1">
                                                         <!-- featured-thumbnail -->
                                                         <div class="featured-thumbnail">
-                                                            <img class="img-fluid" src="landing_page/images/portfolio/portofolio_3.png" alt="image">
+                                                            <img class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_3.png" alt="image">
                                                         </div><!-- featured-thumbnail end-->
                                                         <div class="featured-content">
                                                             <div class="featured-icon">
                                                                 <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                                                    <img class="img-fluid" src="landing_page/images/logo/logo_water_treatment.png" alt="image">
+                                                                    <img class="img-fluid" src="{{url('landing_page')}}/images/logo/logo_water_treatment.png" alt="image">
                                                                 </div>
                                                             </div>
                                                             <div class="featured-title">
@@ -301,12 +297,12 @@
                                                     <div class="featured-imagebox featured-imagebox-services style1">
                                                         <!-- featured-thumbnail -->
                                                         <div class="featured-thumbnail">
-                                                            <img class="img-fluid" src="landing_page/images/portfolio/portofolio.png" alt="image">
+                                                            <img class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio.png" alt="image">
                                                         </div><!-- featured-thumbnail end-->
                                                         <div class="featured-content">
                                                             <div class="featured-icon">
                                                                 <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                                                    <img class="img-fluid" src="landing_page/images/logo/logo_amarta_pure.png" alt="image">
+                                                                    <img class="img-fluid" src="{{url('landing_page')}}/images/logo/logo_amarta_pure.png" alt="image">
                                                                 </div>
                                                             </div>
                                                             <div class="featured-title">
@@ -341,7 +337,7 @@
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                             <div class="widget widget_text clearfix">
                                 <div class="footer-logo">
-                                    <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="landing_page/images/logo/logo_jta.png" alt="logo-img">
+                                    <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta.png" alt="logo-img">
                                 </div>
                                 <div class="textwidget widget-text">
                                     <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="contact-us.html">Make a appointment <i class="fa fa-chevron-right"></i></a>
@@ -363,14 +359,14 @@
                             <div class="widget widget_img_gellary clearfix">
                                 <h3 class="widget-title">Our Gallery</h3>
                                 <ul>
-                                    <li><a href="landing_page/images/portfolio/portofolio.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio.png" alt=""></a>
+                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio.png" alt=""></a>
                                     </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_2.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_2.png" alt=""></a>
+                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio_2.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_2.png" alt=""></a>
                                     </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_3.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_3.png" alt=""></a>
+                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio_3.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_3.png" alt=""></a>
                                     </li>
                                 </ul>
                             </div>
@@ -431,18 +427,18 @@
 
 
     <!-- Javascript -->
-    <script src="landing_page/js/jquery-3.6.0.min.js"></script>
-    <script src="landing_page/js/jquery-migrate-3.3.2.min.js"></script>
-    <script src="landing_page/js/bootstrap.min.js"></script>
-    <script src="landing_page/js/jquery.easing.js"></script>
-    <script src="landing_page/js/jquery-waypoints.js"></script>
-    <script src="landing_page/js/jquery-validate.js"></script>
-    <script src="landing_page/js/jquery.prettyPhoto.js"></script>
-    <script src="landing_page/js/slick.min.js"></script>
-    <script src="landing_page/js/numinate.min.js"></script>
-    <script src="landing_page/js/imagesloaded.min.js"></script>
-    <script src="landing_page/js/jquery-isotope.js"></script>
-    <script src="landing_page/js/main.js"></script>
+    <script src="{{url('landing_page')}}/js/jquery-3.6.0.min.js"></script>
+    <script src="{{url('landing_page')}}/js/jquery-migrate-3.3.2.min.js"></script>
+    <script src="{{url('landing_page')}}/js/bootstrap.min.js"></script>
+    <script src="{{url('landing_page')}}/js/jquery.easing.js"></script>
+    <script src="{{url('landing_page')}}/js/jquery-waypoints.js"></script>
+    <script src="{{url('landing_page')}}/js/jquery-validate.js"></script>
+    <script src="{{url('landing_page')}}/js/jquery.prettyPhoto.js"></script>
+    <script src="{{url('landing_page')}}/js/slick.min.js"></script>
+    <script src="{{url('landing_page')}}/js/numinate.min.js"></script>
+    <script src="{{url('landing_page')}}/js/imagesloaded.min.js"></script>
+    <script src="{{url('landing_page')}}/js/jquery-isotope.js"></script>
+    <script src="{{url('landing_page')}}/js/main.js"></script>
     <!-- Javascript end-->
 
 </body>
