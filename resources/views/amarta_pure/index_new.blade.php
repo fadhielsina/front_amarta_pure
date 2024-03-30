@@ -359,7 +359,7 @@
                                                 <div class="testimonial-bottom">
                                                     <div class="testimonial-avatar">
                                                         <div class="testimonial-img">
-                                                            <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta.png" alt="logo-img">
+                                                            <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/team-member/ceo_amarta.png" alt="logo-img">
                                                         </div>
                                                     </div>
                                                     <div class="testimonial-caption">
