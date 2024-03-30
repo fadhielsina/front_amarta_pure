@@ -138,7 +138,6 @@
                             <!-- section title -->
                             <div class="section-title title-style-center_text">
                                 <div class="title-header">
-                                    <h3>how it works</h3>
                                     <h2 class="title">Langkah memulai franchise</h2>
                                 </div>
                                 <div class="heading-seperator"><span></span></div>
