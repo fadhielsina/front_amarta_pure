@@ -142,7 +142,7 @@
                                 </div>
                                 <div class="heading-seperator"><span></span></div>
                                 <div class="title-desc">
-                                    <p>Gerai air minum isi ulang Amarta Pure Water</p>
+                                    <p style="font-size: 18px;">Gerai air minum isi ulang Amarta Pure Water</p>
                                 </div>
                             </div><!-- section title end -->
                         </div>
