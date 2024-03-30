@@ -150,41 +150,28 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="row mt_60 res-991-margin_top0 mb_15">
-                                <div class="col-lg-4 col-md-12 col-sm-12">
+                                <div class="col-lg-6 col-md-12 col-sm-12">
                                     <!--featured-icon-box-->
                                     <div class="featured-icon-box style3 ttm-bgcolor-white">
                                         <div class="featured-content">
                                             <div class="featured-desc">
-                                                <p>Jonah Schwarz</p>
+                                                <p>Gerai Air Minum Isi Ulang</p>
                                             </div>
                                             <div class="featured-title">
-                                                <h3>Air yang sehat dan juga menyegarkan, sangat bagus untuk menjaga keseimbangan tubuh</h3>
+                                                <h3>Gerai air minum yang langsung menjual air minum isi ulang di lokasi-lokasi yang tersedia.</h3>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
                                 </div>
-                                <div class="col-lg-4 col-md-12 col-sm-12">
+                                <div class="col-lg-6 col-md-12 col-sm-12">
                                     <!--featured-icon-box-->
                                     <div class="featured-icon-box style3 ttm-bgcolor-darkgrey">
                                         <div class="featured-content">
                                             <div class="featured-desc">
-                                                <p class="ttm-textcolor-skincolor">Erin Lawrence</p>
+                                                <p class="ttm-textcolor-skincolor">Coming Soon (Air Minum Dalam Kemasan)</p>
                                             </div>
                                             <div class="featured-title">
-                                                <h3>Air dengan pH netral sangat bagus untuk kebutuhan pokok tubuh kita, juga untuk masak sangat bagus </h3>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
-                                <div class="col-lg-4 col-md-12 col-sm-12">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box style3 ttm-bgcolor-white">
-                                        <div class="featured-content">
-                                            <div class="featured-desc">
-                                                <p>Teddy Park</p>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h3>Setelah tahu manfaat air dengan TDS kurang dari 10 ppm dan pH yang netral saya rutin konsumsi air ini</h3>
+                                                <h3>Rasakan segar dan sehatnya air dengan TDS kurang dari 10 ppm dalam kemasan.</h3>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
@@ -206,7 +193,7 @@
                                 <div class="layer-content">
                                 </div>
                             </div><!-- col-img-bg-img-three end-->
-                            <img class="img-fluid ttm-equal-height-image" src="{{ url('landing_page') }}/images/bg-image/services-1.jpg" alt="bg-image">
+                            <img class="img-fluid ttm-equal-height-image" src="{{ url('landing_page') }}/images/bg-image/amarta_pure.jpg" alt="bg-image">
                         </div>
                         <div class="col-lg-2">
                             <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-skincolor spacing-4 z-index-2 h-auto">
@@ -353,84 +340,52 @@
             </section>
             <!--padding_zero-section end-->
 
-            <!-- row -->
-            <div class="row mb-5">
-                <div class="col-lg-12">
-                    <div class="padding_top90 res-991-padding_top40 mt_5 mb_5">
-                        <div class="row no-gutters">
-                            <div class="col-lg-3 col-md-6 col-sm-6">
-                                <!-- featured-icon-box -->
-                                <div class="featured-icon-box icon-align-top-content style5">
-                                    <div class="featured-icon">
-                                        <div class="ttm-num"><span class="number ttm-textcolor-darkgrey">2008</span></div>
+            <!--padding_bottom_zero-section -->
+            <section class="ttm-row padding_bottom_zero-section bg-img5 margin_bottom100 res-991-margin_bottom0 clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 ml-auto">
+                            <!-- col-img-bg-img-two -->
+                            <div class="ttm-bg ttm-col-bgimage-yes col-bg-img-two ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-skincolor p-30 mb_100 res-991-margin_bottom70 border-rad_6">
+                                <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
+                                    <div class="ttm-col-wrapper-bg-layer-inner"></div>
+                                </div>
+                                <div class="layer-content">
+                                    <div class="slick_slider" data-slick='{"slidesToShow": 1, "slidesToScroll": 1, "arrows":false, "autoplay":false, "dots":false, "infinite":true, "responsive":[{"breakpoint":992,"settings":{"slidesToShow": 1}},{"breakpoint":840,"settings":{"slidesToShow": 1}}]}'>
+                                        <!-- testimonials -->
+                                        <div class="testimonials ttm-testimonial-box-view-style1">
+                                            <div class="testimonial-content">
+                                                <blockquote class="testimonial-text">Gerai air minum isi ulang dengan sistem demineralisasi yang menjangkau masyarakat dengan mudah mendapatkan air minum murni yang terbebas dari kontaminasi secara kimia, fisika, dan mikrobiologis.</blockquote>
+                                                <div class="testimonial-bottom">
+                                                    <div class="testimonial-avatar">
+                                                        <div class="testimonial-img">
+                                                            <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta.png" alt="logo-img">
+                                                        </div>
+                                                    </div>
+                                                    <div class="testimonial-caption">
+                                                        <h3>Erfan Ramadhan</h3>
+                                                        <label>Direktur Utama</label>
+                                                        <div class="star-ratings">
+                                                            <ul class="rating">
+                                                                <li class="active"><i class="fa fa-star"></i></li>
+                                                                <li class="active"><i class="fa fa-star"></i></li>
+                                                                <li class="active"><i class="fa fa-star"></i></li>
+                                                                <li class="active"><i class="fa fa-star"></i></li>
+                                                                <li class="active"><i class="fa fa-star"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div><!-- testimonials end -->
                                     </div>
-                                    <div class="featured-content">
-                                        <div class="featured-title">
-                                            <h3>Early Start</h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>1997, we have established our first plant.</p>
-                                        </div>
-                                    </div>
-                                </div><!-- featured-icon-box end-->
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-sm-6">
-                                <!-- featured-icon-box -->
-                                <div class="featured-icon-box icon-align-top-content style5">
-                                    <div class="featured-icon">
-                                        <div class="ttm-num"><span class="number ttm-textcolor-darkgrey">2009</span></div>
-                                    </div>
-                                    <div class="featured-content">
-                                        <div class="featured-title">
-                                            <h3>Our Mission</h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>Fish farm yields can enhance global food security.</p>
-                                        </div>
-                                    </div>
-                                </div><!-- featured-icon-box end-->
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-sm-6">
-                                <!-- featured-icon-box -->
-                                <div class="featured-icon-box icon-align-top-content style5">
-                                    <div class="featured-icon">
-                                        <div class="ttm-num"><span class="number ttm-textcolor-darkgrey">2010</span></div>
-                                    </div>
-                                    <div class="featured-content">
-                                        <div class="featured-title">
-                                            <h3>Our Vision</h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>To deliver products & solutions secure production</p>
-                                        </div>
-                                    </div>
-                                </div><!-- featured-icon-box end-->
-                            </div>
-                            <div class="col-lg-3 col-md-6 col-sm-6">
-                                <!-- featured-icon-box -->
-                                <div class="featured-icon-box icon-align-top-content style5">
-                                    <div class="featured-icon">
-                                        <div class="ttm-num"><span class="number ttm-textcolor-darkgrey">2011</span></div>
-                                    </div>
-                                    <div class="featured-content">
-                                        <div class="featured-title">
-                                            <h3>Future Goals</h3>
-                                        </div>
-                                        <div class="featured-desc">
-                                            <p>Be the leading company with High-Tech Agriculture</p>
-                                        </div>
-                                    </div>
-                                </div><!-- featured-icon-box end-->
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="margin_top30 text-center">Logistic &amp; Transport Solutions Saves Your Time. <strong><a class="ttm-textcolor-skincolor" href="services-1.html">Find your solution <i class="fa fa-arrow-circle-right"></i></a></strong></div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div><!-- row end -->
+            </section>
+            <!--padding_bottom_zero-section end -->
 
         </div><!--site-main end-->
 
@@ -443,7 +398,7 @@
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                             <div class="widget widget_text clearfix">
                                 <div class="footer-logo">
-                                    <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="{{ url('landing_page') }}/images/logo/logo_jta.png" alt="logo-img">
+                                    <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta_footer.png" alt="logo-img">
                                 </div>
                                 <div class="textwidget widget-text">
                                     <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="contact-us.html">Make a appointment <i class="fa fa-chevron-right"></i></a>

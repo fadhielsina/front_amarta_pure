@@ -46,7 +46,7 @@
                                     <!-- site-branding -->
                                     <div class="site-branding ">
                                         <a class="home-link" href="index.html" title="JTA" rel="home">
-                                            <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="landing_page/images/logo/logo_jta.png" alt="logo-img">
+                                            <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta.png" alt="logo-img">
                                         </a>
                                     </div><!-- site-branding end -->
                                     <div class="border-box-block">
@@ -186,33 +186,6 @@
                             <!-- featured-imagebox-team -->
                             <div class="featured-imagebox featured-imagebox-team style2">
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="landing_page/images/team-member/khaliq.png" alt="image">
-                                </div>
-                                <div class="featured-content">
-                                    <div class="featured-title">
-                                        <h5><a href="team-details.html">M Khaliq Mantiri</a></h5>
-                                    </div>
-                                    <p class="team-position">Komisaris Utama</p>
-                                    <hr>
-                                    <p>"Terhormat Kami bertindak hati-hati guna me-mindset system perusahaan menyongsong kesuksesan para pemangku,pelanggan dan mempertahankan standar Profesionalisme moralitas tertinggi"</p>
-                                    <div class="featured-iconbox ttm-media-link">
-                                        <div class="media-block">
-                                            <a href="#" class="media-btn"><i class="ti ti-plus"></i></a>
-                                            <ul class="social-icons">
-                                                <li><a class="tooltip-top" href="#" rel="noopener" aria-label="facebook"><i class="fa fa-facebook"></i></a></li>
-                                                <li><a class="tooltip-top" href="#" rel="noopener" aria-label="twitter"><i class="fa fa-twitter"></i></a></li>
-                                                <li><a class="tooltip-top" href="#" rel="noopener" aria-label="google"><i class="fa fa-google-plus"></i></a></li>
-                                                <li><a class="tooltip-top" href="#" rel="noopener" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div><!-- featured-imagebox-team end-->
-                        </div>
-                        <div class="col-lg-4">
-                            <!-- featured-imagebox-team -->
-                            <div class="featured-imagebox featured-imagebox-team style2">
-                                <div class="featured-thumbnail">
                                     <img class="img-fluid" src="landing_page/images/team-member/megawati.png" alt="image">
                                 </div>
                                 <div class="featured-content">
@@ -275,7 +248,7 @@
                                     </div>
                                     <p class="team-position">Direktur Umum</p>
                                     <hr>
-                                    <p>"Ketika kehidupan menempatkan batu dijalanmu, jadilah seperti air yang bisa terus-menerus akan bisa mengikis batu yang paling keras sekalipun"</p>
+                                    <p>"Terhormat Kami bertindak hati-hati guna me-mindset system perusahaan menyongsong kesuksesan para pemangku,pelanggan dan mempertahankan standar Profesionalisme moralitas tertinggi"</p>
                                     <div class="featured-iconbox ttm-media-link">
                                         <div class="media-block">
                                             <a href="#" class="media-btn"><i class="ti ti-plus"></i></a>
@@ -386,7 +359,7 @@
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                             <div class="widget widget_text clearfix">
                                 <div class="footer-logo">
-                                    <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="landing_page/images/logo/logo_jta.png" alt="logo-img">
+                                    <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta_footer.png" alt="logo-img">
                                 </div>
                                 <div class="textwidget widget-text">
                                     <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="contact-us.html">Make a appointment <i class="fa fa-chevron-right"></i></a>
@@ -397,8 +370,9 @@
                             <div class="widget widget_nav_menu clearfix">
                                 <h3 class="widget-title">Links</h3>
                                 <ul id="menu-footer-quick-links" class="menu">
-                                    <li><a href="about-us">About Us</a></li>
-                                    <li><a href="services">Services</a></li>
+                                    <li><a href="amarta_pure_water/about-us">About Us</a></li>
+                                    <li><a href="amarta_pure_watter/waralaba">Waralaba</a></li>
+                                    <li><a href="amarta_pure_watter/product">Product</a></li>
                                     <li><a href="contact-us">Contact Us</a></li>
                                 </ul>
                             </div>
@@ -407,20 +381,14 @@
                             <div class="widget widget_img_gellary clearfix">
                                 <h3 class="widget-title">Our Gallery</h3>
                                 <ul>
-                                    <li><a href="landing_page/images/portfolio/portofolio.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio.png" alt=""></a>
+                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio.png" alt=""></a>
                                     </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_2.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_2.png" alt=""></a>
+                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio_2.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_2.png" alt=""></a>
                                     </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_3.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_3.png" alt=""></a>
-                                    </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_4.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_4.png" alt=""></a>
-                                    </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_5.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_5.png" alt=""></a>
+                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio_3.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_3.png" alt=""></a>
                                     </li>
                                 </ul>
                             </div>

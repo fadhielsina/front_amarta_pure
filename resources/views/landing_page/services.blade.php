@@ -47,7 +47,7 @@
                                     <!-- site-branding -->
                                     <div class="site-branding ">
                                         <a class="home-link" href="index.html" title="JTA" rel="home">
-                                            <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="landing_page/images/logo/logo_jta.png" alt="logo-img">
+                                            <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta.png" alt="logo-img">
                                         </a>
                                     </div><!-- site-branding end -->
                                     <div class="border-box-block">
@@ -289,7 +289,7 @@
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                             <div class="widget widget_text clearfix">
                                 <div class="footer-logo">
-                                    <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="landing_page/images/logo/logo_jta.png" alt="logo-img">
+                                    <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta_footer.png" alt="logo-img">
                                 </div>
                                 <div class="textwidget widget-text">
                                     <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="contact-us.html">Make a appointment <i class="fa fa-chevron-right"></i></a>
@@ -300,8 +300,9 @@
                             <div class="widget widget_nav_menu clearfix">
                                 <h3 class="widget-title">Links</h3>
                                 <ul id="menu-footer-quick-links" class="menu">
-                                    <li><a href="about-us">About Us</a></li>
-                                    <li><a href="services">Services</a></li>
+                                    <li><a href="amarta_pure_water/about-us">About Us</a></li>
+                                    <li><a href="amarta_pure_watter/waralaba">Waralaba</a></li>
+                                    <li><a href="amarta_pure_watter/product">Product</a></li>
                                     <li><a href="contact-us">Contact Us</a></li>
                                 </ul>
                             </div>
@@ -310,20 +311,14 @@
                             <div class="widget widget_img_gellary clearfix">
                                 <h3 class="widget-title">Our Gallery</h3>
                                 <ul>
-                                    <li><a href="landing_page/images/portfolio/portofolio.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio.png" alt=""></a>
+                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio.png" alt=""></a>
                                     </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_2.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_2.png" alt=""></a>
+                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio_2.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_2.png" alt=""></a>
                                     </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_3.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_3.png" alt=""></a>
-                                    </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_4.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_4.png" alt=""></a>
-                                    </li>
-                                    <li><a href="landing_page/images/portfolio/portofolio_5.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="landing_page/images/portfolio/portofolio_5.png" alt=""></a>
+                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio_3.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_3.png" alt=""></a>
                                     </li>
                                 </ul>
                             </div>

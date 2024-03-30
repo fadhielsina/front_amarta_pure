@@ -157,7 +157,7 @@
                         </div>
                         <div class="col-lg-5 col-md-7 col-sm-8 mx-auto">
                             <div class="ttm_single_image-wrapper">
-                                <img class="img-fluid auto_size" src="{{url('landing_page')}}/images/bg-image/services-1.png" alt="single-03" height="789" width="500">
+                                <img class="img-fluid auto_size" src="{{url('landing_page')}}/images/bg-image/services-1_new.jpg" alt="single-03" height="789" width="500">
                             </div>
                         </div>
                     </div><!-- row end -->
@@ -339,7 +339,7 @@
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                             <div class="widget widget_text clearfix">
                                 <div class="footer-logo">
-                                    <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta.png" alt="logo-img">
+                                    <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta_footer.png" alt="logo-img">
                                 </div>
                                 <div class="textwidget widget-text">
                                     <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="contact-us.html">Make a appointment <i class="fa fa-chevron-right"></i></a>
