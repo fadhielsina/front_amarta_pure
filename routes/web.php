@@ -24,7 +24,7 @@ Route::get('/contact-us', function () {
 
 // Amarta Pure
 Route::get('/amarta_pure_water', function () {
-    return view('amarta_pure/index_new');
+    return view('amarta_pure/index');
 });
 Route::get('/amarta_pure_water/about-us', function () {
     return view('amarta_pure/aboutus');
