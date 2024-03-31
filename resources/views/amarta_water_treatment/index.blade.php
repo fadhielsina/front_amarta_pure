@@ -3,6 +3,8 @@
 
 <head>
     <title>Amarta Pure Treatment</title>
+    <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="{{url('landing_page')}}/images/logo/logo_io/favicon.ico" type="image/png">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="landing_page/assets/img/logo/logo_io/favicon.ico" rel="icon">
@@ -24,7 +26,7 @@
             <div class="row d-flex align-items-start align-items-center px-3 px-md-0">
                 <div class="col-md-4 d-flex mb-2 mb-md-0">
                     <a class="navbar-brand d-flex align-items-center" href="index.html">
-                        <img src="amarta_treatment/images/logo/logo_water_treatment.png" style="height: 100px; width: 100px;" alt="">
+                        <img src="amarta_treatment/images/logo/logo_water_treatment.png" style="height: 70px; width: 130px;" alt="">
                     </a>
                 </div>
                 <div class="col-md-4 d-flex topper mb-md-0 mb-2 align-items-center">
