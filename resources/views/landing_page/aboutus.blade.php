@@ -174,7 +174,6 @@
                             <!-- section title -->
                             <div class="section-title title-style-center_text">
                                 <div class="title-header">
-                                    <h3>OUR Team</h3>
                                     <h2 class="title">Top Management</h2>
                                 </div>
                             </div><!-- section title end -->
@@ -192,7 +191,7 @@
                                     <div class="featured-title">
                                         <h5><a href="team-details.html">Hj. Megawati Latjinta</a></h5>
                                     </div>
-                                    <p class="team-position">Komisaris</p>
+                                    <p class="team-position">Company Advisor</p>
                                     <hr>
                                     <p>"Menjaga air dan sanitasi sama dengan menjaga kehidupan"</p>
                                     <div class="featured-iconbox ttm-media-link">
@@ -217,9 +216,9 @@
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h5><a href="team-details.html">Erfan Ramadhan, S.T.</a></h5>
+                                        <h5><a href="team-details.html">Erfan Ramadhan, S.T.P</a></h5>
                                     </div>
-                                    <p class="team-position">Direktur Utama</p>
+                                    <p class="team-position">Chief Executive Officer</p>
                                     <hr>
                                     <p>"Pure Water is Life and The First Medicine for People"</p>
                                     <div class="featured-iconbox ttm-media-link">
@@ -246,7 +245,7 @@
                                     <div class="featured-title">
                                         <h5><a href="team-details.html">Daniel Sunarto</a></h5>
                                     </div>
-                                    <p class="team-position">Direktur Umum</p>
+                                    <p class="team-position">Board Of Commissioners</p>
                                     <hr>
                                     <p>"Terhormat Kami bertindak hati-hati guna me-mindset system perusahaan menyongsong kesuksesan para pemangku,pelanggan dan mempertahankan standar Profesionalisme moralitas tertinggi"</p>
                                     <div class="featured-iconbox ttm-media-link">
