@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from preview.colorlib.com/theme/wilcon/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Mar 2024 08:43:53 GMT -->
-
 <head>
     <title>Amarta Pure Treatment</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords" content="pure water, air mineral, isi ulang air, amarta water" />
+    <meta name="description" content="Merupakan perusahaan yang bergerak di bidang pengolahan air." />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="landing_page/assets/img/logo/logo_io/favicon.ico" rel="icon">

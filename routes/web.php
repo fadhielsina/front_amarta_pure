@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 // Main Web
 Route::get('/', function () {
-    return view('landing_page/index_new');
+    return view('landing_page/index');
 });
 Route::get('/about-us', function () {
     return view('landing_page/aboutus');
