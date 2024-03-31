@@ -147,7 +147,7 @@
                                 </div><!-- featured-thumbnail end-->
                                 <div class="featured-content">
                                     <div class="featured-icon">
-                                        <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                        <div class="ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
                                             <img class="img-fluid" src="landing_page/images/logo/logo_water_treatment.png" alt="image">
                                         </div>
                                     </div>
@@ -170,7 +170,7 @@
                                 </div><!-- featured-thumbnail end-->
                                 <div class="featured-content">
                                     <div class="featured-icon">
-                                        <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                        <div class="ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
                                             <img class="img-fluid" src="landing_page/images/logo/logo_amarta_pure.png" alt="image">
                                         </div>
                                     </div>

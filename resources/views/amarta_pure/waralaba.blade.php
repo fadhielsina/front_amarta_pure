@@ -13,6 +13,9 @@
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="{{ url('landing_page') }}/images/logo/logo_io/favicon.ico" type="image/png">
 
+    <!-- Font Awesome -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
     <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/animate.css" />
     <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/font-awesome.css" />
@@ -153,7 +156,7 @@
                             <div class="featured-icon-box icon-align-top-content style1">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-white ttm-icon_element-size-lg">
-                                        <i class="flaticon-ice-fishing"></i>
+                                        <i class="fa fa-phone"></i>
                                         <div class="ttm-num ttm-bgcolor-skincolor"><span class="number">01</span></div>
                                     </div>
                                 </div>
@@ -169,7 +172,7 @@
                             <div class="featured-icon-box icon-align-top-content style1">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-white ttm-icon_element-size-lg">
-                                        <i class="flaticon-pond"></i>
+                                        <i class="fa fa-file"></i>
                                         <div class="ttm-num ttm-bgcolor-skincolor"><span class="number">02</span></div>
                                     </div>
                                 </div>
@@ -185,7 +188,7 @@
                             <div class="featured-icon-box icon-align-top-content style1">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-white ttm-icon_element-size-lg">
-                                        <i class="flaticon-lake-1"></i>
+                                        <i class="fa fa-map-location"></i>
                                         <div class="ttm-num ttm-bgcolor-skincolor"><span class="number">03</span></div>
                                     </div>
                                 </div>
@@ -201,7 +204,7 @@
                             <div class="featured-icon-box icon-align-top-content style1">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-white ttm-icon_element-size-lg">
-                                        <i class="flaticon-placeholder"></i>
+                                        <i class="fa fa-file-signature"></i>
                                         <div class="ttm-num ttm-bgcolor-skincolor"><span class="number">04</span></div>
                                     </div>
                                 </div>
@@ -217,7 +220,7 @@
                             <div class="featured-icon-box icon-align-top-content style1">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-white ttm-icon_element-size-lg">
-                                        <i class="flaticon-placeholder"></i>
+                                        <i class="fa fa-screwdriver-wrench"></i>
                                         <div class="ttm-num ttm-bgcolor-skincolor"><span class="number">05</span></div>
                                     </div>
                                 </div>
@@ -233,7 +236,7 @@
                             <div class="featured-icon-box icon-align-top-content style1">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-white ttm-icon_element-size-lg">
-                                        <i class="flaticon-placeholder"></i>
+                                        <i class="fa fa-rocket"></i>
                                         <div class="ttm-num ttm-bgcolor-skincolor"><span class="number">06</span></div>
                                     </div>
                                 </div>

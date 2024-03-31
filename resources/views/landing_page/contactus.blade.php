@@ -170,7 +170,7 @@
                                 <div class="featured-icon-box icon-align-top-content margin_top0 margin_bottom25">
                                     <div class="featured-icon">
                                         <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                            <i class="flaticon-email"></i>
+                                            <i class="fa fa-whatsapp"></i>
                                         </div>
                                     </div>
                                     <div class="featured-content pt-2">

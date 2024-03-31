@@ -13,6 +13,9 @@
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="{{ url('landing_page') }}/images/logo/logo_io/favicon.ico" type="image/png">
 
+    <!-- Font Awesome -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
     <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/animate.css" />
     <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/font-awesome.css" />
@@ -205,7 +208,7 @@
                                             <div class="featured-icon-box icon-align-top-content style4 icon-flip-hover">
                                                 <div class="featured-icon">
                                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                        <i class="flaticon flaticon-fish-1"></i>
+                                                        <i class="fa fa-notes-medical"></i>
                                                     </div>
                                                 </div>
                                                 <div class="featured-content">
@@ -220,7 +223,7 @@
                                             <div class="featured-icon-box icon-align-top-content style4 icon-flip-hover">
                                                 <div class="featured-icon">
                                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                        <i class="flaticon flaticon-fish-2"></i>
+                                                        <i class="fa fa-skull-crossbones"></i>
                                                     </div>
                                                 </div>
                                                 <div class="featured-content">
@@ -235,7 +238,7 @@
                                             <div class="featured-icon-box icon-align-top-content style4 icon-flip-hover">
                                                 <div class="featured-icon">
                                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                        <i class="flaticon flaticon-soup"></i>
+                                                        <i class="fa fa-heart-pulse"></i>
                                                     </div>
                                                 </div>
                                                 <div class="featured-content">
@@ -250,7 +253,7 @@
                                             <div class="featured-icon-box icon-align-top-content style4 icon-flip-hover">
                                                 <div class="featured-icon">
                                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-white ttm-icon_element-size-md">
-                                                        <i class="flaticon flaticon-pier"></i>
+                                                        <i class="fa fa-child"></i>
                                                     </div>
                                                 </div>
                                                 <div class="featured-content">

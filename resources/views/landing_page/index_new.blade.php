@@ -98,7 +98,7 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="slide__content--headings ttm-textcolor-white text-center">
-                                        <div class="logo-icon mb-4"><img src="{{url('landing_page')}}/images/logo/logo_jta.png" style="width: 70; height: 60px;" alt="logo-img" class="m-auto"></div>
+                                        <div class="logo-icon mb-4"><img src="{{url('landing_page')}}/images/logo/logo_jta_polos.png" style="width: 70; height: 60px;" alt="logo-img" class="m-auto"></div>
                                         <h4 data-animation="fadeInDown"> <i><a target="_blank" style="font-family: 'Jost', sans-serif;" href="amarta_pure_water">Amarta Pure Water</a></i> & <i><a target="_blank" style="font-family: 'Jost', sans-serif;" href="amarta_water_treatment">Amarta Water Treatment</a></i></h4>
                                         <p data-animation="fadeInDown">Merupakan perusahaan yang bergerak di bidang pengolahan air.</p>
                                         <div class="margin_top30" data-animation="fadeInUp" data-delay="1.4">
@@ -278,7 +278,7 @@
                                                         </div><!-- featured-thumbnail end-->
                                                         <div class="featured-content">
                                                             <div class="featured-icon">
-                                                                <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                                                <div class="ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
                                                                     <img class="img-fluid" src="{{url('landing_page')}}/images/logo/logo_water_treatment.png" alt="image">
                                                                 </div>
                                                             </div>
@@ -301,7 +301,7 @@
                                                         </div><!-- featured-thumbnail end-->
                                                         <div class="featured-content">
                                                             <div class="featured-icon">
-                                                                <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                                                <div class="ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
                                                                     <img class="img-fluid" src="{{url('landing_page')}}/images/logo/logo_amarta_pure.png" alt="image">
                                                                 </div>
                                                             </div>

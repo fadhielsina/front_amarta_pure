@@ -13,6 +13,9 @@
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="{{ url('landing_page') }}/images/logo/logo_io/favicon.ico" type="image/png">
 
+    <!-- Font Awesome -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
     <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/animate.css" />
     <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/font-awesome.css" />
@@ -190,7 +193,7 @@
                             <div class="featured-icon-box icon-align-top-content style8">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon flaticon-prawn"></i>
+                                        <i class="fa fa-snowflake"></i>
                                     </div>
                                 </div>
                                 <div class="featured-content">
@@ -206,7 +209,7 @@
                             <div class="featured-icon-box icon-align-top-content style8">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon flaticon-soup"></i>
+                                        <i class="fa fa-face-grin-beam-sweat"></i>
                                     </div>
                                 </div>
                                 <div class="featured-content">
@@ -222,7 +225,7 @@
                             <div class="featured-icon-box icon-align-top-content style8">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon flaticon-canoe"></i>
+                                        <i class="fa fa-face-tired"></i>
                                     </div>
                                 </div>
                                 <div class="featured-content">
@@ -238,7 +241,7 @@
                             <div class="featured-icon-box icon-align-top-content style8">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon flaticon-koi-fish"></i>
+                                        <i class="fa fa-face-grin-tongue-squint"></i>
                                     </div>
                                 </div>
                                 <div class="featured-content">
@@ -254,7 +257,7 @@
                             <div class="featured-icon-box icon-align-top-content style8">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon flaticon-pond"></i>
+                                        <i class="fa fa-face-meh"></i>
                                     </div>
                                 </div>
                                 <div class="featured-content">
