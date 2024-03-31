@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>PT JTA</title>
+    <title>PT Jagat Tirta Amarta</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="keywords" content="pure water, air mineral, isi ulang air, amarta water" />
