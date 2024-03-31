@@ -11,7 +11,7 @@
     <!--====== Title ======-->
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="{{url('landing_page')}}/images/logo/logo_io/favicon.ico" type="image/png">
+    <link rel="icon" href="{{url('landing_page')}}/images/logo/logo_io/favicon.ico" type="image/png">
 
     <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="{{url('landing_page')}}/css/animate.css" />
