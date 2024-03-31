@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="PT JTA" />
+    <meta name="keywords" content="pure water, air mineral, isi ulang air" />
+    <meta name="description" content="Merupakan perusahaan yang bergerak di bidang pengolahan air." />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--====== Title ======-->
     <title>PT JTA</title>
