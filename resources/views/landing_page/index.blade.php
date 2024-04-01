@@ -128,75 +128,171 @@
         <!-- Banner end-->
 
         <!-- slick_slider -->
-        <div class="slick_slider padding_bottom40 res-991-padding_bottom0" style="padding-bottom: 0px;" data-slick='{"slidesToShow": 5, "slidesToScroll": 1, "arrows":false, "autoplay":false, "infinite":true, "responsive": [{"breakpoint":1200,"settings":{"slidesToShow": 5}}, {"breakpoint":1024,"settings":{"slidesToShow": 4}}, {"breakpoint":777,"settings":{"slidesToShow": 3}},{"breakpoint":575,"settings":{"slidesToShow": 2}},{"breakpoint":380,"settings":{"slidesToShow": 1}}]}'>
-            <div class="client-box">
-                <div class="ttm-client-logo-tooltip">
-                    <div class="ttm-client-logo-tooltip-inner">
-                        <div class="client-thumbnail">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/accor.png" alt="image">
-                        </div>
-                        <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/accor.png" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="client-box">
-                <div class="ttm-client-logo-tooltip">
-                    <div class="ttm-client-logo-tooltip-inner">
-                        <div class="client-thumbnail">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/pik2.png" alt="image">
-                        </div>
-                        <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/pik2.png" alt="image">
+        <div class="row" style="padding-bottom: 0px;">
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/accor.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/accor.png" alt="image">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="client-box">
-                <div class="ttm-client-logo-tooltip">
-                    <div class="ttm-client-logo-tooltip-inner">
-                        <div class="client-thumbnail">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/gubah_reka.png" alt="image">
-                        </div>
-                        <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/gubah_reka.png" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="client-box">
-                <div class="ttm-client-logo-tooltip">
-                    <div class="ttm-client-logo-tooltip-inner">
-                        <div class="client-thumbnail">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_indramayu.png" alt="image">
-                        </div>
-                        <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_indramayu.png" alt="image">
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/pik2.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/pik2.png" alt="image">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="client-box">
-                <div class="ttm-client-logo-tooltip">
-                    <div class="ttm-client-logo-tooltip-inner">
-                        <div class="client-thumbnail">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_siloam.png" alt="image">
-                        </div>
-                        <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_siloam.png" alt="image">
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/gubah_reka.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/gubah_reka.png" alt="image">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="client-box">
-                <div class="ttm-client-logo-tooltip">
-                    <div class="ttm-client-logo-tooltip-inner">
-                        <div class="client-thumbnail">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/iatpi.png" alt="image">
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_indramayu.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_indramayu.png" alt="image">
+                            </div>
                         </div>
-                        <div class="client-thumbnail_hover">
-                            <img class="img-fluid" src="{{url('landing_page')}}/images/client/iatpi.png" alt="image">
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_siloam.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_siloam.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/iatpi.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/iatpi.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/k3mart.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/k3mart.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/pullman.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/pullman.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/nalaprana.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/nalaprana.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/itb.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/itb.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/hermina.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/hermina.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="client-box">
+                    <div class="ttm-client-logo-tooltip">
+                        <div class="ttm-client-logo-tooltip-inner">
+                            <div class="client-thumbnail">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_adjidarmo.png" alt="image">
+                            </div>
+                            <div class="client-thumbnail_hover">
+                                <img class="img-fluid" src="{{url('landing_page')}}/images/client/rs_adjidarmo.png" alt="image">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -268,8 +364,8 @@
                                     <div class="ttm-expandcontent_column">
                                         <div class="ttm-expandcontent_wrapper ttm-bgcolor-grey">
                                             <!-- row -->
-                                            <div class="row slick_slider slick-arrows-style2 " data-slick='{"slidesToShow": 4, "slidesToScroll": 1, "arrows":true, "autoplay":false, "dots":false, "infinite":true, "responsive":[{"breakpoint":1200,"settings":{"slidesToShow": 3}},{"breakpoint":992,"settings":{"slidesToShow": 2}},{"breakpoint":650,"settings":{"slidesToShow": 1}}]}'>
-                                                <div class="col-md-6 col-sm-6">
+                                            <div class="row">
+                                                <div class="col-md-4 col-sm-6">
                                                     <!--featured-imagebox-->
                                                     <div class="featured-imagebox featured-imagebox-services style1">
                                                         <!-- featured-thumbnail -->
@@ -292,12 +388,12 @@
                                                         </div>
                                                     </div><!-- featured-imagebox end-->
                                                 </div>
-                                                <div class="col-md-6 col-sm-6">
+                                                <div class="col-md-4 col-sm-6">
                                                     <!--featured-imagebox-->
                                                     <div class="featured-imagebox featured-imagebox-services style1">
                                                         <!-- featured-thumbnail -->
                                                         <div class="featured-thumbnail">
-                                                            <img class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio.png" alt="image">
+                                                            <img class="img-fluid" src="{{url('landing_page')}}/images/portfolio/amarta_pure_water.jpg" alt="image">
                                                         </div><!-- featured-thumbnail end-->
                                                         <div class="featured-content">
                                                             <div class="featured-icon">

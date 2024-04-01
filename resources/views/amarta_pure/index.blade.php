@@ -366,8 +366,8 @@
                                                         </div>
                                                     </div>
                                                     <div class="testimonial-caption">
-                                                        <h3>Erfan Ramadhan</h3>
-                                                        <label>Direktur Utama</label>
+                                                        <h3>Erfan Ramadhan S.T.P</h3>
+                                                        <label>Co - Founder</label>
                                                         <div class="star-ratings">
                                                             <ul class="rating">
                                                                 <li class="active"><i class="fa fa-star"></i></li>

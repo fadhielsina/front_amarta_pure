@@ -236,8 +236,24 @@
                             <div class="featured-icon-box icon-align-top-content style1">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-white ttm-icon_element-size-lg">
-                                        <i class="fa fa-rocket"></i>
+                                        <i class="fa fa-chalkboard-user"></i>
                                         <div class="ttm-num ttm-bgcolor-skincolor"><span class="number">06</span></div>
+                                    </div>
+                                </div>
+                                <div class="featured-content">
+                                    <div class="featured-title">
+                                        <h3>Training</h3>
+                                    </div>
+                                </div>
+                            </div><!-- featured-icon-box end-->
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <!-- featured-icon-box -->
+                            <div class="featured-icon-box icon-align-top-content style1">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-style-rounded ttm-icon_element-color-white ttm-icon_element-size-lg">
+                                        <i class="fa fa-rocket"></i>
+                                        <div class="ttm-num ttm-bgcolor-skincolor"><span class="number">07</span></div>
                                     </div>
                                 </div>
                                 <div class="featured-content">

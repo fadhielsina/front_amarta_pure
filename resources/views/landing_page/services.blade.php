@@ -166,7 +166,7 @@
                             <div class="featured-imagebox featured-imagebox-services style1">
                                 <!-- featured-thumbnail -->
                                 <div class="featured-thumbnail">
-                                    <img class="img-fluid" src="landing_page/images/portfolio/portofolio.png" alt="image">
+                                    <img class="img-fluid" src="{{url('landing_page')}}/images/portfolio/amarta_pure_water.jpg" alt="image">
                                 </div><!-- featured-thumbnail end-->
                                 <div class="featured-content">
                                     <div class="featured-icon">
