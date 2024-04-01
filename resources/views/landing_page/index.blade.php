@@ -128,8 +128,8 @@
         <!-- Banner end-->
 
         <!-- slick_slider -->
-        <div class="row" style="padding-bottom: 0px;">
-            <div class="col-lg-2 col-md-4 col-sm-6">
+        <div class="row">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -143,7 +143,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -157,7 +157,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -171,7 +171,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -185,7 +185,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -199,7 +199,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -213,7 +213,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+        </div>
+        <div class="row">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -227,7 +229,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -241,7 +243,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -255,7 +257,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -269,7 +271,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -283,7 +285,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="col">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
