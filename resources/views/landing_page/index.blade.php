@@ -128,8 +128,8 @@
         <!-- Banner end-->
 
         <!-- slick_slider -->
-        <div class="row">
-            <div class="col">
+        <div class="row" style="margin-left: 0px; margin-right: 0px;">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -143,7 +143,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -157,7 +157,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -171,7 +171,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -185,7 +185,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -199,7 +199,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -213,9 +213,7 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -229,7 +227,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -243,7 +241,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -257,7 +255,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -271,7 +269,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
@@ -285,7 +283,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-3">
                 <div class="client-box">
                     <div class="ttm-client-logo-tooltip">
                         <div class="ttm-client-logo-tooltip-inner">
