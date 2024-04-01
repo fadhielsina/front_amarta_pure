@@ -311,11 +311,11 @@
                             <div class="widget widget_img_gellary clearfix">
                                 <h3 class="widget-title">Our Gallery</h3>
                                 <ul>
-                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio.png" alt=""></a>
+                                    <li><a src="{{url('landing_page')}}/images/bg-image/services-1_new.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/bg-image/services-1_new.jpg" alt=""></a>
                                     </li>
-                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio_2.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_2.png" alt=""></a>
+                                    <li><a href="{{url('landing_page')}}/images/bg-image/services-2.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
+                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/bg-image/services-2.jpg" alt=""></a>
                                     </li>
                                     <li><a href="{{url('landing_page')}}/images/portfolio/portofolio_3.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
                                             <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_3.png" alt=""></a>
