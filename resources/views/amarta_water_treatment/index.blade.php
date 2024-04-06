@@ -20,6 +20,20 @@
     <link rel="stylesheet" href="amarta_treatment/css/style.css">
 </head>
 
+<style>
+    .card-img-top {
+        border-radius: 25px;
+    }
+
+    #bhome-section {
+        @media only screen and (max-width: 720px) {
+            body {
+                background-repeat: no-repeat;
+            }
+        }
+    }
+</style>
+
 <body>
     <div class="pt-4 pb-5">
         <div class="container">
@@ -70,53 +84,59 @@
         </div>
     </nav>
 
-    <section class="hero-wrap js-fullheight" style="background-image: url('amarta_treatment/images/bg_1.jpeg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap js-fullheight mb-3" style="background-image: url('amarta_treatment/images/bg_1.jpeg');" data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text js-fullheight align-items-center" data-scrollax-parent="true">
                 <div class="col-lg-6 ftco-animate">
                     <div class="mt-5">
                         <h1 class="mb-4">Amarta <br>Water Treatment</h1>
-                        <p class="mb-4" style="color: white;">Instalasi pipanisasi dan supplier filter air yang digunakan untuk skala industri, residential, rumah tangga, waste, dan komersial.</p>
+                        <p class="mb-4" style="color: white; font-weight:bold;">Merupakan unit layanan jasa instalasi yang berfokus pada penyediaan peralatan dan layanan pengolahan air dari air yang tidak layak untuk dikonsumsi menjadi air layak konsumsi menggunakan sistem reverse osmosis.</p>
                         <p><a href="#" class="btn btn-primary">Our Services</a> <a href="#" class="btn btn-white" data-toggle="modal" data-target="#exampleModalCenter">Request A Quote</a></p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <section class="ftco-section ftco-no-pt ftco-no-pb ftco-services-2">
-        <div class="container">
-            <div class="row no-gutters d-flex">
-                <div class="col-lg-4 d-flex align-self-stretch ftco-animate">
-                    <div class="media block-6 services d-flex">
-                        <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-engineer-1"></span></div>
-                        <div class="media-body pl-4">
-                            <h3 class="heading mb-3">Filter Sedimen</h3>
-                            <p>Mengurangi partikel seperti kotoran, debu, dan karat</p>
-                        </div>
+
+    <section class="ftco-section" id="bhome-section" style="background-image: url('amarta_treatment/images/bg_new.jpg');">
+        <h2 class="text-center" style="color: white; font-weight:bold;">Hampir 70% Sumber Air Minum Rumah Tangga di Indonesia Sudah Tercemar</h2>
+        <div class="row mt-5" style="margin-left: 50px; margin-right:0px;">
+            <div class="col-md-3 mr-4">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="amarta_treatment/images/1.jpg" alt="Card image cap">
+                    <div class="card-body text-center">
+                        <h4 class="card-title" style="color:white;">Kotoran Sumur Air</h4>
                     </div>
                 </div>
-                <div class="col-lg-4 d-flex align-self-stretch ftco-animate">
-                    <div class="media block-6 services services-2 d-flex">
-                        <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-worker-1"></span></div>
-                        <div class="media-body pl-4">
-                            <h3 class="heading mb-3">Filter Karbon</h3>
-                            <p>Mengurangi senyawa organik yang mudah menguap (VOC), klorin, dan kontaminan lainnya yang memberi air rasa atau bau tidak enak</p>
-                        </div>
+            </div>
+            <div class="col-md-3 mr-4">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="amarta_treatment/images/2.jpg" alt="Card image cap">
+                    <div class="card-body text-center">
+                        <h4 class="card-title" style="color:white;">Air dan Kotoran Limbah</h4>
                     </div>
                 </div>
-                <div class="col-lg-4 d-flex align-self-stretch ftco-animate">
-                    <div class="media block-6 services d-flex">
-                        <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-engineer"></span></div>
-                        <div class="media-body pl-4">
-                            <h3 class="heading mb-3">Membran RO</h3>
-                            <p>Menghilangkan hingga 98% dari total padatan terlarut (TDS ).</p>
-                        </div>
+            </div>
+            <div class="col-md-3 mr-4">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="amarta_treatment/images/3.jpg" alt="Card image cap">
+                    <div class="card-body text-center">
+                        <h4 class="card-title" style="color:white;">Kaporit dan Klorin</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="amarta_treatment/images/4.jpg" alt="Card image cap">
+                    <div class="card-body text-center">
+                        <h4 class="card-title" style="color:white;">Polusi Pipa PDAM</h4>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
     <section class="ftco-section" id="about-section" style="padding-bottom: 0px;">
         <div class="container">
             <div class="row">
@@ -132,7 +152,7 @@
                             <div class="d-flex about">
                                 <h3>Sebenarnya apasih Reverse Osmosis itu?</h3>
                             </div>
-                            <p>Reverse Osmosis ( Osmosis Terbalik ) atau RO adalahj suatu metode penyaringan yang dapat menyaring berbagai molekul besar dan ion-ion dari suatu larutan dengan cara memberi tekanan pada larutan ketika larutan itu berada di salah satu sisi membran seleksi (lapisan penyaring).</p>
+                            <p>Reverse Osmosis (Osmosis Terbalik) atau RO adalah suatu metode penyaringan yang dapat menyaring berbagai molekul besar dan ion-ion dari suatu larutan dengan cara memberi tekanan pada larutan ketika larutan itu berada di salah satu sisi membran seleksi (lapisan penyaring).</p>
                             <p>Reverse osmosis merupakan suatu proses pemaksaan sebuah pelarut dari daerah konsentrasi tinggi ke daerah pelarut rendah dengan menggunakan sebuah tekanan melebihi tekanan osmotik.</p>
                         </div>
                     </div>
@@ -140,6 +160,7 @@
             </div>
         </div>
     </section>
+
     <section class="ftco-section bg-half-light">
         <div class="container">
             <div class="row justify-content-center mb-5 pb-2">
@@ -151,7 +172,7 @@
                 <div class="col-md-4">
                     <div class="services-wrap ftco-animate">
                         <div class="text">
-                            <div class="icon"><span class="flaticon-architect"></span></div>
+                            <div class="icon"><span class="fa fa-gear" style="padding-top:19px;"></span></div>
                             <h2>Cara Kerja Sistem Reverse Osmosis</h2>
                             <p>Pada sistem Reverse Osmosis yakni menghilangkan sedimen dan klorin dengan pemfilteran sebelum melalui membran semipermiable untuk menghilangkan padatan terlarut. Setelah air keluar dari membran RO, air melewati postfilter untuk memproses air minum sebelum masuk ke keran khusus. Sistem reverse osmosis memiliki berbagai tahap tergantung pada jumlah prefilter dan postfilter nya.</p>
                         </div>
@@ -160,7 +181,7 @@
                 <div class="col-md-4">
                     <div class="services-wrap ftco-animate">
                         <div class="text">
-                            <div class="icon"><span class="flaticon-worker"></span></div>
+                            <div class="icon"><span class="fa fa-plus" style="padding-top: 22px;"></span></div>
                             <h2>Kelebihan Sistem Reverse Osmosis</h2>
                             <p>Reverse osmosis dapat menghilangkan 98% padatan terlarut, sehingga air lebih sehat untuk diminum. Penyuling air adalah satu-satunya sistem air minum lain yang juga mengurangi TDS, tetapi kurang efisien daripada sistem RO. Selain itu, sistem RO juga mengurangi zat kontaminan berbahaya yang larut, sodium dan mengurangi rasa dan bau pada air. Di samping itu juga, sistem reverse osmosis lebih ramah lingkungan, mudah dipasang dan perawatannya juga mudah.</p>
                         </div>
@@ -169,9 +190,9 @@
                 <div class="col-md-4">
                     <div class="services-wrap ftco-animate">
                         <div class="text">
-                            <div class="icon"><span class="flaticon-hammer"></span></div>
+                            <div class="icon"><span class="fa fa-exclamation-triangle" style="padding-top: 19px;"></span></div>
                             <h2>Kontaminan yang dihilangkan</h2>
-                            <p>Sistem reverse osmosis menghilangkan padatan terlarut seperti arsenik dan fluorida melalui membran RO. Dalam sistem RO Filter Karbon berfungsi untuk menghilangkan klorin, rasa dan bau tidak enak, dan filter sedimen berfungsi untuk menghilangkan zat pengotor. Selain itu sistem reverse osmosis juga menghilangkan zat fluor, kadar garam, endapan, klorin, arsenik, herbisida dan pestisida dan juga menghilangkan banyak kontaminan lainnya. Reverse osmosis juga dapat menghilangkan beberapa bakteri, tetapi bakteri dapat tumbuh pada membran dan berpotensi memasuki persediaan air.</p>
+                            <p>Sistem reverse osmosis menghilangkan padatan terlarut seperti arsenik dan fluorida melalui membran RO. Dalam sistem RO Filter Karbon berfungsi untuk menghilangkan klorin, rasa dan bau tidak enak, dan filter sedimen berfungsi untuk menghilangkan zat pengotor. Selain itu sistem reverse osmosis juga menghilangkan zat fluor, kadar garam, endapan, klorin, arsenik, herbisida dan pestisida dan juga menghilangkan banyak kontaminan lainnya.</p>
                         </div>
                     </div>
                 </div>
@@ -196,20 +217,7 @@
                             <div class="text-center">
                                 <span class="subheading">1</span>
                             </div>
-                            <h3>Sewaktu air pertama kali masuk ke sistem RO, maka akan melewati prefiltrasi. Prefiltrasi mencakup filter karbon dan filter sedimen untuk menghilangkan sedimen dan klorin yang dapat menyumbat atau merusak membran RO.</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="project">
-                        <a href="amarta_treatment/images/project-2.jpeg" class="img image-popup d-flex align-items-center" style="background-image: url(amarta_treatment/images/project-2.jpeg);">
-                            <div class="icon d-flex align-items-center justify-content-center mb-5"><span class="fa fa-plus"></span></div>
-                        </a>
-                        <div class="text">
-                            <div class="text-center">
-                                <span class="subheading">2</span>
-                            </div>
-                            <h3>Selanjutnya, air melewati membran reverse osmosis di mana partikel terlarut dihilangkan.</h3>
+                            <p>Sewaktu air pertama kali masuk ke sistem RO, maka akan melewati prefiltrasi. Prefiltrasi mencakup filter karbon dan filter sedimen untuk menghilangkan sedimen dan klorin yang dapat menyumbat atau merusak membran RO. Selanjutnya, air melewati membran reverse osmosis di mana partikel terlarut dihilangkan.</p>
                         </div>
                     </div>
                 </div>
@@ -220,9 +228,9 @@
                         </a>
                         <div class="text">
                             <div class="text-center">
-                                <span class="subheading">3</span>
+                                <span class="subheading">2</span>
                             </div>
-                            <h3>Setelah penyaringan, air mengalir ke tangki penyimpanan sementara. Sistem reverse osmosis terus menyaring air sampai tangki penyimpanan penuh dan kemudian mati.</h3>
+                            <p>Setelah penyaringan, air mengalir ke tangki penyimpanan sementara. Sistem reverse osmosis terus menyaring air sampai tangki penyimpanan penuh dan kemudian mati.</p>
                         </div>
                     </div>
                 </div>
@@ -233,10 +241,10 @@
                         </a>
                         <div class="text">
                             <div class="text-center">
-                                <span class="subheading">4</span>
+                                <span class="subheading">3</span>
                             </div>
-                            <h3>Setelah keran air minum dinyalakan, air akan keluar dari tangki penyimpanan melalui postfilter lain untuk memproses air minum sebelum sampai ke keran.
-                                Tangki penyimpanan RO digunakan untuk menampung air RO sehingga sistem memiliki persediaan air minum. Sistem RO berjalan cukup perlahan. Diperlukan satu menit untuk menghasilkan dua hingga tiga liter air RO. Jika mengaktifkan keran untuk segalon air pada tingkat produksi membran yang sebenarnya, maka kita harus menunggu setidaknya beberapa menit untuk mengisi. Dengan tangki penyimpanan, galon air kita dapat langsung terisi.</h3>
+                            <p>Setelah keran air minum dinyalakan, air akan keluar dari tangki penyimpanan melalui postfilter lain untuk memproses air minum sebelum sampai ke keran.
+                                Tangki penyimpanan RO digunakan untuk menampung air RO sehingga sistem memiliki persediaan air minum. Sistem RO berjalan cukup perlahan. Diperlukan satu menit untuk menghasilkan dua hingga tiga liter air RO.</p>
                         </div>
                     </div>
                 </div>

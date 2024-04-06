@@ -351,7 +351,8 @@
                                     <h2 class="title">Devoted Services</h2>
                                 </div>
                                 <div class="title-desc padding_left20 res-991-padding_left0">
-                                    <p>Jika ini melibatkan akuakultur, tim konsultan akuakultur kami dapat membantu mengembangkan semua jenis proyek!</p>
+                                    <p>PT. Jagat Tirta Amarta merupakan perusahaan yang bergerak di bidang pengolahan air yang memiliki dua sub unit usaha atau jasa dengan nama unit
+                                        Amarta Water Treatment dan Amarta Pure Water</p>
                                 </div>
                             </div><!-- section title end -->
                         </div>
@@ -436,7 +437,7 @@
                                     <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta_footer.png" alt="logo-img">
                                 </div>
                                 <div class="textwidget widget-text">
-                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="contact-us.html">Make a appointment <i class="fa fa-chevron-right"></i></a>
+                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="contact-us">Make a appointment <i class="fa fa-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -480,7 +481,7 @@
                                     Ruko Pancawarna / Samping IKEA,Kota Baru Parahyangan – Kertajaya, Kec. Padalarang
                                     Kabupaten Bandung Barat, Jawa Barat 40553</p>
                                 <div class="d-inline-table align-items-center justify-content-between">
-                                    <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-skincolor margin_right40 margin_bottom5" href="contact-us.html">Get direction <i class="fa fa-chevron-right"></i></a>
+                                    <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-skincolor margin_right40 margin_bottom5" href="contact-us">Get direction <i class="fa fa-chevron-right"></i></a>
                                     <div class="social-icons d-inline-block margin_top10 margin_bottom10">
                                         <ul class="social-icons list-inline">
                                             <li><a class="tooltip-top" href="https://www.facebook.com/preyantechnosys19" rel="noopener" aria-label="facebook" data-tooltip="Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
