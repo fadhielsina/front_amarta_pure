@@ -41,9 +41,11 @@ Route::get('/amarta_pure_water/product', function () {
 
 // Amarta Treatment
 Route::get('/amarta_water_treatment', function () {
-    return view('amarta_water_treatment/index_new');
-});
-
-Route::get('/amarta_water_treatment_old', function () {
     return view('amarta_water_treatment/index');
+});
+Route::get('/amarta_water_treatment/about-us', function () {
+    return view('amarta_water_treatment/aboutus');
+});
+Route::get('/amarta_water_treatment/reverse-osmosis', function () {
+    return view('amarta_water_treatment/ro');
 });

@@ -28,6 +28,7 @@
 </head>
 
 <body>
+
     <div class="mouseCursor cursor-outer"></div>
     <div class="mouseCursor cursor-inner"><span>Drag</span></div>
 
@@ -49,13 +50,13 @@
                                     <nav id="mobile-menu">
                                         <ul>
                                             <li class="menu-item-has-children">
-                                                <a href="{{url('amarta_water_treatment')}}" style="color: blue;">Home</a>
+                                                <a href="{{url('amarta_water_treatment')}}">Home</a>
                                             </li>
                                             <li class="menu-item-has-children">
                                                 <a href="{{url('amarta_water_treatment')}}/about-us">About Us</a>
                                             </li>
                                             <li class="menu-item-has-children">
-                                                <a href="{{url('amarta_water_treatment')}}/reverse-osmosis">Reverse Osmosis</a>
+                                                <a href="{{url('amarta_water_treatment')}}/reverse-osmosis" style="color: blue;">Reverse Osmosis</a>
                                             </li>
                                             <li class="menu-item-has-children">
                                                 <a href="{{url('amarta_water_treatment')}}/blog">Blog</a>
@@ -152,206 +153,53 @@
 
         <div class="adjust-header-space bg-common-white"></div>
 
-        <!-- hero area start  -->
-        <section class="hero__area p-relative section-spacing bg-theme-1 hero__area-3 fix">
-            <div class="container container-big">
-                <div class="hero__content p-relative">
-                    <div class="hero__title-wrap">
-                        <p class="hero__subtitle xsmall uppercase lh-1 wow fadeInUp" data-wow-delay=".3s">Welcome to
-                            Amarta Water Treatment
-                        </p>
-                        <h1 class="hero__title text-white wow fadeInUp" data-wow-delay=".5s">Amarta Water Treatment</h1>
-                    </div>
-                    <p style="color: white;" class="hero__text wow fadeInUp" data-wow-delay=".7s">Merupakan unit layanan jasa instalasi yang berfokus pada penyediaan peralatan dan layanan pengolahan air dari air yang tidak layak untuk dikonsumsi menjadi air layak konsumsi menggunakan sistem reverse osmosis.</p>
-                </div>
-            </div>
-            <div class="hero__img">
-                <span class="hero__img-overlay"></span>
-                <img src="{{url('water_treatment')}}/assets/img/background/bg_1.jpeg" alt="image not found">
-            </div>
-        </section>
-        <!-- hero area end  -->
-
-        <!-- services area start  -->
-        <div class="services__area section-spacing">
+        <!-- page title area start  -->
+        <section class="page-title-area-2 breadcrumb-spacing bg-theme-4 section-spacing">
             <div class="container">
-                <div class="row justify-content-center section-title-spacing mb-40 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="col-xl-8">
-                        <div class="section__title-wrapper text-center">
-                            <h2 class="section__title">Hampir 70% Sumber Air Minum di Indonesia Sudah Tercemar</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row g-5 gy-50 row-cols-xl-4 row-cols-lg-3 row-cols-sm-2 row-cols-1">
-                    <div class="col">
-                        <div class="counter__box">
-                            <div class="counter__number-box">
-                                <img src="{{url('water_treatment')}}/assets/img/background/kotoran_sumur.webp" style="border-radius: 15%;" alt="">
-                            </div>
-                            <h3 class="counter__title">Kotoran Sumur Air</h3>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="counter__box">
-                            <div class="counter__number-box">
-                                <img src="{{url('water_treatment')}}/assets/img/background/kotoran_limbah.jpg" style="border-radius: 15%;" alt="">
-                            </div>
-                            <h3 class="counter__title">Air dan Kotoran Limbah</h3>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="counter__box">
-                            <div class="counter__number-box">
-                                <img src="{{url('water_treatment')}}/assets/img/background/kaporit.jpg" style="border-radius: 15%;" alt="">
-                            </div>
-                            <h3 class="counter__title">Kaporit dan Klorin</h3>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="counter__box">
-                            <div class="counter__number-box">
-                                <img src="{{url('water_treatment')}}/assets/img/background/polusi_pipa.jpeg" style="border-radius: 15%;" alt="">
-                            </div>
-                            <h3 class="counter__title">Polusi Pipa dan PDAM</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- services area end  -->
-
-        <!-- about area start  -->
-        <section class="df-about__area section-spacing bg-theme-4">
-            <div class="container">
-                <div class="row g-5 gy-50 align-items-center wow fadeInUp" data-wow-delay=".3s">
-                    <div class="col-lg-6">
-                        <div class="df-about__content ">
-                            <div class="section__title-wrapper">
-                                <h2 class="section__title">Reverse Osmosis</h2>
-                            </div>
-                            <p class="mt-35 mb-35">Reverse Osmosis (Osmosis Terbalik) atau RO adalah suatu metode penyaringan yang dapat menyaring berbagai molekul besar dan ion-ion dari suatu larutan dengan cara memberi tekanan pada larutan ketika larutan itu berada di salah satu sisi membran seleksi (lapisan penyaring).</p>
-                            <p>Reverse osmosis merupakan suatu proses pemaksaan sebuah pelarut dari daerah konsentrasi tinggi ke daerah pelarut rendah dengan menggunakan sebuah tekanan melebihi tekanan osmotik.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="df-video__box">
-                            <img src="{{url('water_treatment')}}/assets/img/background/bg_2.jpeg" alt="image not found">
+                <div class="row justify-content-center">
+                    <div class="col-xxl-9">
+                        <div class="page-title-wrapper-2 text-center">
+                            <h1 class="page__title-2 mb-25">Reverse Osmosis</h1>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- about area end  -->
+        <!-- page title area start  -->
 
-        <!-- benifits area start  -->
-        <section class="df-benifits__area section-spacing">
+        <!-- blog area start  -->
+        <section class="df-blog__area section-spacing fix" style="padding-top: 50px;">
             <div class="container">
-                <div class="row align-items-center justify-content-between g-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="col-xl-7">
-                        <div class="section__title-wrapper section-title-spacing">
-                            <h2 class="section__title">Sektor Apa Saja yang dapat dilakukan proses pengolahan air?</h2>
-                        </div>
-                        <div class="df-benifits__wrapper">
-                            <div class="row justify-content-between">
-                                <div class="col-xl-6 col-md-6">
-                                    <div class="df-benifits__single-box">
-                                        <div class="df-benifits__icon">
-                                            <i class="icon-df-service"></i>
-                                        </div>
-                                        <div class="df-benifits__content">
-                                            <h4 class="df-benifits__title">Residential Water Treatment</h4>
-                                            <p class="df-benifits__sub-title">Penyedia produk dan layanan skala rumah tangga untuk proses pengolahan air dari air baku menjadi air layak minum.</p>
-                                        </div>
-                                    </div>
+                <div class="row g-5">
+                    <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12">
+                        <div class="df-blog-details__wrap">
+                            <div class="df-blog-details__box mb-30 wow fadeInUp animated" data-wow-duration="1.5s" data-wow-delay="0.3">
+                                <div class="df-blog-details__thumb p-relative">
+                                    <div class="df-blog-details__thumb-overlay wow"></div>
+                                    <img src="{{url('water_treatment')}}/assets/img/background/bg_2.jpeg" alt="image not found">
                                 </div>
-                                <div class="col-xl-6 col-md-6">
-                                    <div class="df-benifits__single-box">
-                                        <div class="df-benifits__icon">
-                                            <i class="icon-036-star-1"></i>
-                                        </div>
-                                        <div class="df-benifits__content">
-                                            <h4 class="df-benifits__title">Comercial Water Treatment</h4>
-                                            <p class="df-benifits__sub-title">Penyedia produk dan layanan skala komersil seperti hotel, restoran, cafe (Horeca), dan depot air minum isi ulang untuk mengolah air dengan volume air yang besar dengan laju aliran yang tinggi.</p>
-                                        </div>
+                                <div class="df-blog-details__content mb-40">
+                                    <div class="df-blog-details__meta mb-25">
+                                        <h3>Apa Itu Reverse Osmosis</h3>
                                     </div>
-                                </div>
-                                <div class="col-xl-6 col-md-6">
-                                    <div class="df-benifits__single-box">
-                                        <div class="df-benifits__icon">
-                                            <i class="icon-053-price"></i>
-                                        </div>
-                                        <div class="df-benifits__content">
-                                            <h4 class="df-benifits__title">Industrial Water Treatment</h4>
-                                            <p class="df-benifits__sub-title">Penyedia produk dan layanan skala industri mulai dari industri yang bergerak di bidang pangan, sandang, dan papan untuk mempertahankan kualitas dan keberlanjutan penggunaan air dalam proses industri.</p>
-                                        </div>
+                                    <p class="df-blog-details__text mb-20">Reverse osmosis merupakan teknologi yang menggunakan membran sebagai filter dan tekanan untuk mendorong cairan/air dari satu sisi ke sisi lainnya. Air yang menembus membran tersebut adalah air yang bersih dan sudah tersaring dari berbagai kontaminan. Reverse Osmosis merupakan proses pemurnian air yang dilakukan melalui beberapa kali tahapan penyaringan untuk menghilangkan kandungan molekul serta partikel berbahaya yang ada di dalamnya, seperti kontaminan dan sedimen yang meliputi klorin, garam, metal, dan berbagai kotoran lainnya.</p>
+                                    <div class="df-blog-details__meta mb-25">
+                                        <h3>Bagaimana Cara Reverse Osmosis Bekerja?</h3>
                                     </div>
-                                </div>
-                                <div class="col-xl-6 col-md-6">
-                                    <div class="df-benifits__single-box">
-                                        <div class="df-benifits__icon">
-                                            <i class="icon-031-like"></i>
-                                        </div>
-                                        <div class="df-benifits__content">
-                                            <h4 class="df-benifits__title">Instalasi Pengolahan Air Limbah</h4>
-                                            <p class="df-benifits__sub-title">Teknologi, peralatan, dan perlengkapan yang dirancang secara khusus untuk proses pengolahan air limbah atau cairan sisa proses tersebut menjadi layak untuk dibuang ke lingkungan.</p>
-                                        </div>
+                                    <p class="df-blog-details__text mb-20">Proses pemurnian menggunakan sistem Reverse Osmosis dilakukan dengan cara memberikan tekanan pada air yang memiliki konsentrasi kontamin tinggi ke konsentrasi kontamin rendah, sehingga kontamin yang ada di dalam air bisa tersaring dan hanya menyisakan air bersih yang dapat langsung diminum.</p>
+                                    <p class="df-blog-details__text mb-20">Pada mesin filter biasanya terdapat empat proses penyaringan yang mencakup filter sedimen, filter pra-carbon, membran inti, dan filter post-carbon. Filter sedimen berfungsi untuk menghilangkan kotoran besar seperti debu, pasir, atau tanah agar tidak menyumbat filter lainnya. Filter pra-carbon bekerja dengan mengaktifkan karbon untuk menyaring kotoran yang seukuran butiran tepung seperti klorin, kloramin, dan senyawa kimia lainnya. Kemudian membran Reverse Osmosis akan menyaring molekul yang lebih berat dari air seperti sodium, flourida, logam berat, dan sebagainya. Lalu filter yang terakhir bertugas untuk memurnikan air yang sudah disaring sebelumnya dari elemen yang masih tersisa sampai benar-benar menjadi H2O murni.</p>
+                                    <div class="df-blog-details__meta mb-25">
+                                        <h3>Apa Keuntungan Menggunakan Reverse Osmosis?</h3>
                                     </div>
+                                    <p class="df-blog-details__text mb-20">Berbeda dengan filter karbon yang hanya mampu menyaring partikel berukuran 1 mikron saja, filter air Reverse Osmosis dapat memurnikan air hingga 99,9% dari berbagai jenis kontamin dan sedimen, bahkan juga sampai partikel terkecil yang berukuran 0,01 mikron. Anda mungkin memiliki sumber mata air yang bersih untuk persediaan air di rumah, namun dalam proses perjalanan air tersebut dari sumber mata air hingga sampai ke pipa rumah Anda belum tentu sudah terjamin bebas dari berbagai kontamin yang ada di alam. Tanpa Anda sadari, bisa saja keran rumah Anda menghasilkan air dengan tingkat TDS yang tinggi, yang mana akan sangat berbahaya jika dikonsumsi oleh manusia, terlebih lagi dalam jangka waktu yang panjang. Menurut Wolrd Health Organization, air dengan konsentrasi TDS yang mencapai angka 1200ppm atau lebih dikhawatirkan dapat memberikan berbagai gangguan kesehatan berbahaya, seperti kanker dan ginjal.</p>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-5">
-                        <div class="df-benifits__thumb">
-                            <img src="{{url('water_treatment')}}/assets/img/background/project-1.jpeg" alt="image not found">
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- benifits area end  -->
-
-        <!-- testimonial area start  -->
-        <section class="df-testimonial__area section-spacing bg-theme-4 p-relative x-clip z-index-3">
-            <div class="container">
-                <div class="df-testimonial__wrapper p-relative wow fadeInUp" data-wow-delay=".3s">
-                    <div class="swiper testimonial__slider">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="df-testimonial__box">
-                                    <div class="df-testimonial__box-content">
-                                        <div class="df-testimonial__icon">
-                                            <i class="icon-020-quote"></i>
-                                        </div>
-                                        <div class="df-testimonial__text">
-                                            <p>Terhormat Kami bertindak hati-hati guna me-mindset system perusahaan menyongsong kesuksesan para pemangku,pelanggan dan mempertahankan standar Profesionalisme moralitas tertinggi
-                                            </p>
-                                        </div>
-                                        <div class="df-testimonial__author-meta d-flex justify-content-center">
-                                            <div class="df-testimonial__author-thumb">
-                                                <img class="img-fluid" src="landing_page/images/team-member/daniel.png" alt="image">
-                                            </div>
-                                            <div class="df-testimonial__author-review">
-                                                <h4 class="df-testimonial__author">Daniel Sunarto</h4>
-                                                <p>Co-Founder</p>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="df-testimonial__navigation">
-                        <div class="testimonial__slider-button-prev slider__nav-btn"><i class="icon-022-left"></i>
-                        </div>
-                        <div class="testimonial__slider-button-next slider__nav-btn"><i class="icon-021-next"></i>
-                        </div>
-                    </div>
-                    <div class="testimonial__slider-pagination df__pagination mt-60 justify-content-center wow fadeInUp" data-wow-delay=".3s"></div>
-                </div>
-            </div>
-        </section>
-        <!-- testimonial area end  -->
+        <!-- blog area end  -->
 
     </main>
 
