@@ -1,13 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html Content-Language="ID" lang="id" xml:lang="id">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
     <title>PT Jagat Tirta Amarta</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="pure water, air mineral, isi ulang air, amarta water" />
-    <meta name="description" content="Merupakan perusahaan yang bergerak di bidang pengolahan air." />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#13c5dd" />
+    <meta property="og:title" content="PT Jagat Tirta Amarta">
+    <meta property="og:description" content="Merupakan perusahaan yang bergerak di bidang pengolahan air.">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+    <meta property="og:type" content="website" />
     <!--====== Title ======-->
 
     <!--====== Favicon Icon ======-->

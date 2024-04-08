@@ -1,12 +1,20 @@
 <!DOCTYPE html>
-<html class="no-js" lang="zxx">
+<html Content-Language="ID" lang="id" xml:lang="id">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Amarta Water Treatment</title>
-    <meta name="description" content="">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#13c5dd" />
+    <meta property="og:title" content="Amarta Water Treatment">
+    <meta property="og:description" content="Merupakan perusahaan yang bergerak di bidang pengolahan air.">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+    <meta property="og:type" content="website" />
     <!-- Place favicon.ico in the root directory -->
     <!--====== Favicon Icon ======-->
     <link rel="icon" href="{{url('landing_page')}}/images/logo/logo_io/favicon.ico" type="image/png">

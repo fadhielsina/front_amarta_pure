@@ -1,14 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html Content-Language="ID" lang="id" xml:lang="id">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
+    <title>Amarta Pure Water</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="PT JTA" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--====== Title ======-->
-    <title>Amarta Pure Water</title>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#13c5dd" />
+    <meta property="og:title" content="Amarta Pure Water">
+    <meta property="og:description" content="Merupakan perusahaan yang bergerak di bidang pengolahan air.">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+    <meta property="og:type" content="website" />
 
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="{{ url('landing_page') }}/images/logo/logo_io/favicon.ico" type="image/png">
