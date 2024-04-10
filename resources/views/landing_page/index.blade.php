@@ -118,7 +118,7 @@
                     </div>
                 </div>
                 <div class="slide">
-                    <div class="slide_img" style="background-image: url(landing_page/images/slides/slider-ramadan.jpg);"></div>
+                    <div class="slide_img" style="background-image: url(landing_page/images/slides/slider-event.jpeg);"></div>
                     <div class="slide__content">
                         <div class="container">
                             <div class="row">
