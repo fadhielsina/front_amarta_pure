@@ -64,22 +64,22 @@
                                             <nav class="main-menu menu-mobile" id="menu">
                                                 <ul class="menu">
                                                     <li class="mega-menu-item">
-                                                        <a href="/amarta_pure_water">Home</a>
+                                                        <a href="/">Home</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="/amarta_pure_water/about-us">About Us</a>
+                                                        <a href="/about-us">About Us</a>
                                                     </li>
                                                     <li class="mega-menu-item active">
-                                                        <a href="/amarta_pure_water/waralaba">Waralaba</a>
+                                                        <a href="/waralaba">Waralaba</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="/amarta_pure_water/product">Product</a>
+                                                        <a href="/product">Product</a>
                                                     </li>
                                                     <li class="mega-menu-item">
                                                         <a href="/blog">Blog</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="/contact-us">Contact us</a>
+                                                        <a href="https://jagattirtaamarta.com/contact-us">Contact us</a>
                                                     </li>
                                                 </ul>
                                             </nav><!-- menu end -->

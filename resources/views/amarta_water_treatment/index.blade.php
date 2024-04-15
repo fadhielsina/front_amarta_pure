@@ -68,7 +68,7 @@
                                             <li class="menu-item-has-children">
                                                 <a href="{{url('amarta_water_treatment')}}/blog">Blog</a>
                                             </li>
-                                            <li><a href="/contact-us">Contact</a></li>
+                                            <li><a href="https://jagattirtaamarta.com/contact-us">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
