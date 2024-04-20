@@ -1,21 +1,14 @@
 <?php
 
+use App\Http\Controllers\AmartaWaterController;
 use Illuminate\Support\Facades\Route;
 
 // Amarta Pure
-Route::get('/', function () {
-    die('masuk');
-    return view('amarta_pure/index');
-});
-Route::get('/about-us', function () {
-    return view('amarta_pure/aboutus');
-});
-Route::get('/waralaba', function () {
-    return view('amarta_pure/waralaba');
-});
+Route::get('/', [AmartaWaterController::class, 'index'])->name('amarta_water.index');
+Route::get('/about-us', [AmartaWaterController::class, 'aboutus'])->name('amarta_water.aboutus');
+Route::get('/waralaba', [AmartaWaterController::class, 'waralaba'])->name('amarta_water.waralaba');
 Route::get('/product', function () {
     abort(404);
-    // return view('amarta_pure/product');
 });
 
 // =====================================================================================
