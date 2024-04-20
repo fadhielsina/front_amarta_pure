@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 // Amarta Pure
 Route::get('/', function () {
-    return view('amarta_pure/index');
+    return view("amarta_pure/index");
 });
 Route::get('/about-us', function () {
     return view('amarta_pure/aboutus');
