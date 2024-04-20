@@ -202,7 +202,7 @@
                                 <div class="layer-content">
                                 </div>
                             </div><!-- col-img-bg-img-three end-->
-                            <img class="img-fluid ttm-equal-height-image" src="{{ url('landing_page') }}/images/bg-image/amarta_pure.jpg" alt="bg-image">
+                            <img class="img-fluid ttm-equal-height-image" src="{{ url('landing_page') }}/images/bg-image/water_pure.jpg" alt="bg-image">
                         </div>
                         <div class="col-lg-2">
                             <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-skincolor spacing-4 z-index-2 h-auto">
