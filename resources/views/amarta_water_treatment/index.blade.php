@@ -18,6 +18,8 @@
     <!-- Place favicon.ico in the root directory -->
     <!--====== Favicon Icon ======-->
     <link rel="icon" href="{{url('landing_page')}}/images/logo/logo_io/favicon.ico" type="image/png">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
     <!-- CSS here -->
     <link rel="stylesheet" href="{{url('water_treatment')}}/assets/css/plugins/preloader.css">
     <link rel="stylesheet" href="{{url('water_treatment')}}/assets/css/vendor/bootstrap.min.css">
@@ -76,11 +78,11 @@
                                 <div class="message__now d-none d-lg-inline-flex">
                                     <div class="meta-item">
                                         <div class="meta-item__icon">
-                                            <i class="icon-074-phone"></i>
+                                            <i class="fa-brands fa-whatsapp"></i>
                                         </div>
                                         <div class="meta-item__text">
                                             <p>CONTACT NUMBER</p>
-                                            <span><a class="is-black" href="{{url('water_treatment')}}/tel:+866332-2020">+62 811 887 7225</a></span>
+                                            <span><a class="is-black" href="https://wa.me/08118877225">+62 811 887 7225</a></span>
                                         </div>
                                     </div>
                                 </div>
@@ -251,72 +253,69 @@
         </section>
         <!-- about area end  -->
 
-        <!-- benifits area start  -->
-        <section class="df-benifits__area section-spacing">
+        <!-- services area start  -->
+        <section class="df-services__area section-spacing p-relative x-clip">
+            <div class="area-shapes">
+                <div class="df-inner-area__shape1"></div>
+                <div class="df-inner-area__shape2"></div>
+            </div>
             <div class="container">
-                <div class="row align-items-center justify-content-between g-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="col-xl-7">
-                        <div class="section__title-wrapper section-title-spacing">
+                <div class="row justify-content-center section-title-spacing wow fadeInUp" data-wow-delay=".3s">
+                    <div class="col-xl-8">
+                        <div class="section__title-wrapper text-center">
                             <h2 class="section__title">Sektor Apa Saja yang dapat dilakukan proses pengolahan air?</h2>
                         </div>
-                        <div class="df-benifits__wrapper">
-                            <div class="row justify-content-between">
-                                <div class="col-xl-6 col-md-6">
-                                    <div class="df-benifits__single-box">
-                                        <div class="df-benifits__icon">
-                                            <i class="icon-df-service"></i>
-                                        </div>
-                                        <div class="df-benifits__content">
-                                            <h4 class="df-benifits__title">Residential Water Treatment</h4>
-                                            <p class="df-benifits__sub-title">Penyedia produk dan layanan skala rumah tangga untuk proses pengolahan air dari air baku menjadi air layak minum.</p>
-                                        </div>
-                                    </div>
+                    </div>
+                </div>
+                <div class="row g-5 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="service__box">
+                            <div class="service__content">
+                                <div class="service__img">
+                                    <img src="water_treatment/assets/img/service/redential.jpg" alt="image not found">
                                 </div>
-                                <div class="col-xl-6 col-md-6">
-                                    <div class="df-benifits__single-box">
-                                        <div class="df-benifits__icon">
-                                            <i class="icon-036-star-1"></i>
-                                        </div>
-                                        <div class="df-benifits__content">
-                                            <h4 class="df-benifits__title">Comercial Water Treatment</h4>
-                                            <p class="df-benifits__sub-title">Penyedia produk dan layanan skala komersil seperti hotel, restoran, cafe (Horeca), dan depot air minum isi ulang untuk mengolah air dengan volume air yang besar dengan laju aliran yang tinggi.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 col-md-6">
-                                    <div class="df-benifits__single-box">
-                                        <div class="df-benifits__icon">
-                                            <i class="icon-053-price"></i>
-                                        </div>
-                                        <div class="df-benifits__content">
-                                            <h4 class="df-benifits__title">Industrial Water Treatment</h4>
-                                            <p class="df-benifits__sub-title">Penyedia produk dan layanan skala industri mulai dari industri yang bergerak di bidang pangan, sandang, dan papan untuk mempertahankan kualitas dan keberlanjutan penggunaan air dalam proses industri.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 col-md-6">
-                                    <div class="df-benifits__single-box">
-                                        <div class="df-benifits__icon">
-                                            <i class="icon-031-like"></i>
-                                        </div>
-                                        <div class="df-benifits__content">
-                                            <h4 class="df-benifits__title">Instalasi Pengolahan Air Limbah</h4>
-                                            <p class="df-benifits__sub-title">Teknologi, peralatan, dan perlengkapan yang dirancang secara khusus untuk proses pengolahan air limbah atau cairan sisa proses tersebut menjadi layak untuk dibuang ke lingkungan.</p>
-                                        </div>
-                                    </div>
-                                </div>
+                                <h4 class="service__title"><a href="service-details.html">Residential Water Treatment</a></h4>
+                                <p class="service__text">Penyedia produk dan layanan skala rumah tangga untuk proses pengolahan air dari air baku menjadi air layak minum.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5">
-                        <div class="df-benifits__thumb">
-                            <img src="{{url('water_treatment')}}/assets/img/background/project-1.jpeg" alt="image not found">
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="service__box">
+                            <div class="service__content">
+                                <div class="service__img">
+                                    <img src="water_treatment/assets/img/service/air_limbah.jpg" alt="image not found">
+                                </div>
+                                <h4 class="service__title"><a href="service-details.html">Instalasi Pengolahan Air Limbah</a></h4>
+                                <p class="service__text">Teknologi, peralatan, dan perlengkapan yang dirancang secara khusus untuk proses pengolahan air limbah atau cairan sisa proses tersebut menjadi layak untuk dibuang ke lingkungan.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="service__box">
+                            <div class="service__content">
+                                <div class="service__img">
+                                    <img src="water_treatment/assets/img/service/commercial.jpg" alt="image not found">
+                                </div>
+                                <h4 class="service__title"><a href="service-details.html">Comercial Water Treatment</a></h4>
+                                <p class="service__text">Penyedia produk dan layanan skala komersil seperti kawasan terpadu, apartment, rumah sakit, hotel, restoran, cafe (Horeca), dan depot air minum isi ulang untuk mengolah air dengan volume air yang besar dengan laju aliran yang tinggi.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="service__box">
+                            <div class="service__content">
+                                <div class="service__img">
+                                    <img src="water_treatment/assets/img/service/industrial.jpg" alt="image not found">
+                                </div>
+                                <h4 class="service__title"><a href="service-details.html">Industrial Water Treatment</a></h4>
+                                <p class="service__text">Penyedia produk dan layanan skala industri mulai dari industri yang bergerak di bidang pangan, sandang, dan papan untuk mempertahankan kualitas dan keberlanjutan penggunaan air dalam proses industri.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- benifits area end  -->
+        <!-- services area end  -->
 
         <!-- testimonial area start  -->
         <section class="df-testimonial__area section-spacing bg-theme-4 p-relative x-clip z-index-3">
@@ -327,12 +326,8 @@
                             <div class="swiper-slide">
                                 <div class="df-testimonial__box">
                                     <div class="df-testimonial__box-content">
-                                        <div class="df-testimonial__icon">
-                                            <i class="icon-020-quote"></i>
-                                        </div>
                                         <div class="df-testimonial__text">
-                                            <p>Terhormat Kami bertindak hati-hati guna me-mindset system perusahaan menyongsong kesuksesan para pemangku,pelanggan dan mempertahankan standar Profesionalisme moralitas tertinggi
-                                            </p>
+                                            <p>" Terhormat Kami bertindak hati-hati guna <br> me-mindset system perusahaan menyongsong kesuksesan para pemangku,pelanggan dan mempertahankan standar Profesionalisme moralitas tertinggi "</p>
                                         </div>
                                         <div class="df-testimonial__author-meta d-flex justify-content-center">
                                             <div class="df-testimonial__author-thumb">
@@ -360,6 +355,92 @@
             </div>
         </section>
         <!-- testimonial area end  -->
+
+        <!-- brands area start  -->
+        <div class="brand__area section-spacing">
+            <div class="container">
+                <div class="brands__wrapper wow fadeInUp" data-wow-delay=".3s">
+                    <div class="swiper brand__slider" style="margin-bottom: 20px;">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/accor.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/komando_armada.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/itb.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/rs_siloam.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/nalaprana.png" alt="image">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper brand__slider" style="margin-bottom: 20px;">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/k3mart.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/pullman.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/iatpi.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/rs_indramayu.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/hermina.png" alt="image">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper brand__slider">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/rs_adjidarmo.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/porlakjahe.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/gubah_reka.png" alt="image">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- brands area end  -->
 
     </main>
 
