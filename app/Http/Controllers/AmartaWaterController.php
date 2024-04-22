@@ -20,4 +20,9 @@ class AmartaWaterController extends Controller
     {
         return view('amarta_pure/waralaba');
     }
+
+    public function contactus()
+    {
+        return view('amarta_pure/contactus');
+    }
 }

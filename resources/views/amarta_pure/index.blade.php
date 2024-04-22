@@ -56,7 +56,7 @@
                                     <!-- site-branding -->
                                     <div class="site-branding ">
                                         <a class="home-link" href="index.html" title="Amarta Pure Water" rel="home">
-                                            <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="{{ url('landing_page') }}/images/logo/logo_amarta_pure.png" alt="logo-img">
+                                            <img id="logo-img" style="width: 120px; height:70px;" class="img-fluid auto_size" src="{{ url('landing_page') }}/images/logo/logo_amarta_pure.png" alt="logo-img">
                                         </a>
                                     </div><!-- site-branding end -->
                                     <div class="border-box-block">
@@ -79,28 +79,18 @@
                                                         <a href="/waralaba">Waralaba</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="/product">Product</a>
-                                                    </li>
-                                                    <li class="mega-menu-item">
                                                         <a href="/blog">Blog</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="https://jagattirtaamarta.com/contact-us">Contact us</a>
+                                                        <a href="/contact-us">Contact us</a>
                                                     </li>
                                                 </ul>
                                             </nav><!-- menu end -->
-                                            <!-- header_extra -->
-                                            <div class="header_extra d-flex flex-row align-items-center ml-auto">
-                                                <div class="header_cart">
-                                                    <a href="#" class="cart_btn ttm-bgcolor-darkgrey">
-                                                        <div class="cart_icon"><i class="fa fa-shopping-cart"></i></div>
-                                                        <div class="cart_count ttm-bgcolor-skincolor">0</div>
-                                                    </a>
-                                                </div>
-                                            </div><!-- header_extra end -->
                                         </div>
                                     </div>
-                                    <div class="header_btn"><a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-fill ttm-btn-color-skincolor" href="contact-us">Get A Quotes!</a></div>
+                                    <a href="https://wa.me/08118877225">
+                                        <i class="fa fa-whatsapp" style="font-size: 50px;"></i>
+                                    </a>
                                 </div><!-- site-navigation end-->
                             </div>
                         </div>
@@ -278,12 +268,12 @@
                                 <!-- section title -->
                                 <div class="section-title">
                                     <div class="title-header">
-                                        <h3>ABOUT US</h3>
+                                        <h3>Solusi Sehat Anda</h3>
                                         <h2 class="title">Amarta Pure Water</h2>
                                     </div>
                                     <div class="title-desc">
                                         <p>Amarta pure water adalah air minum dengan TDS kurang dari 10 ppm dan pH yang netral untuk kebutuhan tubuh yang di ambil dari sumber mata air dan diolah dengan tekhnologi nano filterisasi.</p>
-                                        <p>Air murni paling sering digunakan untuk minum dan memasak. Ini juga digunakan di laboratorium dan studi ilmiah untuk menguji lebih lanjut dan lebih baik proses pemurnian.</p>
+                                        <p>Air murni sering digunakan untuk minum dan memasak karena memiliki beberapa manfaat untuk tubuh. Air murni juga sering digunakan di laboratorium dan studi ilmiah untuk pengujian analisis karena air murni merupakan air yang terbebas dari kontaminan.</p>
                                     </div>
                                 </div><!-- section title end -->
                                 <div class="margin_top30">

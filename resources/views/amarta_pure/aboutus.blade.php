@@ -50,7 +50,7 @@
                                     <!-- site-branding -->
                                     <div class="site-branding ">
                                         <a class="home-link" href="index.html" title="Amarta Pure Water" rel="home">
-                                            <img id="logo-img" height="70" width="70" class="img-fluid auto_size" src="{{ url('landing_page') }}/images/logo/logo_amarta_pure.png" alt="logo-img">
+                                            <img id="logo-img" style="width: 120px; height:70px;" class="img-fluid auto_size" src="{{ url('landing_page') }}/images/logo/logo_amarta_pure.png" alt="logo-img">
                                         </a>
                                     </div><!-- site-branding end -->
                                     <div class="border-box-block">
@@ -73,28 +73,18 @@
                                                         <a href="/waralaba">Waralaba</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="/product">Product</a>
-                                                    </li>
-                                                    <li class="mega-menu-item">
                                                         <a href="/blog">Blog</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="https://jagattirtaamarta.com/contact-us">Contact us</a>
+                                                        <a href="/contact-us">Contact us</a>
                                                     </li>
                                                 </ul>
                                             </nav><!-- menu end -->
-                                            <!-- header_extra -->
-                                            <div class="header_extra d-flex flex-row align-items-center ml-auto">
-                                                <div class="header_cart">
-                                                    <a href="#" class="cart_btn ttm-bgcolor-darkgrey">
-                                                        <div class="cart_icon"><i class="fa fa-shopping-cart"></i></div>
-                                                        <div class="cart_count ttm-bgcolor-skincolor">0</div>
-                                                    </a>
-                                                </div>
-                                            </div><!-- header_extra end -->
                                         </div>
                                     </div>
-                                    <div class="header_btn"><a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-fill ttm-btn-color-skincolor" href="contact-us">Get A Quotes!</a></div>
+                                    <a href="https://wa.me/08118877225">
+                                        <i class="fa fa-whatsapp" style="font-size: 50px;"></i>
+                                    </a>
                                 </div><!-- site-navigation end-->
                             </div>
                         </div>
@@ -146,12 +136,8 @@
                                     </div>
                                     <div class="title-desc">
                                         <p>Amarta pure water adalah air minum dengan TDS kurang dari 10 ppm dan pH yang netral untuk kebutuhan tubuh yang di ambil dari sumber mata air dan diolah dengan tekhnologi nano filterisasi.</p>
-                                        <p>Air murni adalah air yang telah mengalami proses penyaringan untuk memurnikan air tersebut atau menghilangkan kotoran seperti bahan kimia dan kontaminan lainnya. Biasanya air yang mengalami proses penyaringan dan menjadi air murni adalah air tanah dan juga air ledeng.</p>
-                                        <p>Efek yang ditimbulkan setelah meminum Air Minum Sehat TDS 0,00 akan menghasilkan rasa
-                                            yang berbeda-beda karena bergantung pada kondisi kesehatan/tubuh yang
-                                            mengonsumsinya. Namun setelah melakukan terapi Air dengan rajin meminum Air Minum
-                                            Sehat TDS 0,00 secara berkala maka aneka rasa tersebut akan hilang (rasa air menjadi
-                                            netral alias tidak berasa) sehingga timbul sensasi segar dan sejuk.</p>
+                                        <p>Air murni adalah air yang telah mengalami proses filtrasi untuk memurnikan air tersebut serta menghilangkan berbagai kontaminan seperti padatan fisik, kandungan kimia yang berbahaya, dan mikrobiologis seperti virus dan bakteri.</p>
+                                        <p>Efek yang ditimbulkan setelah meminum Air Murni akan menghasilkan rasa yang berbeda-beda tergantung pada kondisi kesehatan tubuh yang mengkonsumsinya. Namun setelah rutin mengkonsumsi air murni secara berkala akan mendapatkan manfaat yang baik bagi tubuh salah satunya meringankan kerja ginjal karena air murni dapat menyerap kotoran-kotoran yang tertimbun di dalam ginjal dan akan dikeluarkan melalui urin.</p>
                                     </div>
                                 </div><!-- section title end -->
                                 <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-btn-color-dark  margin_top15" href="/contact-us">contact us</a>

@@ -8,22 +8,25 @@
     <meta name="description" content="PT JTA" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--====== Title ======-->
-    <title>PT JTA || Contact-Us</title>
+    <title>Amarta Pure Water</title>
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="landing_page/images/logo/logo_io/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="{{ url('landing_page') }}/images/logo/logo_io/favicon.ico" type="image/png">
 
-    <link rel="stylesheet" type="text/css" href="landing_page/css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/animate.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/font-awesome.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/flaticon.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/themify-icons.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/slick.css">
-    <link rel="stylesheet" type="text/css" href="landing_page/css/prettyPhoto.css">
-    <link rel="stylesheet" type="text/css" href="landing_page/css/shortcodes.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/main.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/megamenu.css" />
-    <link rel="stylesheet" type="text/css" href="landing_page/css/responsive.css" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/flaticon.css" />
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/themify-icons.css" />
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/slick.css">
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/prettyPhoto.css">
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/shortcodes.css" />
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/megamenu.css" />
+    <link rel="stylesheet" type="text/css" href="{{ url('landing_page') }}/css/responsive.css" />
 
 </head>
 
@@ -46,8 +49,8 @@
                                 <div class="site-navigation d-flex align-items-center justify-content-between">
                                     <!-- site-branding -->
                                     <div class="site-branding ">
-                                        <a class="home-link" href="index.html" title="JTA" rel="home">
-                                            <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta.png" alt="logo-img">
+                                        <a class="home-link" href="index.html" title="Amarta Pure Water" rel="home">
+                                            <img id="logo-img" style="width: 120px; height:70px;" class="img-fluid auto_size" src="{{ url('landing_page') }}/images/logo/logo_amarta_pure.png" alt="logo-img">
                                         </a>
                                     </div><!-- site-branding end -->
                                     <div class="border-box-block">
@@ -64,22 +67,24 @@
                                                         <a href="/">Home</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="about-us">About Us</a>
+                                                        <a href="/about-us">About Us</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="services">Services</a>
+                                                        <a href="/waralaba">Waralaba</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="blog">Blog</a>
+                                                        <a href="/blog">Blog</a>
                                                     </li>
                                                     <li class="mega-menu-item active">
-                                                        <a href="contact-us">Contact us</a>
+                                                        <a href="/contact-us">Contact us</a>
                                                     </li>
                                                 </ul>
                                             </nav><!-- menu end -->
                                         </div>
                                     </div>
-                                    <div class="header_btn"><a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-fill ttm-btn-color-skincolor" href="contact-us">Get A Quotes!</a></div>
+                                    <a href="https://wa.me/08118877225">
+                                        <i class="fa fa-whatsapp" style="font-size: 50px;"></i>
+                                    </a>
                                 </div><!-- site-navigation end-->
                             </div>
                         </div>
@@ -127,7 +132,6 @@
                             <!-- section-title -->
                             <div class="section-title title-style-center_text">
                                 <div class="title-header">
-                                    <h3>get in touch!</h3>
                                     <h2 class="title">Ada Pertanyaan Hubungi Kami?</h2>
                                 </div>
                                 <div class="title-desc">
@@ -328,23 +332,23 @@
 
     </div><!-- page end -->
 
+
     <!-- Javascript -->
-    <script src="landing_page/js/jquery-3.6.0.min.js"></script>
-    <script src="landing_page/js/jquery-migrate-3.3.2.min.js"></script>
-    <script src="landing_page/js/bootstrap.min.js"></script>
-    <script src="landing_page/js/jquery.easing.js"></script>
-    <script src="landing_page/js/jquery-waypoints.js"></script>
-    <script src="landing_page/js/jquery-validate.js"></script>
-    <script src="landing_page/js/jquery.prettyPhoto.js"></script>
-    <script src="landing_page/js/slick.min.js"></script>
-    <script src="landing_page/js/numinate.min.js"></script>
-    <script src="landing_page/js/imagesloaded.min.js"></script>
-    <script src="landing_page/js/jquery-isotope.js"></script>
-    <script src="landing_page/js/main.js"></script>
+    <script src="{{ url('landing_page') }}/js/jquery-3.6.0.min.js"></script>
+    <script src="{{ url('landing_page') }}/js/jquery-migrate-3.3.2.min.js"></script>
+    <script src="{{ url('landing_page') }}/js/bootstrap.min.js"></script>
+    <script src="{{ url('landing_page') }}/js/jquery.easing.js"></script>
+    <script src="{{ url('landing_page') }}/js/jquery-waypoints.js"></script>
+    <script src="{{ url('landing_page') }}/js/jquery-validate.js"></script>
+    <script src="{{ url('landing_page') }}/js/jquery.prettyPhoto.js"></script>
+    <script src="{{ url('landing_page') }}/js/slick.min.js"></script>
+    <script src="{{ url('landing_page') }}/js/numinate.min.js"></script>
+    <script src="{{ url('landing_page') }}/js/imagesloaded.min.js"></script>
+    <script src="{{ url('landing_page') }}/js/jquery-isotope.js"></script>
+    <script src="{{ url('landing_page') }}/js/circle-progress.min.js"></script>
+    <script src="{{ url('landing_page') }}/js/main.js"></script>
     <!-- Javascript end-->
 
 </body>
-
-<!-- Mirrored from themetechmount.com/html/aqovo/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Mar 2024 14:39:25 GMT -->
 
 </html>
