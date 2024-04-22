@@ -79,9 +79,6 @@
                                                         <a href="/waralaba">Waralaba</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="/blog">Blog</a>
-                                                    </li>
-                                                    <li class="mega-menu-item">
                                                         <a href="/contact-us">Contact us</a>
                                                     </li>
                                                 </ul>
@@ -399,9 +396,6 @@
                                 <div class="footer-logo">
                                     <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta_footer.png" alt="logo-img">
                                 </div>
-                                <div class="textwidget widget-text">
-                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="contact-us.html">Make a appointment <i class="fa fa-chevron-right"></i></a>
-                                </div>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-2 widget-area">
@@ -462,7 +456,9 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="d-md-flex justify-content-between">
-                                <span class="cpy-text">Copyright © 2021 <a href="#" class="ttm-textcolor-skincolor font-weight-500">Aqovo </a> All rights reserved.</span>
+                                <span class="cpy-text">Copyright © <script>
+                                        document.write(new Date().getFullYear())
+                                    </script> <a href="#" class="ttm-textcolor-skincolor font-weight-500">PT Jagat Tirta Amarta </a> All rights reserved.</span>
                                 <ul class="footer-nav-menu">
                                     <li><a href="about-us.html">About Us</a></li>
                                     <li><a href="about-us.html">services</a></li>
