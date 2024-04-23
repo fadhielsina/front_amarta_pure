@@ -139,45 +139,27 @@
         <!--site-main start-->
         <div class="site-main">
 
-            <!--padding_zero-section-->
-            <section class="ttm-row padding_zero-section clearfix">
+            <!--service-section-->
+            <section class="ttm-row service-section ttm-bgcolor-grey clearfix">
                 <div class="container">
                     <!-- row -->
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="row mt_60 res-991-margin_top0 mb_15">
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box style3 ttm-bgcolor-white">
-                                        <div class="featured-content">
-                                            <div class="featured-desc">
-                                                <p>Gerai Air Minum Isi Ulang</p>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h3>Gerai air minum yang langsung menjual air minum isi ulang di lokasi-lokasi yang tersedia.</h3>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
+                            <!-- section-title -->
+                            <div class="section-title title-style-center_text">
+                                <div class="title-header">
+                                    <h2 class="title">APA ITU AMARTA PURE WATER?</h2>
                                 </div>
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box style3 ttm-bgcolor-darkgrey">
-                                        <div class="featured-content">
-                                            <div class="featured-desc">
-                                                <p class="ttm-textcolor-skincolor">Coming Soon (Air Minum Dalam Kemasan)</p>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h3>Rasakan segar dan sehatnya air dengan TDS kurang dari 10 ppm dalam kemasan.</h3>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
+                                <div>
+                                    <p>Amarta Pure Water merupakan Gerai Air Minum Isi Ulang yang berdiri sejak 2022 di bawah PT. Jagat Tirta Amarta. Amarta Pure Water merupakan Gerai Air Minum Isi Ulang PERTAMA di Indonesia yang menggunakan Sistem Demineralisasi yang merupakan air murni dengan TDS 0-10 ppm dan pH Netral terbebas dari kontaminasi secara fisika, kimia, dan mikrobiologis. Amarta Pure Water sangat mengedepankan kualitas air yang dikonsumsi oleh masyarakat dengan harga yang sangat terjangkau.</p>
+                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-btn-color-dark" href="contact-us.html">contact us</a>
                                 </div>
-                            </div>
+                            </div><!-- section-title end -->
                         </div>
-                    </div><!-- row end -->
+                    </div>
                 </div>
             </section>
-            <!--padding_zero-section-->
+            <!--service-section end -->
 
             <section class="ttm-row about-section bg-layer-equal-height clearfix">
                 <div class="container">
@@ -273,9 +255,6 @@
                                         <p>Air murni sering digunakan untuk minum dan memasak karena memiliki beberapa manfaat untuk tubuh. Air murni juga sering digunakan di laboratorium dan studi ilmiah untuk pengujian analisis karena air murni merupakan air yang terbebas dari kontaminan.</p>
                                     </div>
                                 </div><!-- section title end -->
-                                <div class="margin_top30">
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-rounded ttm-btn-style-border ttm-btn-color-dark" href="contact-us.html">contact us</a>
-                                </div>
                             </div>
                         </div>
                     </div><!-- row end -->
@@ -359,7 +338,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="testimonial-caption">
-                                                        <h3>Erfan Ramadhan S.T.P</h3>
+                                                        <h3>Erfan Ramadhan, S.T.</h3>
                                                         <label>Co - Founder</label>
                                                         <div class="star-ratings">
                                                             <ul class="rating">
@@ -394,7 +373,7 @@
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                             <div class="widget widget_text clearfix">
                                 <div class="footer-logo">
-                                    <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta_footer.png" alt="logo-img">
+                                    <img id="logo-img" height="100" width="200" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta.png" alt="logo-img">
                                 </div>
                             </div>
                         </div>
@@ -417,9 +396,6 @@
                                     </li>
                                     <li><a href="{{url('landing_page')}}/images/bg-image/services-2.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
                                             <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/bg-image/services-2.jpg" alt=""></a>
-                                    </li>
-                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio_3.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_3.png" alt=""></a>
                                     </li>
                                 </ul>
                             </div>

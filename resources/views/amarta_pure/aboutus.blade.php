@@ -325,7 +325,7 @@
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                             <div class="widget widget_text clearfix">
                                 <div class="footer-logo">
-                                    <img id="logo-img" height="70" width="100" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta_footer.png" alt="logo-img">
+                                    <img id="logo-img" height="100" width="200" class="img-fluid auto_size" src="{{url('landing_page')}}/images/logo/logo_jta.png" alt="logo-img">
                                 </div>
                             </div>
                         </div>
@@ -348,9 +348,6 @@
                                     </li>
                                     <li><a href="{{url('landing_page')}}/images/bg-image/services-2.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
                                             <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/bg-image/services-2.jpg" alt=""></a>
-                                    </li>
-                                    <li><a href="{{url('landing_page')}}/images/portfolio/portofolio_3.png" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/portfolio/portofolio_3.png" alt=""></a>
                                     </li>
                                 </ul>
                             </div>
