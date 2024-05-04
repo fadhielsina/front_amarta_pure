@@ -242,16 +242,7 @@
                                             </div>
                                             <div class="testimonial-caption">
                                                 <h3>Erfan Ramadhan, S.T.</h3>
-                                                <label>Co - Founder</label>
-                                                <div class="star-ratings">
-                                                    <ul class="rating">
-                                                        <li class="active"><i class="fa fa-star"></i></li>
-                                                        <li class="active"><i class="fa fa-star"></i></li>
-                                                        <li class="active"><i class="fa fa-star"></i></li>
-                                                        <li class="active"><i class="fa fa-star"></i></li>
-                                                        <li class="active"><i class="fa fa-star"></i></li>
-                                                    </ul>
-                                                </div>
+                                                <label>Co - Founder/CEO</label>
                                             </div>
                                         </div>
                                     </div>

@@ -21,17 +21,7 @@
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 widget-area">
-                            <div class="widget widget_img_gellary clearfix">
-                                <h3 class="widget-title">Our Gallery</h3>
-                                <ul>
-                                    <li><a src="{{url('landing_page')}}/images/bg-image/services-1_new.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/bg-image/services-1_new.jpg" alt=""></a>
-                                    </li>
-                                    <li><a href="{{url('landing_page')}}/images/bg-image/services-2.jpg" rel="prettyPhoto[coregallery]" data-rel="prettyPhoto">
-                                            <img style="height: 90px; width: 90px;" class="img-fluid" src="{{url('landing_page')}}/images/bg-image/services-2.jpg" alt=""></a>
-                                    </li>
-                                </ul>
-                            </div>
+
                         </div>
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 widget-area">
                             <div class="widget widget_cta clearfix">
@@ -49,9 +39,9 @@
                                     <a class="ttm-btn btn-inline ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-skincolor margin_right40 margin_bottom5" href="contact-us.html">Get direction <i class="fa fa-chevron-right"></i></a>
                                     <div class="social-icons d-inline-block margin_top10 margin_bottom10">
                                         <ul class="social-icons list-inline">
-                                            <li><a class="tooltip-top" href="https://www.facebook.com/preyantechnosys19" rel="noopener" aria-label="facebook" data-tooltip="Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a class="tooltip-top" href="https://twitter.com/PreyanTechnosys" rel="noopener" aria-label="twitter" data-tooltip="Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a class="tooltip-top" href="https://www.instagram.com/preyan_technosys/" rel="noopener" aria-label="instagram" data-tooltip="Instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                            <li><a class="tooltip-top" href="https://www.facebook.com/amartaofficial" rel="noopener" aria-label="facebook" data-tooltip="Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a class="tooltip-top" href="https://www.youtube.com/@amartapurewater" rel="noopener" aria-label="youtube" data-tooltip="Youtube" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                                            <li><a class="tooltip-top" href="https://www.instagram.com/amartapurewater" rel="noopener" aria-label="instagram" data-tooltip="Instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
