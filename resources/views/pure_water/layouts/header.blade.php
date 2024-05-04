@@ -23,23 +23,23 @@
                                 <!-- menu -->
                                 <nav class="main-menu menu-mobile" id="menu">
                                     <ul class="menu">
-                                        <li class="mega-menu-item {{ request()->is('/') ? 'active' : '' }}">
-                                            <a href="/" class="mega-menu-link">Home</a>
+                                        <li class="{{ request()->is('/') ? 'active' : '' }}">
+                                            <a href="/" class="">Home</a>
                                         </li>
-                                        <li class="mega-menu-item megamenu-fw {{ request()->is('about-us') ? 'active' : '' }}">
-                                            <a href="/about-us" class="mega-menu-link">About Us</a>
+                                        <li class="{{ request()->is('about-us') ? 'active' : '' }}">
+                                            <a href="/about-us" class="">About Us</a>
                                         </li>
-                                        <li class="mega-menu-item megamenu-fw {{ request()->is('waralaba') ? 'active' : '' }}">
-                                            <a href="/waralaba" class="mega-menu-link">Waralaba</a>
+                                        <li class="{{ request()->is('waralaba') ? 'active' : '' }}">
+                                            <a href="/waralaba" class="">Waralaba</a>
                                         </li>
-                                        <li class="mega-menu-item {{ request()->is('blog') ? 'active' : '' }}">
-                                            <a href="/blog" class="mega-menu-link">Blog</a>
+                                        <li class="{{ request()->is('blog') ? 'active' : '' }}">
+                                            <a href="/blog" class="">Blog</a>
                                         </li>
-                                        <li class="mega-menu-item megamenu-fw {{ request()->is('pakar') ? 'active' : '' }}">
-                                            <a href="/pakar" class="mega-menu-link">Pakar</a>
+                                        <li class="{{ request()->is('pakar') ? 'active' : '' }}">
+                                            <a href="/pakar" class="">Pakar</a>
                                         </li>
-                                        <li class="mega-menu-item {{ request()->is('contact-us') ? 'active' : '' }}">
-                                            <a href="/contact-us" class="mega-menu-link">Contact</a>
+                                        <li class="{{ request()->is('contact-us') ? 'active' : '' }}">
+                                            <a href="/contact-us" class="">Contact</a>
                                         </li>
                                     </ul>
                                 </nav>
