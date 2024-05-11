@@ -5,7 +5,6 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 widget-area">
                     <div class="widget widget_text clearfix">
-                        <h3 class="widget-title">Footer</h3>
                         <div class="textwidget widget-text">
                             <img id="logo-img" style="width: 170px; height:70px;" class="img-center" src="{{ url('pure_water') }}/images/logo/logo_footer.png" alt="logo-img">
                         </div>
@@ -36,7 +35,6 @@
                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 widget-area">
                     <div class="widget widget-newsletter clearfix">
                         <h3 class="widget-title">Newsletter</h3>
-                        <p>Male Living him morning dry fowe image sea replenish</p>
                         <form class="subscribe_form" id="subscribe-form" method="post" action="#" data-mailchimp="true">
                             <div class="demo-icon"><i class="ti ti-email"></i></div>
                             <input type="email" name="email" placeholder="Enter Your Email" required="">
