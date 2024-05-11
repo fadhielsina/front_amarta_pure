@@ -63,23 +63,7 @@
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h5>Survey Lokasi</h5>
-                                    </div>
-                                </div>
-                            </div><!-- featured-imagebox end-->
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <!-- featured-imagebox -->
-                            <div class="featured-icon-box icon-align-top-content box-style2">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-skincolor ttm-icon_element-size-md ttm-icon_element-style-rounded">
-                                        <i class="fa fa-file-signature"></i>
-                                        <span class="ttm-num"></span>
-                                    </div>
-                                </div>
-                                <div class="featured-content">
-                                    <div class="featured-title">
-                                        <h5>Perjanjian Kerjasama</h5>
+                                        <h5>Survey Lokasi & Perjanjian Kerjasama</h5>
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox end-->

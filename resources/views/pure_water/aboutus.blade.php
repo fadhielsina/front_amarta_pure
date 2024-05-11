@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-lg-6 col-sm-12">
                 <div class="ttm_single_image-wrapper">
-                    <img class="img-fluid" src="{{url('pure_water')}}/images/home/water_pure.jpg" alt="single-03">
+                    <img class="img-fluid" src="{{url('pure_water')}}/images/home/water_pure.jpeg" alt="single-03">
                 </div>
             </div>
             <div class="col-lg-6 col-sm-12">
