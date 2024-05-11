@@ -278,17 +278,17 @@
                     <div class="slick_slider slick-arrows-style4 slick-dots-style1" data-slick='{"slidesToShow": 1, "slidesToScroll": 1, "arrows":true, "dots":true, "autoplay":false, "infinite":true, "responsive": [{"breakpoint":1100,"settings":{"slidesToShow": 1}} , {"breakpoint":777,"settings":{"slidesToShow": 1}}, {"breakpoint":500,"settings":{"slidesToShow": 1}}]}'>
                         <!-- testimonials -->
                         <div class="testimonials ttm-testimonial-box-view-style4">
-                            <div class="testimonial-avatar">
+                            <!-- <div class="testimonial-avatar">
                                 <div class="testimonial-img">
                                     <img class="img-fluid" src="{{url('pure_water')}}/images/home/ceo_amarta.png" alt="testimonial-img">
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="testimonial-content">
                                 <blockquote class="testimonial-text">Gerai air minum isi ulang dengan sistem demineralisasi yang menjangkau masyarakat dengan mudah mendapatkan air minum murni yang terbebas dari kontaminasi secara kimia, fisika, dan mikrobiologis.</blockquote>
                                 <div class="testimonial-bottom">
                                     <div class="testimonial-caption">
                                         <h5>Erfan Ramadhan, S.T.</h5>
-                                        <label>Co-Founder/CEO</label>
+                                        <label>Co - Founder / CEO</label>
                                     </div>
                                 </div>
                             </div>
