@@ -63,7 +63,7 @@
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h5>Survey Lokasi & Perjanjian Kerjasama</h5>
+                                        <h5>Survey Lokasi & MOU</h5>
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox end-->
@@ -79,7 +79,7 @@
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h5>Renovasi Dan Instalasi</h5>
+                                        <h5>Renovasi & Instalasi</h5>
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox end-->
