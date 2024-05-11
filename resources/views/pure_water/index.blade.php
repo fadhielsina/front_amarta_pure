@@ -9,8 +9,8 @@
         <rs-slides>
 
             <rs-slide data-key="rs-1" data-title="Slide" data-anim="ei:d;eo:d;s:d;r:0;t:blurlightcross;sl:d;">
-                <img src="{{url('pure_water')}}/images/cleaning/slides/slider-mainbg-001.jpg" title="slider-01" width="1920" height="625" class="rev-slidebg" data-no-retina>
-                <rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-color="#d2d2d2||#d2d2d2||#647078||#647078" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:50px,50px,-632px,0;y:t,t,m,m;yo:325px,325px,-128px,-104px;" data-text="s:17,17,15,14;l:28,28,20,15;fw:300,300,400,400;a:inherit;" data-dim="h:59px,59px,auto,auto;" data-vbility="t,t,f,f" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:620;sp:500;sR:620;" data-frame_999="o:0;st:w;sR:7880;" style="z-index:10;font-family:Poppins;">
+                <img src="{{url('pure_water')}}/images/cleaning/slides/slide_gerai.jpeg" title="slider-01" width="1920" height="625" class="rev-slidebg" data-no-retina>
+                <rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:50px,50px,-632px,0;y:t,t,m,m;yo:325px,325px,-128px,-104px;" data-text="s:17,17,15,14;l:28,28,20,15;fw:300,300,400,400;a:inherit;" data-dim="h:59px,59px,auto,auto;" data-vbility="t,t,f,f" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:620;sp:500;sR:620;" data-frame_999="o:0;st:w;sR:7880;" style="z-index:10;font-family:Poppins;">
                     Air minum keluarga sehat dengan TDS kurang dari 10 ppm dan pH yang netral <br>
                     untuk konsumsi kebutuhan pokok dengan tingkat pH netral yang terjamin kemurniannya <br>
                     dan terbebas dari zat-zat non essensial yang berbahaya bagi kesehatan tubuh.
