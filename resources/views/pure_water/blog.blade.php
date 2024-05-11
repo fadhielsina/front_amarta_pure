@@ -11,7 +11,7 @@
                     <!-- featured-imagebox-post -->
                     <div class="featured-imagebox featured-imagebox-post style1">
                         <div class="ttm-post-thumbnail featured-thumbnail">
-                            <img class="img-fluid" src="{{url('https://amartawater.com/storage')}}/{{$item->image}}" alt="image">
+                            <img class="img-fluid" style="height: 290px; width:390px;" src="{{url('https://amartawater.com/storage')}}/{{$item->image}}" alt="image">
                         </div>
                         <div class="featured-content featured-content-post">
                             <div class="post-top ttm-post-link">
