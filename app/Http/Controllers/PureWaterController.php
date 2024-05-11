@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Blog;
 use Illuminate\Http\Request;
 
 class PureWaterController extends Controller
@@ -23,7 +24,8 @@ class PureWaterController extends Controller
 
     public function blog()
     {
-        return view('pure_water/blog');
+        $data = Blog::get();
+        return view('pure_water/blog', compact("data"));
     }
 
     public function pakar()
