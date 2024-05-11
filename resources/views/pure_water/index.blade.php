@@ -99,7 +99,7 @@
                         </div>
                         <div class="title-desc">
                             <p>Amarta Pure Water merupakan Gerai Air Minum Isi Ulang yang berdiri sejak 2022 di bawah PT. Jagat Tirta Amarta. Amarta Pure Water merupakan Gerai Air Minum Isi Ulang PERTAMA di Indonesia yang menggunakan Sistem Demineralisasi yang merupakan air murni dengan TDS 0-10 ppm dan pH Netral terbebas dari kontaminasi secara fisika, kimia, dan mikrobiologis. Amarta Pure Water sangat mengedepankan kualitas air yang dikonsumsi oleh masyarakat dengan harga yang sangat terjangkau.</p>
-                            <p>Amarta pure water adalah air minum dengan TDS kurang dari 10 ppm dan pH yang netral untuk kebutuhan tubuh yang di ambil dari sumber mata air dan diolah dengan tekhnologi nano filterisasi.</p>
+                            <p>Amarta pure water adalah air minum dengan TDS kurang dari 10 ppm dan pH yang netral untuk kebutuhan tubuh yang di ambil dari sumber mata air dan diolah dengan tekhnologi sistem Reverse Osmosis Demineralisasi</p>
                             <p>Air murni sering digunakan untuk minum dan memasak karena memiliki beberapa manfaat untuk tubuh. Air murni juga sering digunakan di laboratorium dan studi ilmiah untuk pengujian analisis karena air murni merupakan air yang terbebas dari kontaminan.</p>
                         </div>
                     </div><!-- section title end -->

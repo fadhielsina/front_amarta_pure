@@ -20,7 +20,7 @@
                         </div>
                         <div class="heading-seperator"><span></span></div>
                     </div><!-- section title end -->
-                    <p>Amarta pure water adalah air minum dengan TDS kurang dari 10 ppm dan pH yang netral untuk kebutuhan tubuh yang di ambil dari sumber mata air dan diolah dengan tekhnologi nano filterisasi.</p>
+                    <p>Amarta pure water adalah air minum dengan TDS kurang dari 10 ppm dan pH yang netral untuk kebutuhan tubuh yang di ambil dari sumber mata air dan diolah dengan tekhnologi sistem Reverse Osmosis Demineralisasi.</p>
                     <p>Air murni adalah air yang telah mengalami proses filtrasi untuk memurnikan air tersebut serta menghilangkan berbagai kontaminan seperti padatan fisik, kandungan kimia yang berbahaya, dan mikrobiologis seperti virus dan bakteri.</p>
                     <p>Efek yang ditimbulkan setelah meminum Air Murni akan menghasilkan rasa yang berbeda-beda tergantung pada kondisi kesehatan tubuh yang mengkonsumsinya. Namun setelah rutin mengkonsumsi air murni secara berkala akan mendapatkan manfaat yang baik bagi tubuh salah satunya meringankan kerja ginjal karena air murni dapat menyerap kotoran-kotoran yang tertimbun di dalam ginjal dan akan dikeluarkan melalui urin.</p>
                 </div>
