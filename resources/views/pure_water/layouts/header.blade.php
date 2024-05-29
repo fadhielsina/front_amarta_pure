@@ -11,7 +11,7 @@
                             <!-- site-branding -->
                             <div class="site-branding ">
                                 <a class="home-link" href="/" title="Business" rel="home">
-                                    <img id="logo-img" style="width: 120px; height:70px;" class="img-center" src="{{ url('landing_page') }}/images/logo/logo_amarta_pure.png" alt="logo-img">
+                                    <img id="logo-img" style="width: 120px; height:50px;" class="img-center" src="{{ url('landing_page') }}/images/logo/logo_amarta_pure.png" alt="logo-img">
                                 </a>
                             </div><!-- site-branding end -->
                             <div class="d-flex flex-row">
