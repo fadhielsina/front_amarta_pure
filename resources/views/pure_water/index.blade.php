@@ -24,7 +24,18 @@
             </rs-slide>
 
             <rs-slide data-key="rs-8" data-title="Slide" data-anim="ei:d;eo:d;s:d;r:0;t:blurlightcross;sl:d;">
-                <img src="{{url('pure_water')}}/images/cleaning/slides/slide_who.jpeg" title="slider-02" width="1920" height="625" class="rev-slidebg" data-no-retina>
+                <img src="{{url('pure_water')}}/images/cleaning/slides/slide_new.png" title="slider-02" width="1920" height="625" class="rev-slidebg" data-no-retina>
+                <rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:50px,50px,-632px,0;y:t,t,m,m;yo:325px,325px,-128px,-104px;" data-text="s:17,17,15,14;l:28,28,20,15;fw:300,300,400,400;a:inherit;" data-dim="h:59px,59px,auto,auto;" data-vbility="t,t,f,f" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:620;sp:500;sR:620;" data-frame_999="o:0;st:w;sR:7880;" style="z-index:10;font-family:Poppins;">
+                    Air minum keluarga sehat dengan TDS kurang dari 10 ppm dan pH yang netral <br>
+                    untuk konsumsi kebutuhan pokok dengan tingkat pH netral yang terjamin kemurniannya <br>
+                    dan terbebas dari zat-zat non essensial yang berbahaya bagi kesehatan tubuh.
+                </rs-layer>
+                <rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:47px,47px,0,0;y:t,t,m,m;yo:193px,193px,-106px,-86px;" data-text="s:45,45,40,33;l:65,65,65,45;fw:600;a:inherit;" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:120;sp:900;sR:120;" data-frame_999="o:0;st:w;sR:7980;" style="z-index:8;font-family:Poppins;">
+                    Amarta Pure Water
+                </rs-layer>
+                <rs-layer id="slider-1-slide-1-layer-3" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:50px,50px,0,0;yo:254px,254px,136px,111px;" data-text="s:45,45,40,33;l:64,64,65,45;fw:600;a:inherit;" data-frame_0="y:100%;" data-frame_1="e:power4.inOut;st:310;sp:900;sR:310;" data-frame_999="o:0;st:w;sR:7790;" style="z-index:9;font-family:Poppins;">
+                    Solusi Sehat Anda
+                </rs-layer>
             </rs-slide>
 
         </rs-slides>

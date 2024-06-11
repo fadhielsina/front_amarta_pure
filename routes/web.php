@@ -20,3 +20,8 @@ Route::get('/waralaba', [PureWaterController::class, 'waralaba'])->name('pure_wa
 Route::get('/blog', [PureWaterController::class, 'blog'])->name('pure_water.blog');
 Route::get('/pakar', [PureWaterController::class, 'pakar'])->name('pure_water.pakar');
 Route::get('/contact-us', [PureWaterController::class, 'contactus'])->name('pure_water.contactus');
+
+// New Front Elegant
+Route::get('/new_front', function () {
+    return view('new_front/index');
+});
