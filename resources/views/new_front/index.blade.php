@@ -7,8 +7,8 @@
 
     <meta property="og:url" content="index.html" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Bar Home" />
-    <meta property="og:description" content="Elegant Restaurant Theme" />
+    <meta property="og:title" content="Amarta Pure" />
+    <meta property="og:description" content="Amarta Pure" />
     <meta property="og:image" content="" />
 
 
@@ -17,21 +17,11 @@
 
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
     <title>Amarta Pure Water</title>
-    <meta name='robots' content='max-image-preview:large' />
-
-    <!-- Google Tag Manager for WordPress by gtm4wp.com -->
-    <script data-cfasync="false" data-pagespeed-no-defer>
-        var gtm4wp_datalayer_name = "dataLayer";
-        var dataLayer = dataLayer || [];
-    </script>
-    <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
     <link rel='dns-prefetch' href='http://export.qodethemes.com/' />
     <link rel='dns-prefetch' href='http://maps.googleapis.com/' />
     <link rel='dns-prefetch' href='http://static.zdassets.com/' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='dns-prefetch' href='http://s.w.org/' />
-    <link rel="alternate" type="application/rss+xml" title="Laurent &raquo; Feed" href="{{asset('front')}}/feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Laurent &raquo; Comments Feed" href="{{asset('front')}}/comments/feed/index.html" />
     <link rel='stylesheet' id='wp-block-library-css' href='{{asset("front")}}/wp-includes/css/dist/block-library/style.mind42d.css?ver=6.0.8' type='text/css' media='all' />
     <link rel='stylesheet' id='wc-block-style-css' href='{{asset("front")}}/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/stylefc72.css?ver=2.5.14' type='text/css' media='all' />
     <style id='global-styles-inline-css' type='text/css'>
@@ -286,14 +276,6 @@
     <link rel='stylesheet' id='contact-form-7-css' href='{{asset("front")}}/wp-content/plugins/contact-form-7/includes/css/styles42f0.css?ver=5.6.3' type='text/css' media='all' />
     <link rel='stylesheet' id='rabbit_css-css' href='{{asset("front")}}/../export.qodethemes.com/_toolbar/assets/css/rbt-modulesd42d.css?ver=6.0.8' type='text/css' media='all' />
     <link rel='stylesheet' id='rs-plugin-settings-css' href='{{asset("front")}}/wp-content/plugins/revslider/public/assets/css/rs6b5e1.css?ver=6.1.5' type='text/css' media='all' />
-    <style id='rs-plugin-settings-inline-css' type='text/css'>
-        #rs-demo-id {}
-    </style>
-    <style id='woocommerce-inline-inline-css' type='text/css'>
-        .woocommerce form .form-row .required {
-            visibility: visible;
-        }
-    </style>
     <link rel='stylesheet' id='ppress-frontend-css' href='{{asset("front")}}/wp-content/plugins/wp-user-avatar/assets/css/frontend.mineda1.css?ver=4.1.4' type='text/css' media='all' />
     <link rel='stylesheet' id='ppress-flatpickr-css' href='{{asset("front")}}/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.mineda1.css?ver=4.1.4' type='text/css' media='all' />
     <link rel='stylesheet' id='ppress-select2-css' href='{{asset("front")}}/wp-content/plugins/wp-user-avatar/assets/select2/select2.mind42d.css?ver=6.0.8' type='text/css' media='all' />
@@ -350,57 +332,16 @@
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.mind42d.js?ver=6.0.8' id='ppress-flatpickr-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/wp-user-avatar/assets/select2/select2.mind42d.js?ver=6.0.8' id='ppress-select2-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart9b2d.js?ver=6.1' id='vc_woocommerce-add-to-cart-js-js'></script>
-    <link rel="https://api.w.org/" href="{{asset('front')}}/wp-json/index.html" />
-    <link rel="alternate" type="application/json" href="{{asset('front')}}/wp-json/wp/v2/pages/384.json" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="{{asset('front')}}/xmlrpc0db0.html?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="{{asset('front')}}/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 6.0.8" />
-    <meta name="generator" content="WooCommerce 3.9.5" />
-    <link rel="canonical" href="index.html" />
-    <link rel='shortlink' href='{{asset("front")}}/index6905.html?p=384' />
-    <link rel="alternate" type="application/json+oembed" href="{{asset('front')}}/wp-json/oembed/1.0/embed5712.json?url=https%3A%2F%2Flaurent.qodeinteractive.com%2Fbar-home%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="{{asset('front')}}/wp-json/oembed/1.0/embedc9f1?url=https%3A%2F%2Flaurent.qodeinteractive.com%2Fbar-home%2F&amp;format=xml" />
-
     <!-- Google Tag Manager for WordPress by gtm4wp.com -->
-    <!-- GTM Container placement set to footer -->
-    <script data-cfasync="false" data-pagespeed-no-defer>
-        var dataLayer_content = {
-            "pagePostType": "page",
-            "pagePostType2": "single-page",
-            "pagePostAuthor": "admin"
-        };
-        dataLayer.push(dataLayer_content);
-    </script>
-    <script data-cfasync="false">
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                '../../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KLJLSX7');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- End Google Tag Manager for WordPress by gtm4wp.com --> <noscript>
+    <noscript>
         <style>
             .woocommerce-product-gallery {
                 opacity: 1 !important;
             }
         </style>
     </noscript>
-    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
-    <meta name="generator" content="Powered by Slider Revolution 6.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-    <link rel="icon" href="{{asset('front')}}/wp-content/uploads/2019/12/cropped-Icon-512-x-512-1-32x32.jpg" sizes="32x32" />
-    <link rel="icon" href="{{asset('front')}}/wp-content/uploads/2019/12/cropped-Icon-512-x-512-1-192x192.jpg" sizes="192x192" />
-    <link rel="apple-touch-icon" href="{{asset('front')}}/wp-content/uploads/2019/12/cropped-Icon-512-x-512-1-180x180.jpg" />
-    <meta name="msapplication-TileImage" content="https://laurent.qodeinteractive.com/wp-content/uploads/2019/12/cropped-Icon-512-x-512-1-270x270.jpg" />
+    <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="{{ url('landing_page') }}/images/logo/logo_io/favicon.ico" type="image/png">
     <script type="text/javascript">
         function setREVStartSize(t) {
             try {
@@ -643,19 +584,11 @@
     </svg>
     <div class="eltdf-wrapper">
         <div class="eltdf-wrapper-inner">
-
             <header class="eltdf-page-header">
-
-
                 <div class="eltdf-menu-area eltdf-menu-center">
-
-
                     <div class="eltdf-vertical-align-containers">
-                        <div class="eltdf-position-left"><!--
-				 -->
+                        <div class="eltdf-position-left">
                             <div class="eltdf-position-left-inner">
-
-
                                 <div class="eltdf-logo-wrapper eltdf-svg-logo">
                                     <a itemprop="url" href="{{asset('front')}}/index.html">
                                         <span class="eltdf-logo-svg-path">
@@ -663,11 +596,9 @@
                                         </span>
                                     </a>
                                 </div>
-
                             </div>
                         </div>
-                        <div class="eltdf-position-center"><!--
-					 -->
+                        <div class="eltdf-position-center">
                             <div class="eltdf-position-center-inner">
 
                                 <nav class="eltdf-main-menu eltdf-drop-down eltdf-default-nav">
@@ -811,8 +742,8 @@
 
                             </div>
                         </div>
-                        <div class="eltdf-position-right"><!--
-				 -->
+                        <!-- Side Menu -->
+                        <div class="eltdf-position-right">
                             <div class="eltdf-position-right-inner">
                                 <a class="eltdf-side-menu-button-opener eltdf-icon-has-hover eltdf-side-menu-button-opener-predefined" href="javascript:void(0)">
                                     <span class="eltdf-side-menu-icon">
@@ -821,16 +752,13 @@
                                             <line x1="4.1" y1="0.5" x2="28.1" y2="0.5" />
                                             <line x1="10.1" y1="24.6" x2="34.1" y2="24.6" />
                                             <line x1="13" y1="17.6" x2="37" y2="17.6" />
-                                        </svg> </span>
+                                        </svg>
+                                    </span>
                                 </a>
                             </div>
                         </div>
                     </div>
-
                 </div>
-
-
-
             </header>
 
 
@@ -1012,9 +940,7 @@
                             </ul>
                         </div>
                     </nav>
-
                 </div>
-
             </header>
 
             <a id='eltdf-back-to-top' href='#'>
@@ -1025,6 +951,7 @@
                 </svg>
             </a>
 
+            <!-- Add Content -->
             <div class="eltdf-content" style="margin-top: -110px">
                 <div class="eltdf-content-inner">
                     <div class="eltdf-full-width">
@@ -1042,8 +969,8 @@
                                         <div class="wpb_column vc_column_container vc_col-sm-12">
                                             <div class="vc_column-inner">
                                                 <div class="wpb_wrapper">
-                                                    <div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768  ">
-                                                        <div class="eltdf-eh-item    " data-item-class="eltdf-eh-custom-9958" data-769-1024="0px 80px 0 80px" data-681-768="0px 50px 0 50px" data-680="0 20px">
+                                                    <div class="eltdf-elements-holder eltdf-one-column eltdf-responsive-mode-768  ">
+                                                        <div class="eltdf-eh-item" data-item-class="eltdf-eh-custom-9958" data-769-1024="0px 80px 0 80px" data-681-768="0px 50px 0 50px" data-680="0 20px">
                                                             <div class="eltdf-eh-item-inner">
                                                                 <div class="eltdf-eh-item-content eltdf-eh-custom-9958" style="padding: 0 114px">
 
@@ -1052,23 +979,23 @@
                                                                     <rs-module-wrap id="rev_slider_4_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
                                                                         <rs-module id="rev_slider_4_1" style="display:none;" data-version="6.1.5">
                                                                             <rs-slides>
-                                                                                <rs-slide data-key="rs-5" data-title="Slide" data-thumb="//laurent.qodeinteractive.com/wp-content/uploads/2019/12/bar-home-rev-1-50x100.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                                                                                    <img src="{{asset('front')}}/wp-content/uploads/2019/12/slide_gerai.jpeg" alt="d" title="bar-home-rev-1" width="1740" height="595" data-parallax="off" class="rev-slidebg" data-no-retina>
+                                                                                <rs-slide data-key="rs-5" data-title="Slide" data-thumb="{{asset('front')}}/wp-content/uploads/2019/12/main-h-new-rev-img-1.png" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                                                                                    <img src="{{asset('front')}}/wp-content/uploads/2019/12/main-h-new-rev-img-1.png" alt="d" title="bar-home-rev-1" width="1740" height="595" data-parallax="off" class="rev-slidebg" data-no-retina>
                                                                                     <rs-layer id="slider-4-slide-5-layer-0" data-type="text" data-color="white" data-xy="x:c;xo:17px,17px,17px,11px;y:m;yo:-75px,-75px,-75px,-49px;" data-text="w:normal;s:90,80,70,50;l:90,80,70,60;ls:23px,23px,20px,20px;a:center;" data-dim="w:auto,auto,auto,296px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:Power2.easeInOut;st:270;sp:1200;sR:270;" data-frame_999="y:-50;o:0;e:Power2.easeInOut;st:w;sp:950;sR:3030;" style="z-index:8;font-family:metropolis1920regular, sans-serif;">
                                                                                         Amarta Pure Water
                                                                                     </rs-layer>
-                                                                                    <rs-layer id="slider-4-slide-5-layer-1" data-type="text" data-xy="x:c;y:m;yo:36px,36px,36px,74px;" data-text="w:normal;a:center;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:Power2.easeInOut;st:430;sp:1200;sR:430;" data-frame_999="y:-50;o:0;e:Power2.easeInOut;st:w;sp:1100;sR:3070;" style="z-index:9;font-family:Roboto;"><a itemprop="url" href="{{asset('front')}}/portfolio-item/shrimp-pasta/index.html" target="_self" class="eltdf-btn eltdf-btn-large eltdf-btn-outline">
+                                                                                    <rs-layer id="slider-4-slide-5-layer-1" data-type="text" data-xy="x:c;y:m;yo:36px,36px,36px,74px;" data-text="w:normal;a:center;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:Power2.easeInOut;st:430;sp:1200;sR:430;" data-frame_999="y:-50;o:0;e:Power2.easeInOut;st:w;sp:1100;sR:3070;" style="z-index:9;font-family:Roboto;"><a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-large eltdf-btn-outline">
                                                                                             Solusi Sehat Anda
                                                                                         </a>
                                                                                     </rs-layer>
                                                                                 </rs-slide>
 
-                                                                                <rs-slide data-key="rs-25" data-title="Slide" data-thumb="//laurent.qodeinteractive.com/wp-content/uploads/2019/12/bar-home-rev-2-50x100.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                                                                                    <img src="{{asset('front')}}/wp-content/uploads/2019/12/main-h-new-rev-img-1.png" alt="d" title="bar-home-rev-2" width="1740" height="595" data-parallax="off" class="rev-slidebg" data-no-retina>
+                                                                                <rs-slide data-key="rs-25" data-title="Slide" data-thumb="{{asset('front')}}/wp-content/uploads/2019/12/slide_gerai.jpeg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                                                                                    <img src="{{asset('front')}}/wp-content/uploads/2019/12/slide_gerai.jpeg" alt="d" title="bar-home-rev-2" width="1740" height="595" data-parallax="off" class="rev-slidebg" data-no-retina>
                                                                                     <rs-layer id="slider-4-slide-25-layer-0" data-type="text" data-color="white" data-xy="x:c;xo:17px,17px,17px,11px;y:m;yo:-75px,-75px,-75px,-49px;" data-text="w:normal;s:90,80,70,50;l:90,80,70,60;ls:23px,23px,20px,20px;a:center;" data-dim="w:auto,auto,auto,296px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:Power2.easeInOut;st:230;sp:1200;sR:230;" data-frame_999="y:-50;o:0;e:Power2.easeInOut;st:w;sp:950;sR:3070;" style="z-index:8;font-family:metropolis1920regular, sans-serif;">
                                                                                         Amarta Pure Water
                                                                                     </rs-layer>
-                                                                                    <rs-layer id="slider-4-slide-25-layer-1" data-type="text" data-xy="x:c;y:m;yo:36px,36px,36px,74px;" data-text="w:normal;a:center;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:Power2.easeInOut;st:420;sp:1200;sR:420;" data-frame_999="y:-50;o:0;e:Power2.easeInOut;st:w;sp:1100;sR:3080;" style="z-index:9;font-family:Roboto;"><a itemprop="url" href="{{asset('front')}}/portfolio-item/shrimp-pasta/index.html" target="_self" class="eltdf-btn eltdf-btn-large eltdf-btn-outline">
+                                                                                    <rs-layer id="slider-4-slide-25-layer-1" data-type="text" data-xy="x:c;y:m;yo:36px,36px,36px,74px;" data-text="w:normal;a:center;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50;" data-frame_1="e:Power2.easeInOut;st:420;sp:1200;sR:420;" data-frame_999="y:-50;o:0;e:Power2.easeInOut;st:w;sp:1100;sR:3080;" style="z-index:9;font-family:Roboto;"><a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-large eltdf-btn-outline">
                                                                                             Solusi Sehat Anda
                                                                                         </a>
                                                                                     </rs-layer>
@@ -1201,7 +1128,7 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="eltdf-eh-item eltdf-bar-home-reveal-image   eltdf-element-from-top" style="background-image: url(<?= asset('front') ?>/wp-content/uploads/2019/12/galon.png)" data-item-class="eltdf-eh-custom-7125" data-animation="eltdf-element-from-top" data-1400-1600="0 0" data-1025-1399="0 0" data-769-1024="45% 0" data-681-768="60% 0" data-680="70% 0">
+                                                                <div class="eltdf-eh-item eltdf-bar-home-reveal-image   eltdf-element-from-top" style="background-image: url(<?= asset('front') ?>/wp-content/uploads/2019/12/amarta_refill.webp)" data-item-class="eltdf-eh-custom-7125" data-animation="eltdf-element-from-top" data-1400-1600="0 0" data-1025-1399="0 0" data-769-1024="45% 0" data-681-768="60% 0" data-680="70% 0">
                                                                     <div class="eltdf-eh-item-inner">
                                                                         <div class="eltdf-eh-item-content eltdf-eh-custom-7125" style="padding: 0 14px">
                                                                         </div>
@@ -1249,7 +1176,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div data-parallax-bg-image="https://laurent.qodeinteractive.com/wp-content/uploads/2019/10/home-8-beckround-1.jpg" data-parallax-bg-speed="1" class="vc_row wpb_row vc_row-fluid eltdf-parallax-row-holder eltdf-content-aligment-center">
+                                    <div data-parallax-bg-image="{{asset('front')}}/wp-content/uploads/2019/12/water_delivery.png" data-parallax-bg-speed="1" class="vc_row wpb_row vc_row-fluid eltdf-parallax-row-holder eltdf-content-aligment-center">
                                         <div class="wpb_column vc_column_container vc_col-sm-12">
                                             <div class="vc_column-inner">
                                                 <div class="wpb_wrapper">
@@ -1257,8 +1184,8 @@
                                                         <div class="eltdf-eh-item   eltdf-horizontal-alignment-center " data-item-class="eltdf-eh-custom-6957" data-1025-1399="234px 4% 0 0" data-681-768="147px 13% 0 0" data-680="100px 66px 0 0">
                                                             <div class="eltdf-eh-item-inner">
                                                                 <div class="eltdf-eh-item-content eltdf-eh-custom-6957" style="padding: 247px 9% 0 0">
-                                                                    <h2 class="eltdf-custom-font-holder  eltdf-cf-5534  " style="font-family: mrs saint delafield;font-size: 151px;line-height: 0px;font-weight: 300;letter-spacing: 0px;text-transform: initial;color: #c9ab81;transform: rotate(-20deg);-webkit-transform: rotate(-20deg);-ms-transform: rotate(-20deg)" data-item-class="eltdf-cf-5534" data-font-size-1366="140px" data-font-size-1024="120px" data-font-size-768="120px" data-font-size-680="90px" data-line-height-1366="0px" data-line-height-1024="0px" data-line-height-768="0px" data-line-height-680="0px">
-                                                                        Opening<br /></h2>
+                                                                    <h2 class="eltdf-custom-font-holder  eltdf-cf-5534" style="font-family: mrs saint delafield;font-size: 151px;line-height: 0px;font-weight: 300;letter-spacing: 0px;text-transform: initial;color: #c9ab81;transform: rotate(-20deg);-webkit-transform: rotate(-20deg);-ms-transform: rotate(-20deg); color:white" data-item-class="eltdf-cf-5534" data-font-size-1366="140px" data-font-size-1024="120px" data-font-size-768="120px" data-font-size-680="90px" data-line-height-1366="0px" data-line-height-1024="0px" data-line-height-768="0px" data-line-height-680="0px">
+                                                                        With<br /></h2>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1271,8 +1198,8 @@
                                                                         <div class="eltdf-eh-item   eltdf-horizontal-alignment-center " data-item-class="eltdf-eh-custom-9354" data-1400-1600="230px 0 147px 12%" data-1025-1399="174px 0 210px 19.4%" data-769-1024="121px 0 147px 13%" data-681-768="87px 0 180px 21.4%" data-680="39px 0 100px 35.4%">
                                                                             <div class="eltdf-eh-item-inner">
                                                                                 <div class="eltdf-eh-item-content eltdf-eh-custom-9354" style="padding: 234px 0 233px 8.4%">
-                                                                                    <h2 class="eltdf-custom-font-holder  eltdf-cf-1719  " style="font-family: mrs saint delafield;font-size: 151px;line-height: 0px;font-weight: 300;letter-spacing: 0px;text-transform: initial;color: #c9ab81;transform: rotate(-20deg);-webkit-transform: rotate(-20deg);-ms-transform: rotate(-20deg)" data-item-class="eltdf-cf-1719" data-font-size-1366="140px" data-font-size-1024="120px" data-font-size-768="120px" data-font-size-680="90px" data-line-height-1366="0px" data-line-height-1024="0px" data-line-height-768="0px" data-line-height-680="0px">
-                                                                                        senses<br /></h2>
+                                                                                    <h2 class="eltdf-custom-font-holder  eltdf-cf-1719  " style="font-family: mrs saint delafield;font-size: 151px;line-height: 0px;font-weight: 300;letter-spacing: 0px;text-transform: initial;color: #c9ab81;transform: rotate(-20deg);-webkit-transform: rotate(-20deg);-ms-transform: rotate(-20deg); color:white" data-item-class="eltdf-cf-1719" data-font-size-1366="140px" data-font-size-1024="120px" data-font-size-768="120px" data-font-size-680="90px" data-line-height-1366="0px" data-line-height-1024="0px" data-line-height-768="0px" data-line-height-680="0px">
+                                                                                        Delivery<br /></h2>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1293,23 +1220,21 @@
                                                         <div class="wpb_wrapper">
                                                             <div class="eltdf-section-title-holder    eltdf-st-decor-animation" style="text-align: center">
                                                                 <div class="eltdf-st-inner">
-                                                                    <span class="eltdf-st-tagline">
-                                                                        Featured items </span>
                                                                     <div class="eltdf-st-title-holder">
                                                                         <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
                                                                                 <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
                                                                                 <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881.591L20.562 8.576.243.591" />
                                                                             </svg></div>
                                                                         <h1 class="eltdf-st-title">
-                                                                            Shop products </h1>
+                                                                            Kenapa amarta? </h1>
                                                                         <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
                                                                                 <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
                                                                                 <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881.591L20.562 8.576.243.591" />
                                                                             </svg></div>
                                                                     </div>
                                                                     <p class="eltdf-st-text">
-                                                                        Lorem ipsum dolor sit amet, consectet adipisicing eli sed do eiu sm od tempor inci<br />
-                                                                        unt ut abore et dolore mag aliqua ut enim ad minm eniam quis nost. </p>
+                                                                        Air murni adalah air yang telah mengalami proses filtrasi untuk memurnikan air tersebut serta menghilangkan berbagai kontaminan seperti padatan fisik, kandungan kimia yang berbahaya, dan mikrobiologis seperti virus dan bakteri.
+                                                                    </p>
                                                                 </div>
                                                             </div>
                                                             <div class="vc_empty_space" style="height: 72px"><span class="vc_empty_space_inner"></span></div>
@@ -1318,298 +1243,55 @@
                                                                     <div class="eltdf-plc-item">
                                                                         <div class="eltdf-plc-image-outer">
                                                                             <div class="eltdf-plc-image">
-
-                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/home-8-img-shop-9.jpg" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="a" srcset="https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-9.jpg 800w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-9-300x300.jpg 300w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-9-150x150.jpg 150w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-9-768x768.jpg 768w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-9-650x650.jpg 650w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-9-600x600.jpg 600w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-9-100x100.jpg 100w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/terapi_kesehatan.webp" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="a" sizes="(max-width: 800px) 100vw, 800px" />
                                                                             </div>
-                                                                            <div class="eltdf-plc-btn-overlay-outer">
-                                                                                <div class="eltdf-plc-btn-overlay-inner">
-
-                                                                                    <div class="eltdf-plc-add-to-cart eltdf-default-skin">
-                                                                                        <a rel="nofollow" href="index64d8.html?add-to-cart=1764" data-quantity="1" data-product_id="1764" data-product_sku="031" class="button add_to_cart_button ajax_add_to_cart eltdf-btn eltdf-btn-outline">Add to cart</a>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <a class="eltdf-plc-link" itemprop="url" href="{{asset('front')}}/product/tequila-shot/index.html" title="Tequila shot"></a>
                                                                         </div>
                                                                         <div class="eltdf-plc-text">
                                                                             <h6 itemprop="name" class="entry-title eltdf-plc-title">
-                                                                                <a itemprop="url" href="{{asset('front')}}/product/tequila-shot/index.html">Tequila shot</a>
+                                                                                <a itemprop="url" href="#">Terapi Kesehatan</a>
                                                                             </h6>
-
-
-
-
-                                                                            <div class="eltdf-plc-rating-holder">
-                                                                                <div class="eltdf-plc-rating" title="Rated %s out of 5">
-                                                                                    <span style="width: 0%"></span>
-                                                                                </div>
-                                                                            </div>
-
-                                                                            <div class="eltdf-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>28.00</span></div>
                                                                         </div>
                                                                     </div>
                                                                     <div class="eltdf-plc-item">
                                                                         <div class="eltdf-plc-image-outer">
                                                                             <div class="eltdf-plc-image">
-
-                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/home-8-img-shop-7.jpg" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="d" loading="lazy" srcset="https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-7.jpg 800w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-7-300x300.jpg 300w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-7-150x150.jpg 150w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-7-768x768.jpg 768w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-7-650x650.jpg 650w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-7-600x600.jpg 600w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-7-100x100.jpg 100w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/membuang_racun.webp" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="d" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" />
                                                                             </div>
                                                                             <div class="eltdf-plc-btn-overlay-outer">
-                                                                                <div class="eltdf-plc-btn-overlay-inner">
-
-                                                                                    <div class="eltdf-plc-add-to-cart eltdf-default-skin">
-                                                                                        <a rel="nofollow" href="index528e.html?add-to-cart=1763" data-quantity="1" data-product_id="1763" data-product_sku="032" class="button add_to_cart_button ajax_add_to_cart eltdf-btn eltdf-btn-outline">Add to cart</a>
-                                                                                    </div>
-                                                                                </div>
                                                                             </div>
-                                                                            <a class="eltdf-plc-link" itemprop="url" href="{{asset('front')}}/product/pimms-jug-2/index.html" title="Pimms jug"></a>
                                                                         </div>
                                                                         <div class="eltdf-plc-text">
                                                                             <h6 itemprop="name" class="entry-title eltdf-plc-title">
-                                                                                <a itemprop="url" href="{{asset('front')}}/product/pimms-jug-2/index.html">Pimms jug</a>
+                                                                                <a itemprop="url" href="#">Membuang Racun</a>
                                                                             </h6>
-
-
-
-
-                                                                            <div class="eltdf-plc-rating-holder">
-                                                                                <div class="eltdf-plc-rating" title="Rated %s out of 5">
-                                                                                    <span style="width: 0%"></span>
-                                                                                </div>
-                                                                            </div>
-
-                                                                            <div class="eltdf-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>22.00</span></div>
                                                                         </div>
                                                                     </div>
                                                                     <div class="eltdf-plc-item">
                                                                         <div class="eltdf-plc-image-outer">
                                                                             <div class="eltdf-plc-image">
-
-                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/home-8-img-shop-8.jpg" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="d" loading="lazy" srcset="https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-8.jpg 800w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-8-300x300.jpg 300w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-8-150x150.jpg 150w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-8-768x768.jpg 768w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-8-650x650.jpg 650w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-8-600x600.jpg 600w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-8-100x100.jpg 100w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/meringankan_kerja_ginjal.webp" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="d" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" />
                                                                             </div>
                                                                             <div class="eltdf-plc-btn-overlay-outer">
-                                                                                <div class="eltdf-plc-btn-overlay-inner">
-
-                                                                                    <div class="eltdf-plc-add-to-cart eltdf-default-skin">
-                                                                                        <a rel="nofollow" href="indexbfb7.html?add-to-cart=1762" data-quantity="1" data-product_id="1762" data-product_sku="033" class="button add_to_cart_button ajax_add_to_cart eltdf-btn eltdf-btn-outline">Add to cart</a>
-                                                                                    </div>
-                                                                                </div>
                                                                             </div>
-                                                                            <a class="eltdf-plc-link" itemprop="url" href="{{asset('front')}}/product/coco-spice-2/index.html" title="Coco spice"></a>
                                                                         </div>
                                                                         <div class="eltdf-plc-text">
                                                                             <h6 itemprop="name" class="entry-title eltdf-plc-title">
-                                                                                <a itemprop="url" href="{{asset('front')}}/product/coco-spice-2/index.html">Coco spice</a>
+                                                                                <a itemprop="url" href="#">Meringankan Kerja Ginjal</a>
                                                                             </h6>
-
-
-
-
-                                                                            <div class="eltdf-plc-rating-holder">
-                                                                                <div class="eltdf-plc-rating" title="Rated %s out of 5">
-                                                                                    <span style="width: 80%"></span>
-                                                                                </div>
-                                                                            </div>
-
-                                                                            <div class="eltdf-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>17.00</span></div>
                                                                         </div>
                                                                     </div>
                                                                     <div class="eltdf-plc-item">
                                                                         <div class="eltdf-plc-image-outer">
                                                                             <div class="eltdf-plc-image">
-
-                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/home-8-img-shop-6.jpg" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="d" loading="lazy" srcset="https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-6.jpg 800w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-6-300x300.jpg 300w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-6-150x150.jpg 150w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-6-768x768.jpg 768w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-6-650x650.jpg 650w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-6-600x600.jpg 600w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-6-100x100.jpg 100w" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/menjaga_metabolisme.webp" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="d" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" />
                                                                             </div>
                                                                             <div class="eltdf-plc-btn-overlay-outer">
-                                                                                <div class="eltdf-plc-btn-overlay-inner">
-
-                                                                                    <div class="eltdf-plc-add-to-cart eltdf-default-skin">
-                                                                                        <a rel="nofollow" href="index4062.html?add-to-cart=1761" data-quantity="1" data-product_id="1761" data-product_sku="030" class="button add_to_cart_button ajax_add_to_cart eltdf-btn eltdf-btn-outline">Add to cart</a>
-                                                                                    </div>
-                                                                                </div>
                                                                             </div>
-                                                                            <a class="eltdf-plc-link" itemprop="url" href="{{asset('front')}}/product/punch-2/index.html" title="Punch"></a>
                                                                         </div>
                                                                         <div class="eltdf-plc-text">
                                                                             <h6 itemprop="name" class="entry-title eltdf-plc-title">
-                                                                                <a itemprop="url" href="{{asset('front')}}/product/punch-2/index.html">Punch</a>
+                                                                                <a itemprop="url" href="{{asset('front')}}/product/punch-2/index.html">Menjaga Metabolisme Tubuh</a>
                                                                             </h6>
-
-
-
-
-                                                                            <div class="eltdf-plc-rating-holder">
-                                                                                <div class="eltdf-plc-rating" title="Rated %s out of 5">
-                                                                                    <span style="width: 80%"></span>
-                                                                                </div>
-                                                                            </div>
-
-                                                                            <div class="eltdf-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>17.00</span></div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-plc-item">
-                                                                        <div class="eltdf-plc-image-outer">
-                                                                            <div class="eltdf-plc-image">
-
-                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/home-8-img-shop-5-800x800.jpg" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="g" loading="lazy" srcset="https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-5.jpg 800w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-5-150x150.jpg 150w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-5-300x300.jpg 300w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-5-768x768.jpg 768w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-5-650x650.jpg 650w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-5-600x600.jpg 600w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-5-100x100.jpg 100w" sizes="(max-width: 800px) 100vw, 800px" />
-                                                                            </div>
-                                                                            <div class="eltdf-plc-btn-overlay-outer">
-                                                                                <div class="eltdf-plc-btn-overlay-inner">
-
-                                                                                    <div class="eltdf-plc-add-to-cart eltdf-default-skin">
-                                                                                        <a rel="nofollow" href="index791a.html?add-to-cart=1485" data-quantity="1" data-product_id="1485" data-product_sku="030" class="button add_to_cart_button ajax_add_to_cart eltdf-btn eltdf-btn-outline">Add to cart</a>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <a class="eltdf-plc-link" itemprop="url" href="{{asset('front')}}/product/punch/index.html" title="Punch"></a>
-                                                                        </div>
-                                                                        <div class="eltdf-plc-text">
-                                                                            <h6 itemprop="name" class="entry-title eltdf-plc-title">
-                                                                                <a itemprop="url" href="{{asset('front')}}/product/punch/index.html">Punch</a>
-                                                                            </h6>
-
-
-
-
-                                                                            <div class="eltdf-plc-rating-holder">
-                                                                                <div class="eltdf-plc-rating" title="Rated %s out of 5">
-                                                                                    <span style="width: 80%"></span>
-                                                                                </div>
-                                                                            </div>
-
-                                                                            <div class="eltdf-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>17.00</span></div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-plc-item">
-                                                                        <div class="eltdf-plc-image-outer">
-                                                                            <div class="eltdf-plc-image">
-
-                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/home-8-img-shop-4-800x800.jpg" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="f" loading="lazy" srcset="https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-4.jpg 800w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-4-150x150.jpg 150w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-4-300x300.jpg 300w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-4-768x768.jpg 768w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-4-650x650.jpg 650w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-4-600x600.jpg 600w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-4-100x100.jpg 100w" sizes="(max-width: 800px) 100vw, 800px" />
-                                                                            </div>
-                                                                            <div class="eltdf-plc-btn-overlay-outer">
-                                                                                <div class="eltdf-plc-btn-overlay-inner">
-
-                                                                                    <div class="eltdf-plc-add-to-cart eltdf-default-skin">
-                                                                                        <a rel="nofollow" href="indexd604.html?add-to-cart=1477" data-quantity="1" data-product_id="1477" data-product_sku="033" class="button add_to_cart_button ajax_add_to_cart eltdf-btn eltdf-btn-outline">Add to cart</a>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <a class="eltdf-plc-link" itemprop="url" href="{{asset('front')}}/product/coco-spice/index.html" title="Coco spice"></a>
-                                                                        </div>
-                                                                        <div class="eltdf-plc-text">
-                                                                            <h6 itemprop="name" class="entry-title eltdf-plc-title">
-                                                                                <a itemprop="url" href="{{asset('front')}}/product/coco-spice/index.html">Coco spice</a>
-                                                                            </h6>
-
-
-
-
-                                                                            <div class="eltdf-plc-rating-holder">
-                                                                                <div class="eltdf-plc-rating" title="Rated %s out of 5">
-                                                                                    <span style="width: 80%"></span>
-                                                                                </div>
-                                                                            </div>
-
-                                                                            <div class="eltdf-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>17.00</span></div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-plc-item">
-                                                                        <div class="eltdf-plc-image-outer">
-                                                                            <div class="eltdf-plc-image">
-
-                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/home-8-img-shop-3-800x800.jpg" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="f" loading="lazy" srcset="https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-3.jpg 800w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-3-150x150.jpg 150w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-3-300x300.jpg 300w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-3-768x768.jpg 768w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-3-650x650.jpg 650w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-3-600x600.jpg 600w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-3-100x100.jpg 100w" sizes="(max-width: 800px) 100vw, 800px" />
-                                                                            </div>
-                                                                            <div class="eltdf-plc-btn-overlay-outer">
-                                                                                <div class="eltdf-plc-btn-overlay-inner">
-
-                                                                                    <div class="eltdf-plc-add-to-cart eltdf-default-skin">
-                                                                                        <a rel="nofollow" href="indexe332.html?add-to-cart=1476" data-quantity="1" data-product_id="1476" data-product_sku="032" class="button add_to_cart_button ajax_add_to_cart eltdf-btn eltdf-btn-outline">Add to cart</a>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <a class="eltdf-plc-link" itemprop="url" href="{{asset('front')}}/product/pimms-jug/index.html" title="Pimms jug"></a>
-                                                                        </div>
-                                                                        <div class="eltdf-plc-text">
-                                                                            <h6 itemprop="name" class="entry-title eltdf-plc-title">
-                                                                                <a itemprop="url" href="{{asset('front')}}/product/pimms-jug/index.html">Pimms jug</a>
-                                                                            </h6>
-
-
-
-
-                                                                            <div class="eltdf-plc-rating-holder">
-                                                                                <div class="eltdf-plc-rating" title="Rated %s out of 5">
-                                                                                    <span style="width: 80%"></span>
-                                                                                </div>
-                                                                            </div>
-
-                                                                            <div class="eltdf-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>22.00</span></div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-plc-item">
-                                                                        <div class="eltdf-plc-image-outer">
-                                                                            <div class="eltdf-plc-image">
-
-                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/home-8-img-shop-2-800x800.jpg" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="f" loading="lazy" srcset="https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-2.jpg 800w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-2-150x150.jpg 150w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-2-300x300.jpg 300w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-2-768x768.jpg 768w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-2-650x650.jpg 650w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-2-600x600.jpg 600w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-2-100x100.jpg 100w" sizes="(max-width: 800px) 100vw, 800px" />
-                                                                            </div>
-                                                                            <div class="eltdf-plc-btn-overlay-outer">
-                                                                                <div class="eltdf-plc-btn-overlay-inner">
-
-                                                                                    <div class="eltdf-plc-add-to-cart eltdf-default-skin">
-                                                                                        <a rel="nofollow" href="indexff6a.html?add-to-cart=1475" data-quantity="1" data-product_id="1475" data-product_sku="031" class="button add_to_cart_button ajax_add_to_cart eltdf-btn eltdf-btn-outline">Add to cart</a>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <a class="eltdf-plc-link" itemprop="url" href="{{asset('front')}}/product/tequila-sunrise/index.html" title="Tequila sunrise"></a>
-                                                                        </div>
-                                                                        <div class="eltdf-plc-text">
-                                                                            <h6 itemprop="name" class="entry-title eltdf-plc-title">
-                                                                                <a itemprop="url" href="{{asset('front')}}/product/tequila-sunrise/index.html">Tequila sunrise</a>
-                                                                            </h6>
-
-
-
-
-                                                                            <div class="eltdf-plc-rating-holder">
-                                                                                <div class="eltdf-plc-rating" title="Rated %s out of 5">
-                                                                                    <span style="width: 80%"></span>
-                                                                                </div>
-                                                                            </div>
-
-                                                                            <div class="eltdf-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>28.00</span></div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-plc-item">
-                                                                        <div class="eltdf-plc-image-outer">
-                                                                            <div class="eltdf-plc-image">
-
-                                                                                <img width="800" height="800" src="{{asset('front')}}/wp-content/uploads/2019/11/home-8-img-shop-1-800x800.jpg" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="f" loading="lazy" srcset="https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-1.jpg 800w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-1-150x150.jpg 150w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-1-300x300.jpg 300w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-1-768x768.jpg 768w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-1-650x650.jpg 650w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-1-600x600.jpg 600w, https://laurent.qodeinteractive.com/wp-content/uploads/2019/11/home-8-img-shop-1-100x100.jpg 100w" sizes="(max-width: 800px) 100vw, 800px" />
-                                                                            </div>
-                                                                            <div class="eltdf-plc-btn-overlay-outer">
-                                                                                <div class="eltdf-plc-btn-overlay-inner">
-
-                                                                                    <div class="eltdf-plc-add-to-cart eltdf-default-skin">
-                                                                                        <a rel="nofollow" href="indexc541.html?add-to-cart=1474" data-quantity="1" data-product_id="1474" data-product_sku="030" class="button add_to_cart_button ajax_add_to_cart eltdf-btn eltdf-btn-outline">Add to cart</a>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <a class="eltdf-plc-link" itemprop="url" href="{{asset('front')}}/product/berries-daiquiri/index.html" title="berries daiquiri"></a>
-                                                                        </div>
-                                                                        <div class="eltdf-plc-text">
-                                                                            <h6 itemprop="name" class="entry-title eltdf-plc-title">
-                                                                                <a itemprop="url" href="{{asset('front')}}/product/berries-daiquiri/index.html">berries daiquiri</a>
-                                                                            </h6>
-
-
-
-
-                                                                            <div class="eltdf-plc-rating-holder">
-                                                                                <div class="eltdf-plc-rating" title="Rated %s out of 5">
-                                                                                    <span style="width: 80%"></span>
-                                                                                </div>
-                                                                            </div>
-
-                                                                            <div class="eltdf-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>17.00</span></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1620,236 +1302,93 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div data-parallax-bg-image="https://laurent.qodeinteractive.com/wp-content/uploads/2019/10/home-8-beckround-3.jpg" data-parallax-bg-speed="1" class="vc_row wpb_row vc_row-fluid vc_custom_1573640988675 eltdf-parallax-row-holder eltdf-content-aligment-center">
+                                    <!-- Artikel -->
+                                    <div class="vc_row wpb_row vc_row-fluid vc_custom_1573549706260 eltdf-content-aligment-center">
                                         <div class="wpb_column vc_column_container vc_col-sm-12">
                                             <div class="vc_column-inner">
                                                 <div class="wpb_wrapper">
-                                                    <div class="eltdf-video-button-holder  ">
-                                                        <div class="eltdf-video-button-image">
+                                                    <div class="eltdf-section-title-holder    eltdf-st-decor-animation" style="text-align: center">
+                                                        <div class="eltdf-st-inner">
+                                                            <div class="eltdf-st-title-holder">
+                                                                <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
+                                                                        <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
+                                                                        <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881.591L20.562 8.576.243.591" />
+                                                                    </svg></div>
+                                                                <h1 class="eltdf-st-title">
+                                                                    Artikel </h1>
+                                                                <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
+                                                                        <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
+                                                                        <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881.591L20.562 8.576.243.591" />
+                                                                    </svg></div>
+                                                            </div>
                                                         </div>
-                                                        <a class="eltdf-video-button-play" href="https://vimeo.com/369245407?iframe=true" data-rel="prettyPhoto[video_button_pretty_photo_951]">
-                                                            <span class="eltdf-video-button-play-inner">
-                                                                <span>
-                                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="97.094px" height="97.094px" viewBox="0 0 97.094 97.094" enable-background="new 0 0 97.094 97.094" xml:space="preserve">
-                                                                        <circle fill="none" stroke="currentColor" stroke-miterlimit="10" cx="48.558" cy="48.548" r="48" />
-                                                                        <circle fill="none" class="eltdf-popout" stroke="none" stroke-miterlimit="10" cx="48.558" cy="48.548" r="41.037" />
-                                                                        <polygon fill="none" stroke="currentColor" stroke-miterlimit="10" points="42.578,69.964 42.578,27.13 63.994,48.546 " />
-                                                                    </svg>
-                                                                </span>
-                                                            </span>
-                                                        </a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="eltdf-row-grid-section-wrapper ">
+                                    <div class="eltdf-row-grid-section-wrapper eltdf-content-aligment-center" style="margin-top: 40px;">
                                         <div class="eltdf-row-grid-section">
-                                            <div class="vc_row wpb_row vc_row-fluid vc_custom_1572967953019">
+                                            <div class="vc_row wpb_row vc_row-fluid vc_custom_1573574980934">
                                                 <div class="wpb_column vc_column_container vc_col-sm-12">
                                                     <div class="vc_column-inner">
                                                         <div class="wpb_wrapper">
-                                                            <div class="eltdf-elements-holder   eltdf-two-columns  eltdf-responsive-mode-1024  fifty-fifty">
-                                                                <div class="eltdf-eh-item    " data-item-class="eltdf-eh-custom-2423" data-769-1024="0 0 30px 0" data-681-768="0 0 30px 0" data-680="0 0 30px 0">
-                                                                    <div class="eltdf-eh-item-inner">
-                                                                        <div class="eltdf-eh-item-content eltdf-eh-custom-2423" style="padding: 0 25px 0 0">
-                                                                            <div class="eltdf-section-title-holder    eltdf-st-decor-animation" style="text-align: center">
-                                                                                <div class="eltdf-st-inner">
-                                                                                    <span class="eltdf-st-tagline">
-                                                                                        Classic tastes </span>
-                                                                                    <div class="eltdf-st-title-holder">
-                                                                                        <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881.591L20.562 8.576.243.591" />
-                                                                                            </svg></div>
-                                                                                        <h4 class="eltdf-st-title">
-                                                                                            Cocktails </h4>
-                                                                                        <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881.591L20.562 8.576.243.591" />
-                                                                                            </svg></div>
+                                                            <div class="eltdf-portfolio-list-holder eltdf-grid-list eltdf-pl-gallery eltdf-three-columns eltdf-medium-space eltdf-disable-bottom-space eltdf-pl-standard-overlay    eltdf-pl-pag-no-pagination  eltdf-pl-has-animation     " data-type=gallery data-number-of-columns=three data-space-between-items=medium data-number-of-items=3 data-image-proportions=full data-enable-fixed-proportions=no data-enable-image-shadow=no data-category=specialties data-orderby=date data-order=ASC data-item-style=standard-overlay data-enable-title=yes data-title-tag=h5 data-enable-category=yes data-enable-count-images=yes data-enable-excerpt=no data-excerpt-length=20 data-pagination-type=no-pagination data-filter=no data-filter-order-by=name data-enable-article-animation=yes data-portfolio-slider-on=no data-enable-loop=yes data-enable-autoplay=yes data-slider-speed=5000 data-slider-speed-animation=600 data-enable-navigation=yes data-enable-pagination=yes data-max-num-pages=1 data-next-page=2>
+                                                                <div class="eltdf-pl-inner eltdf-outer-space  clearfix">
+                                                                    <article class="eltdf-pl-item eltdf-item-space  post-942 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-specialties portfolio-tag-recipes portfolio-tag-sweet portfolio-tag-tasty">
+                                                                        <div class="eltdf-pl-item-inner">
+                                                                            <div class="eltdf-pli-image">
+                                                                                <img width="800" height="1217" src="{{asset('front')}}/wp-content/uploads/2019/10/kurangnya_air_bersih.webp" class="attachment-full size-full wp-post-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                                <div class="eltdf-pli-image-shader-overlay">
+                                                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="47.994px" height="47.994px" viewBox="0 0 47.994 47.994" enable-background="new 0 0 47.994 47.994" xml:space="preserve">
+                                                                                        <line fill="none" stroke="#83B8D9" stroke-miterlimit="10" x1="21.044" y1="3" x2="21.044" y2="47.994" />
+                                                                                        <line fill="none" stroke="#83B8D9" stroke-miterlimit="10" x1="27.044" y1="0" x2="27.044" y2="44.994" />
+                                                                                        <line fill="none" stroke="#83B8D9" stroke-miterlimit="10" x1="44.994" y1="21.484" x2="0" y2="21.484" />
+                                                                                        <line fill="none" stroke="#83B8D9" stroke-miterlimit="10" x1="47.994" y1="26.5" x2="3" y2="26.5" />
+                                                                                    </svg>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="eltdf-pli-text-holder">
+                                                                                <div class="eltdf-pli-text-wrapper">
+                                                                                    <div class="eltdf-pli-text">
+                                                                                        <h5 itemprop="name" class="eltdf-pli-title entry-title">
+                                                                                            Kurangnya akses terhadap air bersih </h5>
+                                                                                        <div class="eltdf-pli-category-holder">
+                                                                                            <a itemprop="url" class="eltdf-pli-category" href="https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease">WHO</a>
+                                                                                        </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <div class="vc_empty_space" style="height: 65px"><span class="vc_empty_space_inner"></span></div>
-                                                                            <div class="eltdf-pricing-holder ">
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Coco spice </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$32</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Captain Morgan spiced rum, pineaple </p>
-                                                                                </div>
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Tequila sunrise </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$25</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Tequila, orange juice, grenadine</p>
-                                                                                </div>
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Cuba libre </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$38</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Dark rum, fresh lime, Coke</p>
-                                                                                </div>
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Cuba libre </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$38</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Dark rum, fresh lime, Coke</p>
-                                                                                </div>
-                                                                            </div>
+                                                                            <a itemprop="url" class="eltdf-pli-link eltdf-block-drag-link" href="https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease" target="_self"></a>
                                                                         </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="eltdf-eh-item    " data-item-class="eltdf-eh-custom-9751" data-769-1024="0 0" data-681-768="0 0 30px 0" data-680="0 0 30px 0">
-                                                                    <div class="eltdf-eh-item-inner">
-                                                                        <div class="eltdf-eh-item-content eltdf-eh-custom-9751" style="padding: 0 25px">
-                                                                            <div class="eltdf-section-title-holder    eltdf-st-decor-animation" style="text-align: center">
-                                                                                <div class="eltdf-st-inner">
-                                                                                    <span class="eltdf-st-tagline">
-                                                                                        Reds &amp; whites </span>
-                                                                                    <div class="eltdf-st-title-holder">
-                                                                                        <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881.591L20.562 8.576.243.591" />
-                                                                                            </svg></div>
-                                                                                        <h4 class="eltdf-st-title">
-                                                                                            Wine </h4>
-                                                                                        <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881.591L20.562 8.576.243.591" />
-                                                                                            </svg></div>
+                                                                    </article>
+                                                                    <article class="eltdf-pl-item eltdf-item-space  post-942 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-specialties portfolio-tag-recipes portfolio-tag-sweet portfolio-tag-tasty">
+                                                                        <div class="eltdf-pl-item-inner">
+                                                                            <div class="eltdf-pli-image">
+                                                                                <img width="800" height="1217" src="{{asset('front')}}/wp-content/uploads/2019/10/mesin_ro.webp" class="attachment-full size-full wp-post-image" alt="d" sizes="(max-width: 800px) 100vw, 800px" />
+                                                                                <div class="eltdf-pli-image-shader-overlay">
+                                                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="47.994px" height="47.994px" viewBox="0 0 47.994 47.994" enable-background="new 0 0 47.994 47.994" xml:space="preserve">
+                                                                                        <line fill="none" stroke="#83B8D9" stroke-miterlimit="10" x1="21.044" y1="3" x2="21.044" y2="47.994" />
+                                                                                        <line fill="none" stroke="#83B8D9" stroke-miterlimit="10" x1="27.044" y1="0" x2="27.044" y2="44.994" />
+                                                                                        <line fill="none" stroke="#83B8D9" stroke-miterlimit="10" x1="44.994" y1="21.484" x2="0" y2="21.484" />
+                                                                                        <line fill="none" stroke="#83B8D9" stroke-miterlimit="10" x1="47.994" y1="26.5" x2="3" y2="26.5" />
+                                                                                    </svg>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="eltdf-pli-text-holder">
+                                                                                <div class="eltdf-pli-text-wrapper">
+                                                                                    <div class="eltdf-pli-text">
+                                                                                        <h5 itemprop="name" class="eltdf-pli-title entry-title">
+                                                                                            Reverse Osmosis </h5>
+                                                                                        <div class="eltdf-pli-category-holder">
+                                                                                            <a itemprop="url" class="eltdf-pli-category" href="https://amartawater.com/reverse-osmosis">Amarta Water Treatment</a>
+                                                                                        </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <div class="vc_empty_space" style="height: 65px"><span class="vc_empty_space_inner"></span></div>
-                                                                            <div class="eltdf-pricing-holder ">
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Chardonnay hand </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$326</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Alexander Valley</p>
-                                                                                </div>
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Moscato Cavit </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$199</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Chile</p>
-                                                                                </div>
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Riesling michelle </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$163</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Santa Lucia Highlands</p>
-                                                                                </div>
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Riesling michelle </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$175</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Santa Lucia Highlands</p>
-                                                                                </div>
-                                                                            </div>
+                                                                            <a itemprop="url" class="eltdf-pli-link eltdf-block-drag-link" href="https://amartawater.com/reverse-osmosis" target="_self"></a>
                                                                         </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="eltdf-eh-item    " data-item-class="eltdf-eh-custom-4548" data-769-1024="0 0" data-681-768="0 0" data-680="0 0">
-                                                                    <div class="eltdf-eh-item-inner">
-                                                                        <div class="eltdf-eh-item-content eltdf-eh-custom-4548" style="padding: 0 0 0 25px">
-                                                                            <div class="eltdf-section-title-holder    eltdf-st-decor-animation" style="text-align: center">
-                                                                                <div class="eltdf-st-inner">
-                                                                                    <span class="eltdf-st-tagline">
-                                                                                        Craft &amp; lager </span>
-                                                                                    <div class="eltdf-st-title-holder">
-                                                                                        <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881.591L20.562 8.576.243.591" />
-                                                                                            </svg></div>
-                                                                                        <h4 class="eltdf-st-title">
-                                                                                            Beer </h4>
-                                                                                        <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
-                                                                                                <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881.591L20.562 8.576.243.591" />
-                                                                                            </svg></div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="vc_empty_space" style="height: 65px"><span class="vc_empty_space_inner"></span></div>
-                                                                            <div class="eltdf-pricing-holder ">
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Yuengling lager </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$9</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Pale lager</p>
-                                                                                </div>
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Southern tier </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$11</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Strong pale lager</p>
-                                                                                </div>
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Green flash </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$9</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Pale lager</p>
-                                                                                </div>
-                                                                                <div class="eltdf-pricing-item">
-
-                                                                                    <div class="eltdf-pricing-main">
-                                                                                        <h6 class="eltdf-pricing-title">
-                                                                                            Ranch imperial </h6>
-                                                                                        <div class="eltdf-pricing-lines"></div>
-                                                                                        <span class="eltdf-pricing-price">$7</span>
-                                                                                    </div>
-                                                                                    <p class="eltdf-pricing-desc">Imperial</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
+                                                                    </article>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1858,12 +1397,19 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="vc_row wpb_row vc_row-fluid vc_custom_1573644198476 vc_row-has-fill eltdf-content-aligment-center">
-                                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                                            <div class="vc_column-inner">
-                                                <div class="wpb_wrapper"><a itemprop="url" href="{{asset('front')}}/our-menu/index.html" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-outline">
-                                                        <span class="eltdf-btn-text">View All</span>
-                                                    </a></div>
+                                    <div class="eltdf-eh-item-content eltdf-eh-custom-4418" style="padding: 0 13%; margin-bottom:50px; margin-top:50px;">
+                                        <div class="eltdf-testimonials-holder clearfix eltdf-testimonials-standard ">
+                                            <div class="eltdf-testimonials-mark"></div>
+                                            <div class="eltdf-testimonials eltdf-owl-slider" data-number-of-items="1" data-enable-loop="yes" data-enable-autoplay="yes" data-slider-speed="5000" data-slider-speed-animation="600" data-enable-navigation="yes" data-enable-pagination="yes">
+                                                <div class="eltdf-testimonial-content" id="eltdf-testimonials-1542">
+                                                    <div class="eltdf-testimonial-text-holder">
+                                                        <p class="eltdf-testimonial-text"> Gerai air minum isi ulang dengan sistem demineralisasi yang menjangkau masyarakat dengan mudah mendapatkan air minum murni yang terbebas dari kontaminasi secara kimia, fisika, dan mikrobiologis. </p>
+                                                        <h5 class="eltdf-testimonial-author">
+                                                            <span class="eltdf-testimonials-author-name">Erfan Ramadhan, S.T.</span>
+                                                        </h5>
+                                                        <p class="eltdf-testimonials-author-job">Co - Founder / CEO</p>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -1877,8 +1423,6 @@
                                                                 <div class="eltdf-eh-item-content eltdf-eh-custom-9255" style="padding: 180px 0">
                                                                     <div class="eltdf-section-title-holder    eltdf-st-decor-animation" style="text-align: center">
                                                                         <div class="eltdf-st-inner">
-                                                                            <span class="eltdf-st-tagline">
-                                                                                Find the bar </span>
                                                                             <div class="eltdf-st-title-holder">
                                                                                 <div class="decor"><svg xmlns="http://www.w3.org/2000/svg" width="41.125" height="9.146">
                                                                                         <path fill="none" stroke="#9C7C57" stroke-miterlimit="10" d="M40.881 8.576L20.562.591.244 8.576" />
@@ -1896,8 +1440,14 @@
                                                                     <div class="vc_empty_space" style="height: 7px"><span class="vc_empty_space_inner"></span></div>
                                                                     <div class="wpb_text_column wpb_content_element ">
                                                                         <div class="wpb_wrapper">
-                                                                            <p><a href="https://www.google.com/maps/d/u/0/viewer?msa=0&amp;mid=1bf4qwgGAMWSKS2N2GnGJRONqRTs&amp;ll=40.74506009999999%2C-73.9847244&amp;z=18" target="_blank" rel="noopener noreferrer">71 Madison Ave 10013 New York,</a> <a href="tel:914-309701"> 914-309701, </a> <a href="tel:914-32921"> 914-329211,</a><br />
-                                                                                <a href="mailto:name@email.com">reservations@laurent.com,</a> <a href="mailto:name@email.com">office@laurent.com</a>
+                                                                            <p>
+                                                                                <a href="https://maps.app.goo.gl/u6EmKXVzfSAZsz8i6" target="_blank" rel="noopener noreferrer">
+                                                                                    Jl. Bujanggamanik Kav. No.60 Ruko Pancawarna / Samping IKEA,Kota Baru Parahyangan – Kertajaya, Kec. Padalarang Kabupaten Bandung Barat, Jawa Barat 40553,
+                                                                                </a>
+                                                                                <br>
+                                                                                <a href="mailto:info@amartapure.com">info@amartapure.com,</a>
+                                                                                <br>
+                                                                                <a href="https://wa.me/08118877225">+62 811 887 7225</a>
                                                                             </p>
 
                                                                         </div>
@@ -1906,27 +1456,30 @@
                                                                     <div class="wpb_text_column wpb_content_element ">
                                                                         <div class="wpb_wrapper">
                                                                             <p>Opening hours:<br />
-                                                                                Mon &#8211; Thu: 10.00 am &#8211; 01:00 am<br />
-                                                                                Fri &#8211; Sun: 10:00 am &#8211; 02:00 am</p>
+                                                                                Senin &#8211; Jumat : 09.00 &#8211; 20:00<br />
+                                                                                Sabtu : 09:00 &#8211; 18:00 <br>
+                                                                                Minggu : 09.00 &#8211; 17.00
+                                                                            </p>
 
                                                                         </div>
                                                                     </div>
-                                                                    <div class="vc_empty_space" style="height: 45px"><span class="vc_empty_space_inner"></span></div> <span class="eltdf-icon-shortcode eltdf-normal   " style="margin: 0 28px 0 0" data-hover-color="#755c3a" data-color="#c9ab81">
-                                                                        <a itemprop="url" class="" href="https://www.facebook.com/QodeInteractive/" target="_blank">
-                                                                            <i class="eltdf-icon-ion-icon ion-social-facebook-outline eltdf-icon-element" style="color: #c9ab81;font-size:18px"></i> </a>
+                                                                    <div class="vc_empty_space" style="height: 45px"><span class="vc_empty_space_inner"></span></div>
+                                                                    <span class="eltdf-icon-shortcode eltdf-normal" style="margin: 0 28px 0 0" data-hover-color="#755c3a" data-color="#83B8D9">
+                                                                        <a itemprop="url" class="" href="https://www.facebook.com/amartaofficial" target="_blank">
+                                                                            <i class="eltdf-icon-ion-icon ion-social-facebook-outline eltdf-icon-element" style="color: #83B8D9;font-size:18px"></i> </a>
                                                                     </span>
-                                                                    <span class="eltdf-icon-shortcode eltdf-normal   " style="margin: 0 28px 0 0" data-hover-color="#755c3a" data-color="#c9ab81">
-                                                                        <a itemprop="url" class="" href="https://www.instagram.com/qodeinteractive/" target="_blank">
-                                                                            <i class="eltdf-icon-ion-icon ion-social-instagram-outline eltdf-icon-element" style="color: #c9ab81;font-size:18px"></i> </a>
+                                                                    <span class="eltdf-icon-shortcode eltdf-normal" style="margin: 0 28px 0 0" data-hover-color="#755c3a" data-color="#c9ab81">
+                                                                        <a itemprop="url" class="" href="https://www.instagram.com/amartapurewater" target="_blank">
+                                                                            <i class="eltdf-icon-ion-icon ion-social-instagram-outline eltdf-icon-element" style="color: #83B8D9;font-size:18px"></i> </a>
                                                                     </span>
-                                                                    <span class="eltdf-icon-shortcode eltdf-normal   " data-hover-color="#755c3a" data-color="#c9ab81">
-                                                                        <a itemprop="url" class="" href="https://twitter.com/QodeInteractive" target="_blank">
-                                                                            <i class="eltdf-icon-ion-icon ion-social-twitter-outline eltdf-icon-element" style="color: #c9ab81;font-size:18px"></i> </a>
+                                                                    <span class="eltdf-icon-shortcode eltdf-normal" data-hover-color="#755c3a" data-color="#c9ab81">
+                                                                        <a itemprop="url" class="" href="https://www.youtube.com/@amartapurewater" target="_blank">
+                                                                            <i class="eltdf-icon-ion-icon ion-social-youtube-outline eltdf-icon-element" style="color: #83B8D9;font-size:18px"></i> </a>
                                                                     </span>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="eltdf-eh-item    " style="background-image: url(../wp-content/uploads/2019/12/Bar-home-img-2.jpg)" data-item-class="eltdf-eh-custom-6350" data-681-768="40% 0" data-680="50% 0">
+                                                        <div class="eltdf-eh-item" style="background-image: url(<?= asset('front') ?>/wp-content/uploads/2019/12/slide_gerai.jpeg)" data-item-class="eltdf-eh-custom-6350" data-681-768="40% 0" data-680="50% 0">
                                                             <div class="eltdf-eh-item-inner">
                                                                 <div class="eltdf-eh-item-content eltdf-eh-custom-6350">
                                                                 </div>
@@ -1940,11 +1493,11 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
-
                 </div> <!-- close div.content_inner -->
-            </div> <!-- close div.content -->
+            </div>
+            <!-- close div.content -->
+
             <footer class="eltdf-page-footer ">
                 <div class="eltdf-footer-top-holder">
                     <div class="eltdf-footer-top-inner eltdf-grid">
@@ -1957,39 +1510,14 @@
                         </div>
                         <div class="eltdf-grid-row eltdf-footer-top-alignment-center">
                             <div class="eltdf-column-content eltdf-grid-col-12">
-                                <div id="media_image-2" class="widget eltdf-footer-column-1 widget_media_image"><a href="{{asset('front')}}/index.html"><img width="46" height="66" src="{{asset('front')}}/wp-content/uploads/2019/10/footer-logo.png" class="image wp-image-75  attachment-full size-full" alt="u" loading="lazy" style="max-width: 100%; height: auto;" /></a></div>
+                                <div id="media_image-2" class="widget eltdf-footer-column-1 widget_media_image">
+                                    <a href="#">
+                                        <img id="logo-img" style="width: 170px; height:70px;" class="img-center" src="{{ url('pure_water') }}/images/logo/logo_footer.png" alt="logo-img">
+                                    </a>
+                                </div>
                                 <div class="widget eltdf-separator-widget">
                                     <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
                                         <div class="eltdf-separator" style="border-style: solid;margin-top: 35px"></div>
-                                    </div>
-                                </div>
-                                <div id="text-2" class="widget eltdf-footer-column-1 widget_text">
-                                    <div class="textwidget">
-                                        <p style="line-height: 14px;">Laurent Restaurant &amp; Fine dining, <a href="https://www.google.com/maps/place/Iron+Chef+House/@40.6988193,-73.9964619,17z/data=!4m13!1m7!3m6!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!2sNew+York,+NY,+USA!3b1!8m2!3d40.7127753!4d-74.0059728!3m4!1s0x89c25a37d80442e1:0x191a68ea3b55b3b7!8m2!3d40.6972497!4d-73.9926215?hl=en" target="_blank" rel="noopener noreferrer">71 Madison Ave </a></p>
-                                    </div>
-                                </div>
-                                <div id="text-3" class="widget eltdf-footer-column-1 widget_text">
-                                    <div class="textwidget">
-                                        <p style="line-height: 14px;"><a href="https://www.google.com/maps/place/Iron+Chef+House/@40.6988193,-73.9964619,17z/data=!4m13!1m7!3m6!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!2sNew+York,+NY,+USA!3b1!8m2!3d40.7127753!4d-74.0059728!3m4!1s0x89c25a37d80442e1:0x191a68ea3b55b3b7!8m2!3d40.6972497!4d-73.9926215?hl=en" target="_blank" rel="noopener noreferrer">10013 New York, </a> <a href="tel:914-309-7030"> 914-309-7030, </a> <a href="mailto:name@email.com"> reservations@laurent.com</a></p>
-                                    </div>
-                                </div>
-                                <div id="text-5" class="widget eltdf-footer-column-1 widget_text">
-                                    <div class="textwidget">
-                                        <p style="line-height: 14px;"> Open: 09:00 am &#8211; 01:00 pm </p>
-                                    </div>
-                                </div>
-                                <div class="widget eltdf-separator-widget">
-                                    <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
-                                        <div class="eltdf-separator" style="border-style: solid;width: 0px;border-bottom-width: 2px;margin-top: 0px"></div>
-                                    </div>
-                                </div>
-                                <div id="nav_menu-2" class="widget eltdf-footer-column-1 widget_nav_menu">
-                                    <div class="menu-footer-menu-container">
-                                        <ul id="menu-footer-menu" class="menu">
-                                            <li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a target="_blank" rel="noopener" href="https://www.facebook.com/QodeInteractive/">Facebook</a></li>
-                                            <li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a target="_blank" rel="noopener" href="https://www.instagram.com/qodeinteractive/">Instagram</a></li>
-                                            <li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a target="_blank" rel="noopener" href="https://www.tripadvisor.com/">Trip Advisor</a></li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -1998,214 +1526,57 @@
                 </div>
             </footer>
         </div> <!-- close div.eltdf-wrapper-inner  -->
-    </div> <!-- close div.eltdf-wrapper -->
+    </div>
+    <!-- close div.eltdf-wrapper -->
     <section class="eltdf-side-menu">
         <a class="eltdf-close-side-menu eltdf-close-side-menu-predefined" href="#">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.1 18.1" class="eltdf-menu-closer">
                 <line x1="0.4" y1="0.4" x2="17.7" y2="17.7" class="a" />
                 <line x1="0.4" y1="17.7" x2="17.7" y2="0.4" />
-            </svg> </a>
-        <div id="media_image-3" class="widget eltdf-sidearea widget_media_image"><a href="{{asset('front')}}/index.html"><img width="46" height="66" src="{{asset('front')}}/wp-content/uploads/2019/10/footer-logo.png" class="image wp-image-75  attachment-full size-full" alt="t" loading="lazy" style="max-width: 100%; height: auto;" /></a></div>
-        <div class="widget eltdf-separator-widget">
-            <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
-                <div class="eltdf-separator" style="border-style: solid;border-bottom-width: 18px"></div>
+            </svg>
+        </a>
+        <a class="eltdf-close-side-menu eltdf-close-side-menu-predefined" href="#">
+            <div id="media_image-3" class="widget eltdf-sidearea widget_media_image"><a href="{{asset('front')}}/index.html"><img width="100" height="100" src="{{ url('pure_water') }}/images/logo/logo_footer.png" class="image wp-image-75  attachment-full size-full" alt="t" loading="lazy" style="max-width: 100%; height: auto;" /></a></div>
+            <div class="widget eltdf-separator-widget">
+                <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
+                    <div class="eltdf-separator" style="border-style: solid;border-bottom-width: 18px"></div>
+                </div>
             </div>
-        </div>
-        <div id="text-6" class="widget eltdf-sidearea widget_text">
-            <div class="textwidget">
-                <p style="line-height: 36px;">Laurent Fine dining,<br />
-                    <a href="https://www.google.com/maps/place/Iron+Chef+House/@40.6988193,-73.9964619,17z/data=!4m13!1m7!3m6!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!2sNew+York,+NY,+USA!3b1!8m2!3d40.7127753!4d-74.0059728!3m4!1s0x89c25a37d80442e1:0x191a68ea3b55b3b7!8m2!3d40.6972497!4d-73.9926215?hl=en" target="_blank" rel="noopener noreferrer">107 Duncan Avenue, New York</a><br />
-                    <a href="tel:914-309-7030"> 914-309-7030, </a><br />
-                    Open: 09:00 am &#8211; 01:00 pm
-                </p>
+            <div id="text-6" class="widget eltdf-sidearea widget_text">
+                <div class="textwidget">
+                    <p style="line-height: 36px;">Amarta Pure,<br />
+                        <a href="https://maps.app.goo.gl/u6EmKXVzfSAZsz8i6" target="_blank" rel="noopener noreferrer">
+                            Jl. Bujanggamanik Kav. No.60 Ruko Pancawarna / Samping IKEA,Kota Baru Parahyangan – Jawa Barat 40553,
+                        </a><br /> <br>
+                        <a href="https://wa.me/08118877225"> +62 811 887 7225, </a><br /> <br>
+                        Senin &#8211; Jumat : 09.00 &#8211; 20:00<br />
+                        Sabtu : 09:00 &#8211; 18:00 <br>
+                        Minggu : 09.00 &#8211; 17.00
+                    </p>
+                </div>
             </div>
-        </div>
-        <div class="widget eltdf-separator-widget">
-            <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
-                <div class="eltdf-separator" style="border-style: solid;border-bottom-width: 4px;margin-top: 0px;margin-bottom: 0px"></div>
+            <div class="widget eltdf-separator-widget">
+                <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
+                    <div class="eltdf-separator" style="border-style: solid;border-bottom-width: 4px;margin-top: 0px;margin-bottom: 0px"></div>
+                </div>
             </div>
-        </div>
-        <div id="nav_menu-3" class="widget eltdf-sidearea widget_nav_menu">
-            <div class="menu-footer-menu-container">
-                <ul id="menu-footer-menu-1" class="menu">
-                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a target="_blank" rel="noopener" href="https://www.facebook.com/QodeInteractive/">Facebook</a></li>
-                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a target="_blank" rel="noopener" href="https://www.instagram.com/qodeinteractive/">Instagram</a></li>
-                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a target="_blank" rel="noopener" href="https://www.tripadvisor.com/">Trip Advisor</a></li>
-                </ul>
-            </div>
-        </div>
     </section>
     <div class="rbt-toolbar" data-theme="Laurent" data-featured="" data-button-position="65%" data-button-horizontal="right" data-button-alt="no"></div>
-    <!-- GTM Container placement set to footer -->
-    <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLJLSX7" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
     <script type="text/html" id="wpb-modifications"></script>
     <link href="https://fonts.googleapis.com/css?family=Metrophobic:400%7CRoboto:400" rel="stylesheet" property="stylesheet" media="all" type="text/css">
 
-    <script type="text/javascript">
-        var c = document.body.className;
-        c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-        document.body.className = c;
-    </script>
-    <script type="text/javascript">
-        if (typeof revslider_showDoubleJqueryError === "undefined") {
-            function revslider_showDoubleJqueryError(sliderID) {
-                var err = "<div class='rs_error_message_box'>";
-                err += "<div class='rs_error_message_oops'>Oops...</div>";
-                err += "<div class='rs_error_message_content'>";
-                err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
-                err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
-                err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
-                err += "</div>";
-                err += "</div>";
-                jQuery(sliderID).show().html(err);
-            }
-        }
-    </script>
-    <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/contact-form-7/includes/swv/js/index42f0.js?ver=5.6.3' id='swv-js'></script>
-    <script type='text/javascript' id='contact-form-7-js-extra'>
-        /* <![CDATA[ */
-        var wpcf7 = {
-            "api": {
-                "root": "https:\/\/laurent.qodeinteractive.com\/wp-json\/",
-                "namespace": "contact-form-7\/v1"
-            }
-        };
-        /* ]]> */
-    </script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/contact-form-7/includes/js/index42f0.js?ver=5.6.3' id='contact-form-7-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/../export.qodethemes.com/_toolbar/assets/js/rbt-modulesd42d.js?ver=6.0.8' id='rabbit_js-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4' id='js-cookie-js'></script>
-    <script type='text/javascript' id='woocommerce-js-extra'>
-        /* <![CDATA[ */
-        var woocommerce_params = {
-            "ajax_url": "\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%"
-        };
-        /* ]]> */
-    </script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.minc063.js?ver=3.9.5' id='woocommerce-js'></script>
-    <script type='text/javascript' id='wc-cart-fragments-js-extra'>
-        /* <![CDATA[ */
-        var wc_cart_fragments_params = {
-            "ajax_url": "\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
-            "cart_hash_key": "wc_cart_hash_4e74f70599eaefd040cab45297877ef8",
-            "fragment_name": "wc_fragments_4e74f70599eaefd040cab45297877ef8",
-            "request_timeout": "5000"
-        };
-        /* ]]> */
-    </script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.minc063.js?ver=3.9.5' id='wc-cart-fragments-js'></script>
-    <script type='text/javascript' id='ppress-frontend-script-js-extra'>
-        /* <![CDATA[ */
-        var pp_ajax_form = {
-            "ajaxurl": "https:\/\/laurent.qodeinteractive.com\/wp-admin\/admin-ajax.php",
-            "confirm_delete": "Are you sure?",
-            "deleting_text": "Deleting...",
-            "deleting_error": "An error occurred. Please try again.",
-            "nonce": "a520a71b8d",
-            "disable_ajax_form": "false",
-            "is_checkout": "0",
-            "is_checkout_tax_enabled": "0"
-        };
-        /* ]]> */
-    </script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/wp-user-avatar/assets/js/frontend.mineda1.js?ver=4.1.4' id='ppress-frontend-script-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker7100.js?ver=1.18.1' id='gtm4wp-form-move-tracker-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1' id='jquery-ui-core-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-includes/js/jquery/ui/tabs.min0028.js?ver=1.13.1' id='jquery-ui-tabs-js'></script>
-    <script type='text/javascript' id='mediaelement-core-js-before'>
-        var mejsL10n = {
-            "language": "en",
-            "strings": {
-                "mejs.download-file": "Download File",
-                "mejs.install-flash": "You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/",
-                "mejs.fullscreen": "Fullscreen",
-                "mejs.play": "Play",
-                "mejs.pause": "Pause",
-                "mejs.time-slider": "Time Slider",
-                "mejs.time-help-text": "Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.",
-                "mejs.live-broadcast": "Live Broadcast",
-                "mejs.volume-help-text": "Use Up\/Down Arrow keys to increase or decrease volume.",
-                "mejs.unmute": "Unmute",
-                "mejs.mute": "Mute",
-                "mejs.volume-slider": "Volume Slider",
-                "mejs.video-player": "Video Player",
-                "mejs.audio-player": "Audio Player",
-                "mejs.captions-subtitles": "Captions\/Subtitles",
-                "mejs.captions-chapters": "Chapters",
-                "mejs.none": "None",
-                "mejs.afrikaans": "Afrikaans",
-                "mejs.albanian": "Albanian",
-                "mejs.arabic": "Arabic",
-                "mejs.belarusian": "Belarusian",
-                "mejs.bulgarian": "Bulgarian",
-                "mejs.catalan": "Catalan",
-                "mejs.chinese": "Chinese",
-                "mejs.chinese-simplified": "Chinese (Simplified)",
-                "mejs.chinese-traditional": "Chinese (Traditional)",
-                "mejs.croatian": "Croatian",
-                "mejs.czech": "Czech",
-                "mejs.danish": "Danish",
-                "mejs.dutch": "Dutch",
-                "mejs.english": "English",
-                "mejs.estonian": "Estonian",
-                "mejs.filipino": "Filipino",
-                "mejs.finnish": "Finnish",
-                "mejs.french": "French",
-                "mejs.galician": "Galician",
-                "mejs.german": "German",
-                "mejs.greek": "Greek",
-                "mejs.haitian-creole": "Haitian Creole",
-                "mejs.hebrew": "Hebrew",
-                "mejs.hindi": "Hindi",
-                "mejs.hungarian": "Hungarian",
-                "mejs.icelandic": "Icelandic",
-                "mejs.indonesian": "Indonesian",
-                "mejs.irish": "Irish",
-                "mejs.italian": "Italian",
-                "mejs.japanese": "Japanese",
-                "mejs.korean": "Korean",
-                "mejs.latvian": "Latvian",
-                "mejs.lithuanian": "Lithuanian",
-                "mejs.macedonian": "Macedonian",
-                "mejs.malay": "Malay",
-                "mejs.maltese": "Maltese",
-                "mejs.norwegian": "Norwegian",
-                "mejs.persian": "Persian",
-                "mejs.polish": "Polish",
-                "mejs.portuguese": "Portuguese",
-                "mejs.romanian": "Romanian",
-                "mejs.russian": "Russian",
-                "mejs.serbian": "Serbian",
-                "mejs.slovak": "Slovak",
-                "mejs.slovenian": "Slovenian",
-                "mejs.spanish": "Spanish",
-                "mejs.swahili": "Swahili",
-                "mejs.swedish": "Swedish",
-                "mejs.tagalog": "Tagalog",
-                "mejs.thai": "Thai",
-                "mejs.turkish": "Turkish",
-                "mejs.ukrainian": "Ukrainian",
-                "mejs.vietnamese": "Vietnamese",
-                "mejs.welsh": "Welsh",
-                "mejs.yiddish": "Yiddish"
-            }
-        };
-    </script>
     <script type='text/javascript' src='{{asset("front")}}/wp-includes/js/mediaelement/mediaelement-and-player.min08e1.js?ver=4.2.16' id='mediaelement-core-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-includes/js/mediaelement/mediaelement-migrate.mind42d.js?ver=6.0.8' id='mediaelement-migrate-js'></script>
-    <script type='text/javascript' id='mediaelement-js-extra'>
-        /* <![CDATA[ */
-        var _wpmejsSettings = {
-            "pluginPath": "\/wp-includes\/js\/mediaelement\/",
-            "classPrefix": "mejs-",
-            "stretching": "responsive"
-        };
-        /* ]]> */
-    </script>
     <script type='text/javascript' src='{{asset("front")}}/wp-includes/js/mediaelement/wp-mediaelement.mind42d.js?ver=6.0.8' id='wp-mediaelement-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/themes/laurent/assets/js/modules/plugins/jquery.appeard42d.js?ver=6.0.8' id='appear-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/themes/laurent/assets/js/modules/plugins/modernizr.mind42d.js?ver=6.0.8' id='modernizr-js'></script>
@@ -2225,24 +1596,6 @@
     <script type='text/javascript' src='{{asset("front")}}/wp-content/themes/laurent/assets/js/modules/plugins/swiper.mind42d.js?ver=6.0.8' id='swiper-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/laurent-core/shortcodes/preview-slider/assets/js/plugins/slick.mind42d.js?ver=6.0.8' id='slick-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-includes/js/jquery/ui/datepicker.min0028.js?ver=1.13.1' id='jquery-ui-datepicker-js'></script>
-    <script type='text/javascript' id='jquery-ui-datepicker-js-after'>
-        jQuery(function(jQuery) {
-            jQuery.datepicker.setDefaults({
-                "closeText": "Close",
-                "currentText": "Today",
-                "monthNames": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
-                "monthNamesShort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
-                "nextText": "Next",
-                "prevText": "Previous",
-                "dayNames": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-                "dayNamesShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-                "dayNamesMin": ["S", "M", "T", "W", "T", "F", "S"],
-                "dateFormat": "MM d, yy",
-                "firstDay": 1,
-                "isRTL": false
-            });
-        });
-    </script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/woocommerce/assets/js/select2/select2.full.minfa0c.js?ver=4.0.3' id='select2-js'></script>
     <script type='text/javascript' id='laurent-elated-google-map-api-js-before'>
         window.qodefEmptyCallback = function() {};
@@ -2280,30 +1633,9 @@
         /* ]]> */
     </script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/themes/laurent/assets/js/modules.mind42d.js?ver=6.0.8' id='laurent-elated-modules-js'></script>
-    <script type="text/javascript" src="{{asset('front')}}/../static.zdassets.com/ekr/snippete594.js?key=af3078fd-a5ae-40da-bee0-e589b98c8603&amp;ver=6.0.8" id="ze-snippet"></script>
-    <script type="text/javascript">
-        zE(function() {
-            $zopim(function() {
-                var isChatEnabled = sessionStorage.getItem("qodeChatEnabled"),
-                    appearingTime = 15000;
-
-                if (isChatEnabled !== "no" && window.innerWidth > 1024) {
-                    setTimeout(function() {
-                        $zopim.livechat.window.show();
-
-                        $zopim.livechat.window.onHide(function() {
-                            sessionStorage.setItem("qodeChatEnabled", "no");
-                        });
-                    }, appearingTime);
-                }
-            });
-        });
-    </script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min9b2d.js?ver=6.1' id='wpb_composer_front_js-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/laurent-core/shortcodes/countdown/assets/js/plugins/jquery.plugind42d.js?ver=6.0.8' id='jquery-plugin-js'></script>
     <script type='text/javascript' src='{{asset("front")}}/wp-content/plugins/laurent-core/shortcodes/countdown/assets/js/plugins/jquery.countdown.mind42d.js?ver=6.0.8' id='countdown-js'></script>
 </body>
-
-<!-- Mirrored from laurent.qodeinteractive.com/bar-home/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Jun 2024 21:44:36 GMT -->
 
 </html>
