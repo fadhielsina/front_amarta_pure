@@ -1128,7 +1128,7 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="eltdf-eh-item eltdf-bar-home-reveal-image   eltdf-element-from-top" style="background-image: url(<?= asset('front') ?>/wp-content/uploads/2019/12/amarta_refill.webp)" data-item-class="eltdf-eh-custom-7125" data-animation="eltdf-element-from-top" data-1400-1600="0 0" data-1025-1399="0 0" data-769-1024="45% 0" data-681-768="60% 0" data-680="70% 0">
+                                                                <div class="eltdf-eh-item eltdf-bar-home-reveal-image   eltdf-element-from-top" style="background-image: url(<?= asset('front') ?>/wp-content/uploads/2019/12/amarta_refill.png)" data-item-class="eltdf-eh-custom-7125" data-animation="eltdf-element-from-top" data-1400-1600="0 0" data-1025-1399="0 0" data-769-1024="45% 0" data-681-768="60% 0" data-680="70% 0">
                                                                     <div class="eltdf-eh-item-inner">
                                                                         <div class="eltdf-eh-item-content eltdf-eh-custom-7125" style="padding: 0 14px">
                                                                         </div>
