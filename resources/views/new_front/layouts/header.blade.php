@@ -106,16 +106,16 @@
                         <a href="{{url('about-us')}}" class="eltdf-mobile-no-link"><span>About Us</span></a>
                     </li>
                     <li id="mobile-menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('waralaba') ? 'current-menu-ancestor' : '' }}">
-                        <a href="#" class=" eltdf-mobile-no-link"><span>Waralaba</span></a>
+                        <a href="{{url('waralaba')}}" class=" eltdf-mobile-no-link"><span>Waralaba</span></a>
                     </li>
                     <li id="mobile-menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('blog') ? 'current-menu-ancestor' : '' }}">
-                        <a href="#" class=" eltdf-mobile-no-link"><span>Blog</span></a>
+                        <a href="{{url('blog')}}" class=" eltdf-mobile-no-link"><span>Blog</span></a>
                     </li>
                     <li id="mobile-menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('pakar') ? 'current-menu-ancestor' : '' }}">
-                        <a href="#" class=" eltdf-mobile-no-link"><span>Pakar</span></a>
+                        <a href="{{url('pakar')}}" class=" eltdf-mobile-no-link"><span>Pakar</span></a>
                     </li>
                     <li id="mobile-menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('contact-us') ? 'current-menu-ancestor' : '' }}">
-                        <a href="#" class=" eltdf-mobile-no-link"><span>Contact</span></a>
+                        <a href="{{url('contact-us')}}" class=" eltdf-mobile-no-link"><span>Contact</span></a>
                     </li>
                 </ul>
             </div>
