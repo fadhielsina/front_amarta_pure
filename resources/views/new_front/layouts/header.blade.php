@@ -29,9 +29,9 @@
                             <li id="nav-menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('blog') ? 'eltdf-active-item' : '' }}">
                                 <a href="{{url('blog')}}" class=""><span class="item_outer"><span class="item_text">Blog</span></span></a>
                             </li>
-                            <li id="nav-menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('pakar') ? 'eltdf-active-item' : '' }}">
+                            <!-- <li id="nav-menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('pakar') ? 'eltdf-active-item' : '' }}">
                                 <a href="{{url('pakar')}}" class=""><span class="item_outer"><span class="item_text">Pakar</span></span></a>
-                            </li>
+                            </li> -->
                             <li id="nav-menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('contact-us') ? 'eltdf-active-item' : '' }}">
                                 <a href="{{url('contact-us')}}" class=""><span class="item_outer"><span class="item_text">Contact</span></span></a>
                             </li>
@@ -59,7 +59,7 @@
     </div>
 </header>
 
-<!-- Mobilee -->
+<!-- Mobile -->
 <header class="eltdf-mobile-header">
     <div class="eltdf-mobile-header-inner">
         <div class="eltdf-mobile-header-holder">
@@ -111,9 +111,9 @@
                     <li id="mobile-menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('blog') ? 'current-menu-ancestor' : '' }}">
                         <a href="{{url('blog')}}" class=" eltdf-mobile-no-link"><span>Blog</span></a>
                     </li>
-                    <li id="mobile-menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('pakar') ? 'current-menu-ancestor' : '' }}">
+                    <!-- <li id="mobile-menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('pakar') ? 'current-menu-ancestor' : '' }}">
                         <a href="{{url('pakar')}}" class=" eltdf-mobile-no-link"><span>Pakar</span></a>
-                    </li>
+                    </li> -->
                     <li id="mobile-menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom {{ request()->is('contact-us') ? 'current-menu-ancestor' : '' }}">
                         <a href="{{url('contact-us')}}" class=" eltdf-mobile-no-link"><span>Contact</span></a>
                     </li>

@@ -624,8 +624,8 @@
             <div id="text-6" class="widget eltdf-sidearea widget_text">
                 <div class="textwidget">
                     <p style="line-height: 36px;">Amarta Pure,<br />
-                        <a href="https://maps.app.goo.gl/u6EmKXVzfSAZsz8i6" target="_blank" rel="noopener noreferrer">
-                            Jl. Bujanggamanik Kav. No.60 Ruko Pancawarna / Samping IKEA,Kota Baru Parahyangan – Jawa Barat 40553,
+                        <a href="https://maps.app.goo.gl/DsZU9EaqgyhbQYtp7" target="_blank" rel="noopener noreferrer">
+                            Jalan Ciawitali No. 45, Kelurahan Citeureup, Kecamatan Cimahi Utara, Kota Cimahi, Jawa Barat,
                         </a><br /> <br>
                         <a href="https://wa.me/08118877225"> +62 811 887 7225, </a><br /> <br>
                         Senin &#8211; Jumat : 09.00 &#8211; 20:00<br />

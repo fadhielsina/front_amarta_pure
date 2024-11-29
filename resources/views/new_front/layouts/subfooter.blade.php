@@ -26,8 +26,8 @@
                                 <div class="wpb_text_column wpb_content_element ">
                                     <div class="wpb_wrapper">
                                         <p>
-                                            <a href="https://maps.app.goo.gl/u6EmKXVzfSAZsz8i6" target="_blank" rel="noopener noreferrer">
-                                                Jl. Bujanggamanik Kav. No.60 Ruko Pancawarna / Samping IKEA,Kota Baru Parahyangan – Kertajaya, Kec. Padalarang Kabupaten Bandung Barat, Jawa Barat 40553,
+                                            <a href="https://maps.app.goo.gl/DsZU9EaqgyhbQYtp7" target="_blank" rel="noopener noreferrer">
+                                                Jalan Ciawitali No. 45, Kelurahan Citeureup, Kecamatan Cimahi Utara, Kota Cimahi, Jawa Barat,
                                             </a>
                                             <br>
                                             <a href="mailto:info@amartapure.com">info@amartapure.com,</a>
